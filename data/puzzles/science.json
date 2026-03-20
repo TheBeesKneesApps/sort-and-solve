@@ -1,0 +1,2302 @@
+[
+  {
+    "id": "science_001",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Planets in our solar system",
+        "words": [
+          "MERCURY",
+          "VENUS",
+          "SATURN",
+          "NEPTUNE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of cloud",
+        "words": [
+          "CIRRUS",
+          "STRATUS",
+          "CUMULUS",
+          "NIMBUS"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to shine'",
+        "words": [
+          "GLOW",
+          "BEAM",
+          "GLEAM",
+          "RADIATE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ light",
+        "words": [
+          "STAR",
+          "MOON",
+          "SUN",
+          "FLASH"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_002",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Parts of a cell",
+        "words": [
+          "NUCLEUS",
+          "MEMBRANE",
+          "RIBOSOME",
+          "CYTOPLASM"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of rock",
+        "words": [
+          "IGNEOUS",
+          "BASALT",
+          "GRANITE",
+          "MARBLE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to harden'",
+        "words": [
+          "SOLIDIFY",
+          "PETRIFY",
+          "CALCIFY",
+          "FOSSILIZE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ cell",
+        "words": [
+          "FUEL",
+          "BLOOD",
+          "STEM",
+          "SOLAR"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_003",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Types of tree",
+        "words": [
+          "MAPLE",
+          "CEDAR",
+          "WILLOW",
+          "SPRUCE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Lab equipment",
+        "words": [
+          "BEAKER",
+          "FLASK",
+          "PIPETTE",
+          "BURNER"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Types of stew",
+        "words": [
+          "GUMBO",
+          "RAGOUT",
+          "CHOWDER",
+          "BISQUE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ field",
+        "words": [
+          "FORCE",
+          "MAGNET",
+          "MINE",
+          "CORN"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_004",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Ocean creatures",
+        "words": [
+          "JELLYFISH",
+          "OCTOPUS",
+          "URCHIN",
+          "CORAL"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Weather phenomena",
+        "words": [
+          "TORNADO",
+          "MONSOON",
+          "CYCLONE",
+          "TYPHOON"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a barbecue",
+        "words": [
+          "TONGS",
+          "SKEWER",
+          "CHARCOAL",
+          "MARINADE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ wave",
+        "words": [
+          "HEAT",
+          "SHOCK",
+          "TIDAL",
+          "BRAIN"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_005",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Parts of a flower",
+        "words": [
+          "PETAL",
+          "STAMEN",
+          "PISTIL",
+          "SEPAL"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Elements (precious metals)",
+        "words": [
+          "GOLD",
+          "SILVER",
+          "PLATINUM",
+          "COPPER"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to gleam'",
+        "words": [
+          "GLINT",
+          "GLIMMER",
+          "SPARKLE",
+          "TWINKLE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ ring",
+        "words": [
+          "TREE",
+          "SATURN",
+          "BOXING",
+          "KEY"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_006",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Bones in the body",
+        "words": [
+          "FEMUR",
+          "TIBIA",
+          "FIBULA",
+          "PATELLA"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of volcano",
+        "words": [
+          "SHIELD",
+          "DORMANT",
+          "ACTIVE",
+          "EXTINCT"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to guard'",
+        "words": [
+          "PROTECT",
+          "DEFEND",
+          "SHELTER",
+          "SECURE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ chain",
+        "words": [
+          "FOOD",
+          "SUPPLY",
+          "MOUNTAIN",
+          "DAISY"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_007",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Types of biome",
+        "words": [
+          "TUNDRA",
+          "SAVANNA",
+          "TAIGA",
+          "STEPPE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Scientific tools",
+        "words": [
+          "COMPASS",
+          "PRISM",
+          "MAGNET",
+          "SCALE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a marina",
+        "words": [
+          "HULL",
+          "BOOM",
+          "MAST",
+          "KEEL"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ scale",
+        "words": [
+          "RICHTER",
+          "MOHS",
+          "GRAND",
+          "SLIDING"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_008",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Parts of an atom",
+        "words": [
+          "PROTON",
+          "NEUTRON",
+          "ELECTRON",
+          "QUARK"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of bird call",
+        "words": [
+          "CHIRP",
+          "WARBLE",
+          "SCREECH",
+          "CACKLE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to fret'",
+        "words": [
+          "AGONIZE",
+          "STEW",
+          "FUSS",
+          "BROOD"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ bond",
+        "words": [
+          "IONIC",
+          "COVALENT",
+          "DOUBLE",
+          "HYDROGEN"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_009",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Layers of the atmosphere",
+        "words": [
+          "TROPO",
+          "STRATO",
+          "MESO",
+          "THERMO"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Garden pests",
+        "words": [
+          "APHID",
+          "SLUG",
+          "MITE",
+          "WEEVIL"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Types of collar",
+        "words": [
+          "MANDARIN",
+          "PETER",
+          "WING",
+          "FLEA"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ sphere",
+        "words": [
+          "ATMO",
+          "BIO",
+          "HEMI",
+          "LITHO"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_010",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Types of fossil",
+        "words": [
+          "AMBER",
+          "TRACE",
+          "MOLD",
+          "CAST"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Ecosystem roles",
+        "words": [
+          "PRODUCER",
+          "CONSUMER",
+          "PREDATOR",
+          "PARASITE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to scatter'",
+        "words": [
+          "STREW",
+          "SPRINKLE",
+          "DISPERSE",
+          "SPLAY"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a math term",
+        "words": [
+          "FACTOR",
+          "ROOT",
+          "PRODUCT",
+          "PRIME"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_011",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Types of chemical reaction",
+        "words": [
+          "FUSION",
+          "FISSION",
+          "OXIDATION",
+          "SYNTHESIS"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Endangered species",
+        "words": [
+          "PANDA",
+          "CONDOR",
+          "RHINO",
+          "VAQUITA"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to merge'",
+        "words": [
+          "COMBINE",
+          "UNITE",
+          "BLEND",
+          "MELD"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ reaction",
+        "words": [
+          "CHAIN",
+          "KNEE",
+          "GUT",
+          "SPLIT"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_012",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Parts of the brain",
+        "words": [
+          "CORTEX",
+          "LOBE",
+          "STEM",
+          "CEREBELLUM"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of soil",
+        "words": [
+          "CLAY",
+          "LOAM",
+          "SILT",
+          "PEAT"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a rodeo",
+        "words": [
+          "LASSO",
+          "BRONCO",
+          "CHAPS",
+          "BUCKLE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden tree inside",
+        "words": [
+          "OAKEN",
+          "BASHFUL",
+          "HELMET",
+          "FIRKIN"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_013",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Types of energy",
+        "words": [
+          "KINETIC",
+          "THERMAL",
+          "NUCLEAR",
+          "SOLAR"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Animal group names",
+        "words": [
+          "PRIDE",
+          "COLONY",
+          "FLOCK",
+          "SWARM"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to overwhelm'",
+        "words": [
+          "SWAMP",
+          "ENGULF",
+          "INUNDATE",
+          "DELUGE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ power",
+        "words": [
+          "WIND",
+          "HYDRO",
+          "HORSE",
+          "FIRE"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_014",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Parts of the digestive system",
+        "words": [
+          "STOMACH",
+          "LIVER",
+          "PANCREAS",
+          "INTESTINE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of crystal",
+        "words": [
+          "QUARTZ",
+          "TOPAZ",
+          "GARNET",
+          "ONYX"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to polish'",
+        "words": [
+          "BUFF",
+          "BURNISH",
+          "GLOSS",
+          "HONE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a punctuation mark",
+        "words": [
+          "DASH",
+          "COLON",
+          "SLASH",
+          "PERIOD"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_015",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Types of galaxy",
+        "words": [
+          "SPIRAL",
+          "DWARF",
+          "ELLIPTIC",
+          "BARRED"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Adaptations in nature",
+        "words": [
+          "CAMOUFLAGE",
+          "MIMICRY",
+          "VENOM",
+          "THORNS"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to confuse'",
+        "words": [
+          "MUDDLE",
+          "BEFUDDLE",
+          "PERPLEX",
+          "BAMBOOZLE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ system",
+        "words": [
+          "SOLAR",
+          "NERVOUS",
+          "IMMUNE",
+          "METRIC"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_016",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Taxonomy levels",
+        "words": [
+          "KINGDOM",
+          "PHYLUM",
+          "CLASS",
+          "ORDER"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of wave (physics)",
+        "words": [
+          "SOUND",
+          "RADIO",
+          "GAMMA",
+          "MICRO"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things in a courtyard",
+        "words": [
+          "FOUNTAIN",
+          "BENCH",
+          "STATUE",
+          "COBBLES"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ order",
+        "words": [
+          "PECKING",
+          "TALL",
+          "COURT",
+          "MAIL"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_017",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Types of symbiosis",
+        "words": [
+          "MUTUALISM",
+          "PARASITISM",
+          "PREDATION",
+          "COMMENSALISM"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Geological eras",
+        "words": [
+          "JURASSIC",
+          "TRIASSIC",
+          "CAMBRIAN",
+          "PERMIAN"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to celebrate'",
+        "words": [
+          "REJOICE",
+          "REVEL",
+          "TOAST",
+          "FEAST"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Grand ___",
+        "words": [
+          "JURY",
+          "PIANO",
+          "PRIX",
+          "CANYON"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_018",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Parts of the eye",
+        "words": [
+          "CORNEA",
+          "RETINA",
+          "PUPIL",
+          "LENS"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of migration",
+        "words": [
+          "SEASONAL",
+          "NOMADIC",
+          "VERTICAL",
+          "PARTIAL"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to captivate'",
+        "words": [
+          "MESMERIZE",
+          "ENTHRALL",
+          "RIVET",
+          "GRIP"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a flower",
+        "words": [
+          "IRIS",
+          "DAISY",
+          "POPPY",
+          "VIOLET"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_019",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Stages of the water cycle",
+        "words": [
+          "EVAPORATE",
+          "CONDENSE",
+          "PRECIPITATE",
+          "COLLECT"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of habitat",
+        "words": [
+          "WETLAND",
+          "REEF",
+          "CANOPY",
+          "BURROW"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a wedding",
+        "words": [
+          "BOUQUET",
+          "ALTAR",
+          "VEIL",
+          "TOAST"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden color inside",
+        "words": [
+          "GREENLY",
+          "RUSTLE",
+          "TANGENT",
+          "GOLDEN"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_020",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Types of force (physics)",
+        "words": [
+          "GRAVITY",
+          "FRICTION",
+          "TENSION",
+          "THRUST"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Insect body parts",
+        "words": [
+          "THORAX",
+          "ANTENNA",
+          "MANDIBLE",
+          "ABDOMEN"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to push'",
+        "words": [
+          "SHOVE",
+          "PROPEL",
+          "HEAVE",
+          "NUDGE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ force",
+        "words": [
+          "TASK",
+          "WORK",
+          "BRUTE",
+          "DRIVING"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_021",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "DNA/genetics terms",
+        "words": [
+          "GENOME",
+          "ALLELE",
+          "CODON",
+          "HELIX"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of erosion",
+        "words": [
+          "GLACIAL",
+          "COASTAL",
+          "FLUVIAL",
+          "CHEMICAL"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things on a bicycle",
+        "words": [
+          "SPOKE",
+          "PEDAL",
+          "FENDER",
+          "BRAKE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ code",
+        "words": [
+          "GENETIC",
+          "AREA",
+          "DRESS",
+          "MORSE"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_022",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Types of marine life",
+        "words": [
+          "PLANKTON",
+          "KELP",
+          "ANEMONE",
+          "BARNACLE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Newton's law concepts",
+        "words": [
+          "INERTIA",
+          "MASS",
+          "VELOCITY",
+          "MOMENTUM"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to falter'",
+        "words": [
+          "BUCKLE",
+          "CRUMBLE",
+          "WOBBLE",
+          "STUMBLE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ mass",
+        "words": [
+          "LAND",
+          "CRITICAL",
+          "BODY",
+          "AIR"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_023",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Photosynthesis inputs/outputs",
+        "words": [
+          "OXYGEN",
+          "CARBON",
+          "GLUCOSE",
+          "SUNLIGHT"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of feather",
+        "words": [
+          "DOWN",
+          "CONTOUR",
+          "FLIGHT",
+          "PLUME"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to drift'",
+        "words": [
+          "FLOAT",
+          "GLIDE",
+          "COAST",
+          "CRUISE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ down",
+        "words": [
+          "BREAK",
+          "LOCK",
+          "COUNT",
+          "TOUCH"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_024",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Types of natural disaster",
+        "words": [
+          "TSUNAMI",
+          "AVALANCHE",
+          "ERUPTION",
+          "DROUGHT"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Human body systems",
+        "words": [
+          "NERVOUS",
+          "IMMUNE",
+          "SKELETAL",
+          "LYMPHATIC"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a farm stand",
+        "words": [
+          "CIDER",
+          "SQUASH",
+          "PEACHES",
+          "HONEY"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden bird inside",
+        "words": [
+          "CROWBAR",
+          "EMULATE",
+          "WRENCH",
+          "HAWKING"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_025",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Units of measurement",
+        "words": [
+          "KELVIN",
+          "PASCAL",
+          "JOULE",
+          "NEWTON"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of pollination",
+        "words": [
+          "WIND",
+          "INSECT",
+          "BIRD",
+          "WATER"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to examine'",
+        "words": [
+          "PROBE",
+          "INSPECT",
+          "SURVEY",
+          "SCAN"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a card game",
+        "words": [
+          "SNAP",
+          "SPIT",
+          "WAR",
+          "SPEED"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_026",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Types of chemical bond",
+        "words": [
+          "IONIC",
+          "COVALENT",
+          "METALLIC",
+          "HYDROGEN"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Animal defense mechanisms",
+        "words": [
+          "CAMOUFLAGE",
+          "MIMICRY",
+          "VENOM",
+          "QUILL"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to strengthen'",
+        "words": [
+          "BOLSTER",
+          "FORTIFY",
+          "BRACE",
+          "REINFORCE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden country inside",
+        "words": [
+          "WOMANLY",
+          "INCUBATE",
+          "PERUSE",
+          "MALIGNED"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_027",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Plate tectonic terms",
+        "words": [
+          "RIFT",
+          "TRENCH",
+          "FAULT",
+          "RIDGE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of microscope",
+        "words": [
+          "ELECTRON",
+          "COMPOUND",
+          "STEREO",
+          "SCANNING"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to wither'",
+        "words": [
+          "WILT",
+          "DROOP",
+          "SHRIVEL",
+          "LANGUISH"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also means 'a flaw'",
+        "words": [
+          "GLITCH",
+          "DEFECT",
+          "CRACK",
+          "FLAW"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_028",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "States of matter",
+        "words": [
+          "SOLID",
+          "LIQUID",
+          "PLASMA",
+          "GAS"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of plant reproduction",
+        "words": [
+          "SPORE",
+          "SEED",
+          "BULB",
+          "CUTTING"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things in a vineyard",
+        "words": [
+          "GRAPE",
+          "VINE",
+          "BARREL",
+          "CORK"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ state",
+        "words": [
+          "STEADY",
+          "DEEP",
+          "DREAM",
+          "GOLDEN"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_029",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Types of star",
+        "words": [
+          "DWARF",
+          "GIANT",
+          "PULSAR",
+          "QUASAR"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Periodic table groups",
+        "words": [
+          "NOBLE",
+          "ALKALI",
+          "HALOGEN",
+          "ACTINIDE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to demolish'",
+        "words": [
+          "RAZE",
+          "LEVEL",
+          "FLATTEN",
+          "GUT"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden gem inside",
+        "words": [
+          "JADED",
+          "AMBERJACK",
+          "OPALINE",
+          "PEARLY"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_030",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Oceanography terms",
+        "words": [
+          "CURRENT",
+          "SALINITY",
+          "TRENCH",
+          "GYRE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of mutation",
+        "words": [
+          "DELETION",
+          "INSERTION",
+          "FRAMESHIFT",
+          "POINT"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to swindle'",
+        "words": [
+          "FLEECE",
+          "HUSTLE",
+          "BILK",
+          "DEFRAUD"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ point",
+        "words": [
+          "BOILING",
+          "MELTING",
+          "FOCAL",
+          "TURNING"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_031",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Types of tissue",
+        "words": [
+          "MUSCLE",
+          "NERVE",
+          "BONE",
+          "SKIN"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Ecological succession terms",
+        "words": [
+          "PIONEER",
+          "CLIMAX",
+          "PRIMARY",
+          "SECONDARY"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things that bloom",
+        "words": [
+          "TULIP",
+          "ORCHID",
+          "DAISY",
+          "LILY"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden instrument inside",
+        "words": [
+          "SHARPIE",
+          "ORGANIC",
+          "DISSOLUTE",
+          "PIPETTE"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_032",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Layers of the earth",
+        "words": [
+          "CRUST",
+          "MANTLE",
+          "CORE",
+          "MAGMA"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of renewable energy",
+        "words": [
+          "SOLAR",
+          "WIND",
+          "TIDAL",
+          "GEOTHERMAL"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to quash'",
+        "words": [
+          "SUPPRESS",
+          "SQUELCH",
+          "SMOTHER",
+          "QUELL"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a piece of clothing",
+        "words": [
+          "SLEEVE",
+          "CAP",
+          "BELT",
+          "SOLE"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_033",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Types of evolution",
+        "words": [
+          "NATURAL",
+          "ARTIFICIAL",
+          "CONVERGENT",
+          "DIVERGENT"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Weather instruments",
+        "words": [
+          "BAROMETER",
+          "ANEMOMETER",
+          "HYGROMETER",
+          "THERMOMETER"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a dock",
+        "words": [
+          "PIER",
+          "WHARF",
+          "BOLLARD",
+          "JETTY"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden month inside",
+        "words": [
+          "NOVICE",
+          "AUGMENT",
+          "MARCHING",
+          "DISMAY"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_034",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Types of animal teeth",
+        "words": [
+          "CANINE",
+          "MOLAR",
+          "INCISOR",
+          "TUSK"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Astronomy terms",
+        "words": [
+          "NEBULA",
+          "ECLIPSE",
+          "ORBIT",
+          "ZENITH"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to enchant'",
+        "words": [
+          "BEWITCH",
+          "CHARM",
+          "BEGUILE",
+          "ENTRANCE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden body part inside",
+        "words": [
+          "WRISTED",
+          "ELBOWED",
+          "HIPSTER",
+          "ANKLET"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_035",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Types of cloud formation",
+        "words": [
+          "CIRRUS",
+          "CUMULUS",
+          "STRATUS",
+          "NIMBUS"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Scientific method steps",
+        "words": [
+          "HYPOTHESIS",
+          "EXPERIMENT",
+          "OBSERVE",
+          "CONCLUDE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to provoke'",
+        "words": [
+          "GOAD",
+          "INCITE",
+          "INFLAME",
+          "NEEDLE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden planet inside",
+        "words": [
+          "MARSHY",
+          "HEARTH",
+          "SATURNINE",
+          "PLUTOCRAT"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_036",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Types of leaf shape",
+        "words": [
+          "OVAL",
+          "LANCE",
+          "NEEDLE",
+          "HEART"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Lab safety equipment",
+        "words": [
+          "GOGGLE",
+          "APRON",
+          "GLOVE",
+          "EXTINGUISH"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to tremble'",
+        "words": [
+          "QUAKE",
+          "SHIVER",
+          "QUIVER",
+          "TREMOR"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden car brand inside",
+        "words": [
+          "OXFORD",
+          "AUDIBLE",
+          "MINISTER",
+          "JEEPERS"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_037",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Biochemistry molecules",
+        "words": [
+          "ENZYME",
+          "PROTEIN",
+          "LIPID",
+          "GLUCOSE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of animal migration",
+        "words": [
+          "FLYWAY",
+          "CORRIDOR",
+          "ROUTE",
+          "PASSAGE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a circus",
+        "words": [
+          "TRAPEZE",
+          "STILTS",
+          "CANNON",
+          "JUGGLER"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden sport inside",
+        "words": [
+          "GOLFING",
+          "POLOIST",
+          "UNBOXING",
+          "CRICKETER"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_038",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Types of pollutant",
+        "words": [
+          "SMOG",
+          "RUNOFF",
+          "CARBON",
+          "OZONE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Coral reef inhabitants",
+        "words": [
+          "CLOWNFISH",
+          "MORAY",
+          "GROUPER",
+          "STARFISH"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to meander'",
+        "words": [
+          "RAMBLE",
+          "STROLL",
+          "SAUNTER",
+          "AMBLE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ cycle",
+        "words": [
+          "WATER",
+          "ROCK",
+          "LIFE",
+          "NEWS"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_039",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Types of immunity",
+        "words": [
+          "INNATE",
+          "ADAPTIVE",
+          "PASSIVE",
+          "HERD"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Volcano parts",
+        "words": [
+          "CRATER",
+          "VENT",
+          "CHAMBER",
+          "CONDUIT"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things in a garden",
+        "words": [
+          "HEDGE",
+          "PERGOLA",
+          "PATIO",
+          "MULCH"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden animal inside",
+        "words": [
+          "SCOWLING",
+          "RAMPANT",
+          "FOXHOUND",
+          "CANTATA"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_040",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Types of enzyme",
+        "words": [
+          "LIPASE",
+          "PROTEASE",
+          "AMYLASE",
+          "KINASE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Geological features",
+        "words": [
+          "CANYON",
+          "GLACIER",
+          "PLATEAU",
+          "DELTA"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to exhaust'",
+        "words": [
+          "DEPLETE",
+          "DRAIN",
+          "SAP",
+          "FATIGUE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden Greek letter inside",
+        "words": [
+          "CHIPMUNK",
+          "ALPHABET",
+          "DETAIN",
+          "MUFFLE"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_041",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Quantum physics terms",
+        "words": [
+          "ENTANGLE",
+          "SUPERPOSE",
+          "COLLAPSE",
+          "TUNNELING"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of seed dispersal",
+        "words": [
+          "WIND",
+          "WATER",
+          "ANIMAL",
+          "GRAVITY"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to shatter'",
+        "words": [
+          "SMASH",
+          "FRACTURE",
+          "SPLINTER",
+          "DEMOLISH"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden fruit inside",
+        "words": [
+          "DEPLUME",
+          "FIGMENT",
+          "PEARLY",
+          "LEMONADE"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_042",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "CRISPR/gene editing terms",
+        "words": [
+          "SPLICE",
+          "EDIT",
+          "TARGET",
+          "SEQUENCE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Deep ocean zones",
+        "words": [
+          "ABYSSAL",
+          "HADAL",
+          "BATHYAL",
+          "PELAGIC"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to galvanize'",
+        "words": [
+          "ELECTRIFY",
+          "INVIGORATE",
+          "ENERGIZE",
+          "CATALYZE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden vegetable inside",
+        "words": [
+          "ACORN",
+          "SLEEKLY",
+          "BEETLE",
+          "PEACHY"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_043",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Types of radiation",
+        "words": [
+          "ALPHA",
+          "BETA",
+          "GAMMA",
+          "COSMIC"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Animal locomotion types",
+        "words": [
+          "SLITHER",
+          "GALLOP",
+          "BURROW",
+          "GLIDE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to bewilder'",
+        "words": [
+          "MYSTIFY",
+          "CONFOUND",
+          "NONPLUS",
+          "STYMIE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a famous composer",
+        "words": [
+          "BACH",
+          "HANDEL",
+          "HOLST",
+          "ELGAR"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_044",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Thermodynamics terms",
+        "words": [
+          "ENTROPY",
+          "ENTHALPY",
+          "ADIABATIC",
+          "ISOTHERMAL"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of wetland",
+        "words": [
+          "MARSH",
+          "BOG",
+          "FEN",
+          "SWAMP"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things that can be 'double'",
+        "words": [
+          "AGENT",
+          "DECKER",
+          "EDGED",
+          "DUTCH"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden color inside",
+        "words": [
+          "GREENLY",
+          "RUSTLE",
+          "TANGENT",
+          "GOLDEN"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_045",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Organic chemistry groups",
+        "words": [
+          "METHYL",
+          "ETHYL",
+          "PHENOL",
+          "KETONE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Raptor species",
+        "words": [
+          "OSPREY",
+          "KESTREL",
+          "HARRIER",
+          "MERLIN"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things with a ring",
+        "words": [
+          "SATURN",
+          "ONION",
+          "CIRCUS",
+          "BINDER"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ fly",
+        "words": [
+          "BUTTER",
+          "MAY",
+          "BAR",
+          "DRAGON"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_046",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Types of speciation",
+        "words": [
+          "ALLOPATRIC",
+          "SYMPATRIC",
+          "PERIPATRIC",
+          "PARAPATRIC"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Mineral hardness scale (minerals)",
+        "words": [
+          "TALC",
+          "GYPSUM",
+          "CALCITE",
+          "TOPAZ"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to ransack'",
+        "words": [
+          "PILLAGE",
+          "PLUNDER",
+          "LOOT",
+          "RAVAGE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden tree inside",
+        "words": [
+          "OAKEN",
+          "BASHFUL",
+          "HELMET",
+          "FIRKIN"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_047",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Cell division phases",
+        "words": [
+          "PROPHASE",
+          "METAPHASE",
+          "ANAPHASE",
+          "TELOPHASE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of glacier feature",
+        "words": [
+          "MORAINE",
+          "CREVASSE",
+          "CIRQUE",
+          "DRUMLIN"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to celebrate'",
+        "words": [
+          "REJOICE",
+          "REVEL",
+          "TOAST",
+          "FEAST"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden car brand inside",
+        "words": [
+          "OXFORD",
+          "AUDIBLE",
+          "MINISTER",
+          "JEEPERS"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_048",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Ecology population terms",
+        "words": [
+          "NICHE",
+          "DENSITY",
+          "CARRYING",
+          "DISPERSAL"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of volcano eruption",
+        "words": [
+          "EFFUSIVE",
+          "EXPLOSIVE",
+          "PHREATIC",
+          "STROMBOLIAN"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to captivate'",
+        "words": [
+          "MESMERIZE",
+          "ENTHRALL",
+          "RIVET",
+          "GRIP"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ mate",
+        "words": [
+          "CHECK",
+          "ROOM",
+          "STALE",
+          "PLAY"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_049",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Types of chemical catalyst",
+        "words": [
+          "ENZYME",
+          "PLATINUM",
+          "ACID",
+          "IRON"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Paleontology periods",
+        "words": [
+          "JURASSIC",
+          "TRIASSIC",
+          "CRETACEOUS",
+          "DEVONIAN"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to obliterate'",
+        "words": [
+          "ANNIHILATE",
+          "ERADICATE",
+          "DECIMATE",
+          "DEMOLISH"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden month inside",
+        "words": [
+          "NOVICE",
+          "AUGMENT",
+          "MARCHING",
+          "DISMAY"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "science_050",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Einstein's physics concepts",
+        "words": [
+          "RELATIVITY",
+          "PHOTON",
+          "SPACETIME",
+          "QUANTUM"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of marine biome",
+        "words": [
+          "ESTUARY",
+          "INTERTIDAL",
+          "BENTHIC",
+          "NERITIC"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a construction site",
+        "words": [
+          "SCAFFOLD",
+          "GIRDER",
+          "CEMENT",
+          "CRANE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden planet inside",
+        "words": [
+          "MARSHY",
+          "HEARTH",
+          "SATURNINE",
+          "PLUTOCRAT"
+        ],
+        "difficulty": 4
+      }
+    ]
+  }
+]

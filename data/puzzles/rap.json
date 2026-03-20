@@ -1,0 +1,2302 @@
+[
+  {
+    "id": "hiphop_001",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Things a DJ uses",
+        "words": [
+          "TURNTABLE",
+          "MIXER",
+          "CROSSFADER",
+          "VINYL"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Hip hop dance moves",
+        "words": [
+          "BREAKDANCE",
+          "ROBOT",
+          "TOPROCK",
+          "WINDMILL"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to shine'",
+        "words": [
+          "GLOW",
+          "BEAM",
+          "GLEAM",
+          "RADIATE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ beat",
+        "words": [
+          "DRUM",
+          "DEAD",
+          "HEART",
+          "OFF"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_002",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Parts of a rap song",
+        "words": [
+          "VERSE",
+          "CHORUS",
+          "BRIDGE",
+          "HOOK"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Hip hop slang for money",
+        "words": [
+          "BREAD",
+          "GUAP",
+          "CHEDDAR",
+          "BANDS"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Types of bread",
+        "words": [
+          "SOURDOUGH",
+          "BRIOCHE",
+          "FOCACCIA",
+          "NAAN"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ bar",
+        "words": [
+          "HANDLE",
+          "CROW",
+          "CANDY",
+          "GOLD"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_003",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Rap flow styles",
+        "words": [
+          "TRIPLET",
+          "DOUBLE",
+          "CHOPPED",
+          "MUMBLE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Record label types",
+        "words": [
+          "INDIE",
+          "MAJOR",
+          "VANITY",
+          "BOUTIQUE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a zoo",
+        "words": [
+          "AVIARY",
+          "HABITAT",
+          "KEEPER",
+          "EXHIBIT"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ track",
+        "words": [
+          "FAST",
+          "BACK",
+          "SIDE",
+          "SOUND"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_004",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Hip hop fashion staples",
+        "words": [
+          "CHAIN",
+          "FITTED",
+          "JORDAN",
+          "HOODIE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Rap battle terms",
+        "words": [
+          "CLASH",
+          "ROUND",
+          "REBUTTAL",
+          "CHOKE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to flee'",
+        "words": [
+          "BOLT",
+          "ESCAPE",
+          "EVADE",
+          "DODGE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ gold",
+        "words": [
+          "SOLID",
+          "POT",
+          "RUSH",
+          "RECORD"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_005",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Things in a recording booth",
+        "words": [
+          "MICROPHONE",
+          "HEADPHONES",
+          "FILTER",
+          "MONITOR"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Graffiti terms",
+        "words": [
+          "TAG",
+          "THROW",
+          "PIECE",
+          "WILDSTYLE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things in a greenhouse",
+        "words": [
+          "SEEDLING",
+          "POTTING",
+          "COMPOST",
+          "TRELLIS"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ name",
+        "words": [
+          "STAGE",
+          "CODE",
+          "NICK",
+          "FIRST"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_006",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Beatboxing sounds",
+        "words": [
+          "KICK",
+          "SNARE",
+          "HIHAT",
+          "BASS"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Hip hop eras",
+        "words": [
+          "GOLDEN",
+          "GANGSTA",
+          "BOOM",
+          "TRAP"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to scatter'",
+        "words": [
+          "STREW",
+          "SPRINKLE",
+          "DISPERSE",
+          "SPLAY"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ drop",
+        "words": [
+          "MIC",
+          "NAME",
+          "BEAT",
+          "JAW"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_007",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Rap album types",
+        "words": [
+          "MIXTAPE",
+          "STUDIO",
+          "LIVE",
+          "DELUXE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Freestyle rap terms",
+        "words": [
+          "CIPHER",
+          "BOOTH",
+          "FLOW",
+          "SPIT"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Types of hat",
+        "words": [
+          "BOWLER",
+          "PANAMA",
+          "TRILBY",
+          "DERBY"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ line",
+        "words": [
+          "PUNCH",
+          "TAG",
+          "PICK",
+          "HOOK"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_008",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Rap lyric themes",
+        "words": [
+          "HUSTLE",
+          "LOYALTY",
+          "STRUGGLE",
+          "FAME"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Hip hop regions",
+        "words": [
+          "SOUTH",
+          "EAST",
+          "WEST",
+          "MIDWEST"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a dock",
+        "words": [
+          "PIER",
+          "WHARF",
+          "BOLLARD",
+          "JETTY"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a card game",
+        "words": [
+          "SNAP",
+          "SPIT",
+          "WAR",
+          "SPEED"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_009",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Things at a rap concert",
+        "words": [
+          "STAGE",
+          "MOSH",
+          "CROWD",
+          "ENCORE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Producer gear",
+        "words": [
+          "SAMPLER",
+          "DRUM",
+          "LOOP",
+          "SYNTH"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to taunt'",
+        "words": [
+          "MOCK",
+          "SCOFF",
+          "JEER",
+          "HECKLE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ man",
+        "words": [
+          "HYPE",
+          "FRONT",
+          "BEST",
+          "IRON"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_010",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Sampling sources in hip hop",
+        "words": [
+          "FUNK",
+          "SOUL",
+          "JAZZ",
+          "GOSPEL"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Turntablism techniques",
+        "words": [
+          "SCRATCH",
+          "JUGGLE",
+          "FLARE",
+          "CHIRP"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things on a bicycle",
+        "words": [
+          "SPOKE",
+          "PEDAL",
+          "FENDER",
+          "BRAKE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ record",
+        "words": [
+          "WORLD",
+          "TRACK",
+          "VINYL",
+          "BROKEN"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_011",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Rap slang for 'excellent'",
+        "words": [
+          "FIRE",
+          "HEAT",
+          "SLAP",
+          "BUSSIN"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Hip hop dance styles",
+        "words": [
+          "POPPING",
+          "LOCKING",
+          "KRUMPING",
+          "TUTTING"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to fortify'",
+        "words": [
+          "BUTTRESS",
+          "BOLSTER",
+          "BRACE",
+          "SHORE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ house",
+        "words": [
+          "TRAP",
+          "CRACK",
+          "STORE",
+          "PENT"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_012",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Diss track elements",
+        "words": [
+          "SHADE",
+          "BARS",
+          "SHOTS",
+          "CLAP"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Rap music subgenres",
+        "words": [
+          "DRILL",
+          "GRIME",
+          "CRUNK",
+          "BOUNCE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things in a clock tower",
+        "words": [
+          "PENDULUM",
+          "BELL",
+          "GEAR",
+          "CHIME"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a dance move",
+        "words": [
+          "SLIDE",
+          "TWIST",
+          "WHIP",
+          "NAE"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_013",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Rap producer techniques",
+        "words": [
+          "CHOP",
+          "FLIP",
+          "LAYER",
+          "LOOP"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Hip hop slang for car",
+        "words": [
+          "WHIP",
+          "RIDE",
+          "SLAB",
+          "BUCKET"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to falter'",
+        "words": [
+          "BUCKLE",
+          "CRUMBLE",
+          "WOBBLE",
+          "STUMBLE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ ride",
+        "words": [
+          "JOY",
+          "FREE",
+          "LOW",
+          "HAY"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_014",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Rap beef terminology",
+        "words": [
+          "DISS",
+          "GHOST",
+          "RESPOND",
+          "SUBLIMINAL"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Hip hop jewelry terms",
+        "words": [
+          "BLING",
+          "ICE",
+          "GRILL",
+          "PENDANT"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a wedding",
+        "words": [
+          "BOUQUET",
+          "ALTAR",
+          "VEIL",
+          "TOAST"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden gem inside",
+        "words": [
+          "JADED",
+          "AMBERJACK",
+          "OPALINE",
+          "PEARLY"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_015",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Mixtape hosting terms",
+        "words": [
+          "DROP",
+          "INTRO",
+          "SKIT",
+          "OUTRO"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Streetwear brands",
+        "words": [
+          "SUPREME",
+          "BAPE",
+          "STUSSY",
+          "KITH"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to overwhelm'",
+        "words": [
+          "SWAMP",
+          "ENGULF",
+          "INUNDATE",
+          "DELUGE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ drop",
+        "words": [
+          "TEAR",
+          "BACK",
+          "NAME",
+          "SNOW"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_016",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Rap verse techniques",
+        "words": [
+          "METAPHOR",
+          "SIMILE",
+          "WORDPLAY",
+          "ALLUSION"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Hip hop slang for police",
+        "words": [
+          "FIVE",
+          "JAKE",
+          "TWELVE",
+          "BADGE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things in a vineyard",
+        "words": [
+          "GRAPE",
+          "VINE",
+          "BARREL",
+          "CORK"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden color inside",
+        "words": [
+          "GREENLY",
+          "RUSTLE",
+          "TANGENT",
+          "GOLDEN"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_017",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Album rollout steps",
+        "words": [
+          "SINGLE",
+          "TEASER",
+          "FEATURE",
+          "PROMO"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Boom bap production elements",
+        "words": [
+          "SAMPLE",
+          "DRUM",
+          "CHOP",
+          "CRATE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to drift'",
+        "words": [
+          "FLOAT",
+          "GLIDE",
+          "COAST",
+          "CRUISE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Grand ___",
+        "words": [
+          "JURY",
+          "PIANO",
+          "PRIX",
+          "CANYON"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_018",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Rap concert call and response",
+        "words": [
+          "WAVE",
+          "BOUNCE",
+          "HANDS",
+          "JUMP"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Hip hop music video tropes",
+        "words": [
+          "MANSION",
+          "LAMBO",
+          "ROOFTOP",
+          "PENTHOUSE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a farm stand",
+        "words": [
+          "CIDER",
+          "SQUASH",
+          "PEACHES",
+          "HONEY"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ back",
+        "words": [
+          "THROW",
+          "LAY",
+          "SET",
+          "DRAW"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_019",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Trap music elements",
+        "words": [
+          "HIHAT",
+          "EIGHT",
+          "ROLAND",
+          "SNARE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Rap crew terminology",
+        "words": [
+          "SQUAD",
+          "CLIQUE",
+          "POSSE",
+          "ENTOURAGE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to meander'",
+        "words": [
+          "RAMBLE",
+          "STROLL",
+          "SAUNTER",
+          "AMBLE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ mate",
+        "words": [
+          "CHECK",
+          "ROOM",
+          "STALE",
+          "PLAY"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_020",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Rap flow descriptions",
+        "words": [
+          "SMOOTH",
+          "RAPID",
+          "CHOPPY",
+          "MELODIC"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Hip hop slang for gun",
+        "words": [
+          "STRAP",
+          "TOOL",
+          "STICK",
+          "BURNER"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things in a kitchen",
+        "words": [
+          "PANTRY",
+          "DRAWER",
+          "FRIDGE",
+          "STOVE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden bird inside",
+        "words": [
+          "CROWBAR",
+          "EMULATE",
+          "WRENCH",
+          "HAWKING"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_021",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Rap punchline techniques",
+        "words": [
+          "DOUBLE",
+          "SETUP",
+          "CALLBACK",
+          "FLIP"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Hip hop dance battle terms",
+        "words": [
+          "CYPHER",
+          "JUDGE",
+          "BATTLE",
+          "TOPROCK"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Types of collar",
+        "words": [
+          "MANDARIN",
+          "PETER",
+          "WING",
+          "FLEA"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ round",
+        "words": [
+          "FIRST",
+          "FINAL",
+          "GROUND",
+          "TURN"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_022",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Things on a rap album cover",
+        "words": [
+          "PORTRAIT",
+          "LOGO",
+          "TITLE",
+          "PARENTAL"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Hip hop car culture",
+        "words": [
+          "DONK",
+          "SLAB",
+          "LOWRIDER",
+          "WHIP"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to polish'",
+        "words": [
+          "BUFF",
+          "BURNISH",
+          "GLOSS",
+          "HONE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ shot",
+        "words": [
+          "CHEAP",
+          "MOON",
+          "LONG",
+          "SLAP"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_023",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Rap label names (also common words)",
+        "words": [
+          "AFTERMATH",
+          "CASH",
+          "SHADY",
+          "DREAM"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "MC battle scoring criteria",
+        "words": [
+          "DELIVERY",
+          "CONTENT",
+          "REBUTTAL",
+          "PRESENCE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things that drip",
+        "words": [
+          "FAUCET",
+          "ICICLE",
+          "CANDLE",
+          "PAINT"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden planet inside",
+        "words": [
+          "MARSHY",
+          "HEARTH",
+          "SATURNINE",
+          "PLUTOCRAT"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_024",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Rap vocal techniques",
+        "words": [
+          "ADLIB",
+          "AUTOTUNE",
+          "HARMONY",
+          "LAYERING"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Hip hop slang for jewelry",
+        "words": [
+          "ICE",
+          "DRIP",
+          "ROCK",
+          "FROST"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to tremble'",
+        "words": [
+          "QUAKE",
+          "SHIVER",
+          "QUIVER",
+          "TREMOR"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden country inside",
+        "words": [
+          "WOMANLY",
+          "INCUBATE",
+          "PERUSE",
+          "MALIGNED"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_025",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Streaming era rap terms",
+        "words": [
+          "PLAYLIST",
+          "STREAM",
+          "VIRAL",
+          "ALGORITHM"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of rap collab",
+        "words": [
+          "FEATURE",
+          "REMIX",
+          "POSSE",
+          "CYPHER"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to celebrate'",
+        "words": [
+          "REJOICE",
+          "REVEL",
+          "TOAST",
+          "FEAST"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ pool",
+        "words": [
+          "CAR",
+          "GENE",
+          "WHIRL",
+          "DEAD"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_026",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Rap slang meaning 'to leave'",
+        "words": [
+          "DIP",
+          "BOUNCE",
+          "GHOST",
+          "SLIDE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Hip hop entrepreneurship",
+        "words": [
+          "LABEL",
+          "BRAND",
+          "MERCH",
+          "TOUR"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to strengthen'",
+        "words": [
+          "BOLSTER",
+          "FORTIFY",
+          "BRACE",
+          "REINFORCE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden tree inside",
+        "words": [
+          "OAKEN",
+          "BASHFUL",
+          "HELMET",
+          "FIRKIN"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_027",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Types of rap delivery",
+        "words": [
+          "STACCATO",
+          "LEGATO",
+          "MONOTONE",
+          "GRITTY"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Graffiti art elements",
+        "words": [
+          "OUTLINE",
+          "FILL",
+          "SHADOW",
+          "FADE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a rodeo",
+        "words": [
+          "LASSO",
+          "BRONCO",
+          "CHAPS",
+          "BUCKLE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden instrument inside",
+        "words": [
+          "SHARPIE",
+          "ORGANIC",
+          "DISSOLUTE",
+          "PIPETTE"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_028",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Things in a rap studio",
+        "words": [
+          "BOOTH",
+          "CONSOLE",
+          "MONITOR",
+          "CABLE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Hip hop slang for house/home",
+        "words": [
+          "CRIB",
+          "PAD",
+          "SPOT",
+          "HOOD"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to demolish'",
+        "words": [
+          "RAZE",
+          "LEVEL",
+          "FLATTEN",
+          "GUT"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ block",
+        "words": [
+          "CELL",
+          "ROAD",
+          "WRITER",
+          "CHIP"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_029",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Rap award show categories",
+        "words": [
+          "ALBUM",
+          "SINGLE",
+          "FEATURE",
+          "VIDEO"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Sneaker culture terms",
+        "words": [
+          "DEADSTOCK",
+          "RETRO",
+          "GRAIL",
+          "COLLAB"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to captivate'",
+        "words": [
+          "MESMERIZE",
+          "ENTHRALL",
+          "RIVET",
+          "GRIP"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden animal inside",
+        "words": [
+          "SCOWLING",
+          "RAMPANT",
+          "FOXHOUND",
+          "CANTATA"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_030",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Types of hip hop beat",
+        "words": [
+          "BOOM",
+          "TRAP",
+          "DRILL",
+          "LOFI"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Rap storytelling elements",
+        "words": [
+          "SETTING",
+          "CONFLICT",
+          "CLIMAX",
+          "TWIST"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to quash'",
+        "words": [
+          "SUPPRESS",
+          "SQUELCH",
+          "SMOTHER",
+          "QUELL"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a card game",
+        "words": [
+          "SNAP",
+          "SPIT",
+          "WAR",
+          "SPEED"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_031",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Rap verse structures",
+        "words": [
+          "SIXTEEN",
+          "EIGHT",
+          "COUPLET",
+          "STANZA"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Hip hop lifestyle terms",
+        "words": [
+          "HUSTLE",
+          "GRIND",
+          "STACK",
+          "FLEX"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things in a garden",
+        "words": [
+          "HEDGE",
+          "PERGOLA",
+          "PATIO",
+          "MULCH"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden body part inside",
+        "words": [
+          "WRISTED",
+          "ELBOWED",
+          "HIPSTER",
+          "ANKLET"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_032",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Sampling legal terms",
+        "words": [
+          "CLEARANCE",
+          "ROYALTY",
+          "LICENSE",
+          "CREDIT"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Old school hip hop dances",
+        "words": [
+          "RUNNING",
+          "WORM",
+          "CABBAGE",
+          "SMURF"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to ransack'",
+        "words": [
+          "PILLAGE",
+          "PLUNDER",
+          "LOOT",
+          "RAVAGE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden month inside",
+        "words": [
+          "NOVICE",
+          "AUGMENT",
+          "MARCHING",
+          "DISMAY"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_033",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Rap album title words",
+        "words": [
+          "CHRONIC",
+          "BLUEPRINT",
+          "MARSHALL",
+          "ILLMATIC"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Beatmaking software terms",
+        "words": [
+          "PLUGIN",
+          "PRESET",
+          "RENDER",
+          "BOUNCE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a circus",
+        "words": [
+          "TRAPEZE",
+          "STILTS",
+          "CANNON",
+          "JUGGLER"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden car brand inside",
+        "words": [
+          "OXFORD",
+          "AUDIBLE",
+          "MINISTER",
+          "JEEPERS"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_034",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Rap rivalry cities",
+        "words": [
+          "COMPTON",
+          "QUEENS",
+          "ATLANTA",
+          "CHICAGO"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Hip hop clothing actions",
+        "words": [
+          "DRIP",
+          "FLEX",
+          "SAUCE",
+          "SWAG"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to enchant'",
+        "words": [
+          "BEWITCH",
+          "CHARM",
+          "BEGUILE",
+          "ENTRANCE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden vegetable inside",
+        "words": [
+          "ACORN",
+          "SLEEKLY",
+          "BEETLE",
+          "PEACHY"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_035",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Rap feud escalation steps",
+        "words": [
+          "SUBLIMINAL",
+          "RESPONSE",
+          "DISS",
+          "BEEF"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Things a hype man says",
+        "words": [
+          "YEAH",
+          "LETS",
+          "REAL",
+          "TALK"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to examine'",
+        "words": [
+          "PROBE",
+          "INSPECT",
+          "SURVEY",
+          "SCAN"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden sport inside",
+        "words": [
+          "GOLFING",
+          "POLOIST",
+          "UNBOXING",
+          "CRICKETER"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_036",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Things on a turntable",
+        "words": [
+          "NEEDLE",
+          "PLATTER",
+          "TONEARM",
+          "CARTRIDGE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Rap music video settings",
+        "words": [
+          "STUDIO",
+          "BLOCK",
+          "ROOFTOP",
+          "DESERT"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things with a ring",
+        "words": [
+          "SATURN",
+          "ONION",
+          "CIRCUS",
+          "BINDER"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ fly",
+        "words": [
+          "BUTTER",
+          "MAY",
+          "BAR",
+          "DRAGON"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_037",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Rap producer tags (words)",
+        "words": [
+          "MUSTARD",
+          "METRO",
+          "LONDON",
+          "PHARRELL"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Hip hop dance crew terms",
+        "words": [
+          "CAPTAIN",
+          "ANCHOR",
+          "WILDCARD",
+          "BATTLE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to shatter'",
+        "words": [
+          "SMASH",
+          "FRACTURE",
+          "SPLINTER",
+          "DEMOLISH"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden Greek letter inside",
+        "words": [
+          "CHIPMUNK",
+          "ALPHABET",
+          "DETAIN",
+          "MUFFLE"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_038",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Rap ghostwriting terms",
+        "words": [
+          "PEN",
+          "GHOST",
+          "WRITER",
+          "CREDIT"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of hip hop show",
+        "words": [
+          "FESTIVAL",
+          "CONCERT",
+          "CIPHER",
+          "SHOWCASE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a construction site",
+        "words": [
+          "SCAFFOLD",
+          "GIRDER",
+          "CEMENT",
+          "CRANE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden fruit inside",
+        "words": [
+          "DEPLUME",
+          "FIGMENT",
+          "PEARLY",
+          "LEMONADE"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_039",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Things rappers brag about",
+        "words": [
+          "CHAIN",
+          "MANSION",
+          "PLATINUM",
+          "STATUS"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Old school hip hop terms",
+        "words": [
+          "BBOY",
+          "EMCEE",
+          "DEEJAY",
+          "GRAFFITI"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to wither'",
+        "words": [
+          "WILT",
+          "DROOP",
+          "SHRIVEL",
+          "LANGUISH"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden color inside",
+        "words": [
+          "GREENLY",
+          "RUSTLE",
+          "TANGENT",
+          "GOLDEN"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_040",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Rap chart metrics",
+        "words": [
+          "STREAM",
+          "DOWNLOAD",
+          "SPIN",
+          "SALE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Hip hop influence genres",
+        "words": [
+          "REGGAE",
+          "DANCEHALL",
+          "AFROBEAT",
+          "GRIME"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a marina",
+        "words": [
+          "HULL",
+          "BOOM",
+          "MAST",
+          "KEEL"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a famous composer",
+        "words": [
+          "BACH",
+          "HANDEL",
+          "HOLST",
+          "ELGAR"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_041",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Types of rap scheme",
+        "words": [
+          "INTERNAL",
+          "SLANT",
+          "MULTI",
+          "COMPOUND"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Hip hop documentary subjects",
+        "words": [
+          "ORIGIN",
+          "RIVALRY",
+          "LEGACY",
+          "DOWNFALL"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to bewilder'",
+        "words": [
+          "MYSTIFY",
+          "CONFOUND",
+          "NONPLUS",
+          "STYMIE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden planet inside",
+        "words": [
+          "MARSHY",
+          "HEARTH",
+          "SATURNINE",
+          "PLUTOCRAT"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_042",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Rap industry power moves",
+        "words": [
+          "SIGNING",
+          "BIDDING",
+          "LEVERAGE",
+          "ADVANCE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Vinyl collecting terms",
+        "words": [
+          "PRESSING",
+          "GATEFOLD",
+          "INSERT",
+          "SLEEVE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to galvanize'",
+        "words": [
+          "ELECTRIFY",
+          "INVIGORATE",
+          "ENERGIZE",
+          "CATALYZE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a punctuation mark",
+        "words": [
+          "DASH",
+          "COLON",
+          "SLASH",
+          "PERIOD"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_043",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Rap slang for 'lying'",
+        "words": [
+          "CAP",
+          "FRONT",
+          "BLUFF",
+          "STUNT"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Beat switch techniques",
+        "words": [
+          "TEMPO",
+          "KEY",
+          "DROP",
+          "BRIDGE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to obliterate'",
+        "words": [
+          "ANNIHILATE",
+          "ERADICATE",
+          "DECIMATE",
+          "DEMOLISH"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden month inside",
+        "words": [
+          "NOVICE",
+          "AUGMENT",
+          "MARCHING",
+          "DISMAY"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_044",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Rap content warning themes",
+        "words": [
+          "EXPLICIT",
+          "VIOLENCE",
+          "LANGUAGE",
+          "MATURE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Hip hop philanthropy terms",
+        "words": [
+          "FOUNDATION",
+          "BENEFIT",
+          "CHARITY",
+          "SCHOLARSHIP"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things that can be 'double'",
+        "words": [
+          "AGENT",
+          "DECKER",
+          "EDGED",
+          "DUTCH"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden bird inside",
+        "words": [
+          "CROWBAR",
+          "EMULATE",
+          "WRENCH",
+          "HAWKING"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_045",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Rap pen game terms",
+        "words": [
+          "METAPHOR",
+          "SCHEME",
+          "ENTENDRE",
+          "WORDPLAY"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Things at a block party",
+        "words": [
+          "SPEAKER",
+          "GRILL",
+          "DANCE",
+          "BOUNCE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to exhaust'",
+        "words": [
+          "DEPLETE",
+          "DRAIN",
+          "SAP",
+          "FATIGUE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ back",
+        "words": [
+          "THROW",
+          "LAY",
+          "SET",
+          "DRAW"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_046",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Rap slang for 'impressive'",
+        "words": [
+          "COLD",
+          "HARD",
+          "RAW",
+          "NASTY"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Things in a cypher circle",
+        "words": [
+          "EMCEE",
+          "JUDGE",
+          "CROWD",
+          "BEAT"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to provoke'",
+        "words": [
+          "GOAD",
+          "INCITE",
+          "INFLAME",
+          "NEEDLE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden car brand inside",
+        "words": [
+          "OXFORD",
+          "AUDIBLE",
+          "MINISTER",
+          "JEEPERS"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_047",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Rap battle league names (words)",
+        "words": [
+          "ULTIMATE",
+          "KING",
+          "PREMIER",
+          "GROUND"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of rap hook",
+        "words": [
+          "CHANT",
+          "MELODIC",
+          "SPOKEN",
+          "SUNG"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a spa",
+        "words": [
+          "SAUNA",
+          "FACIAL",
+          "ROBE",
+          "STEAM"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden planet inside",
+        "words": [
+          "MARSHY",
+          "HEARTH",
+          "SATURNINE",
+          "PLUTOCRAT"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_048",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Rap album rollout controversies",
+        "words": [
+          "LEAK",
+          "DELAY",
+          "SCRAP",
+          "SHELVE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Elements of hip hop (original four)",
+        "words": [
+          "DEEJAY",
+          "EMCEE",
+          "GRAFFITI",
+          "BBOY"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to celebrate'",
+        "words": [
+          "REJOICE",
+          "REVEL",
+          "TOAST",
+          "FEAST"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden body part inside",
+        "words": [
+          "WRISTED",
+          "ELBOWED",
+          "HIPSTER",
+          "ANKLET"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_049",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Rap flow patterns",
+        "words": [
+          "TRIPLET",
+          "DOUBLE",
+          "SYNCOPATE",
+          "STACCATO"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Things in a rap beef timeline",
+        "words": [
+          "SUBLIMINAL",
+          "RESPONSE",
+          "FEATURE",
+          "DISS"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to overwhelm'",
+        "words": [
+          "SWAMP",
+          "ENGULF",
+          "INUNDATE",
+          "DELUGE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden gem inside",
+        "words": [
+          "JADED",
+          "AMBERJACK",
+          "OPALINE",
+          "PEARLY"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "hiphop_050",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Rap legacy debate terms",
+        "words": [
+          "GOAT",
+          "CLASSIC",
+          "INFLUENCE",
+          "CATALOG"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Hip hop culture milestones",
+        "words": [
+          "GOLDEN",
+          "PLATINUM",
+          "DIAMOND",
+          "DEBUT"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to shatter'",
+        "words": [
+          "SMASH",
+          "FRACTURE",
+          "SPLINTER",
+          "DEMOLISH"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden country inside",
+        "words": [
+          "WOMANLY",
+          "INCUBATE",
+          "PERUSE",
+          "MALIGNED"
+        ],
+        "difficulty": 4
+      }
+    ]
+  }
+]

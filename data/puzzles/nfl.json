@@ -1,0 +1,3251 @@
+[
+  {
+    "id": "nfl_001",
+    "pack": "nfl",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "NFL team mascots (animals)",
+        "words": [
+          "EAGLE",
+          "BEAR",
+          "FALCON",
+          "DOLPHIN"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Things on a football field",
+        "words": [
+          "PYLON",
+          "CHAIN",
+          "HASH",
+          "TURF"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Shades of green",
+        "words": [
+          "LIME",
+          "SAGE",
+          "OLIVE",
+          "EMERALD"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ back",
+        "words": [
+          "QUARTER",
+          "HALF",
+          "SET",
+          "DRAW"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "EAGLE",
+      "BEAR",
+      "FALCON",
+      "CHAIN",
+      "TURF",
+      "SAGE",
+      "OLIVE",
+      "QUARTER",
+      "DRAW"
+    ],
+    "falseGroups": [
+      "Animals (EAGLE, BEAR, FALCON, DOLPHIN, SAGE[?])",
+      "Things meaning 'to pull' (DRAW, CHAIN, TURF, QUARTER)"
+    ]
+  },
+  {
+    "id": "nfl_002",
+    "pack": "nfl",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Football actions",
+        "words": [
+          "BLITZ",
+          "SACK",
+          "SNAP",
+          "PUNT"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Things in a locker room",
+        "words": [
+          "HELMET",
+          "JERSEY",
+          "CLEATS",
+          "PADS"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to hurry'",
+        "words": [
+          "RUSH",
+          "DASH",
+          "BOLT",
+          "SPRINT"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ line",
+        "words": [
+          "GOAL",
+          "SIDE",
+          "YARD",
+          "SCRIMMAGE"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "BLITZ",
+      "SACK",
+      "SNAP",
+      "PUNT",
+      "RUSH",
+      "DASH",
+      "BOLT",
+      "GOAL"
+    ],
+    "falseGroups": [
+      "Things meaning 'to hit' (BLITZ, SACK, BOLT, SNAP, DASH)",
+      "Football terms (BLITZ, SACK, SNAP, PUNT, RUSH, GOAL, YARD, SCRIMMAGE)"
+    ]
+  },
+  {
+    "id": "nfl_003",
+    "pack": "nfl",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "NFL positions",
+        "words": [
+          "GUARD",
+          "CENTER",
+          "TACKLE",
+          "END"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Things at a stadium",
+        "words": [
+          "SCOREBOARD",
+          "BLEACHERS",
+          "CONCESSION",
+          "JUMBOTRON"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'safe'",
+        "words": [
+          "SECURE",
+          "SHELTERED",
+          "GUARDED",
+          "HARMLESS"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ pass",
+        "words": [
+          "FORWARD",
+          "LATERAL",
+          "HALL",
+          "BOARDING"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "GUARD",
+      "CENTER",
+      "TACKLE",
+      "END",
+      "SECURE",
+      "GUARDED",
+      "FORWARD",
+      "HAIL",
+      "BOARDING"
+    ],
+    "falseGroups": [
+      "Football terms (GUARD, CENTER, TACKLE, END, FORWARD, LATERAL, HAIL)",
+      "Things meaning 'to protect' (GUARD, SECURE, SHELTERED, GUARDED, HARMLESS)"
+    ]
+  },
+  {
+    "id": "nfl_004",
+    "pack": "nfl",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Football play types",
+        "words": [
+          "SWEEP",
+          "SCREEN",
+          "OPTION",
+          "SNEAK"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL team cities",
+        "words": [
+          "BUFFALO",
+          "PHOENIX",
+          "HOUSTON",
+          "DENVER"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things that are round",
+        "words": [
+          "GLOBE",
+          "RING",
+          "WHEEL",
+          "HOOP"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ zone",
+        "words": [
+          "END",
+          "RED",
+          "TIME",
+          "COMFORT"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "SWEEP",
+      "SCREEN",
+      "OPTION",
+      "SNEAK",
+      "BUFFALO",
+      "RING",
+      "END",
+      "RED",
+      "COMFORT"
+    ],
+    "falseGroups": [
+      "Things meaning 'to steal' (SNEAK, SWEEP, SCREEN, BUFFALO)",
+      "Football (SWEEP, SCREEN, OPTION, SNEAK, END, RED)"
+    ]
+  },
+  {
+    "id": "nfl_005",
+    "pack": "nfl",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "NFL mascots (non-animal)",
+        "words": [
+          "CHIEF",
+          "SAINT",
+          "RAIDER",
+          "PATRIOT"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Football penalties",
+        "words": [
+          "HOLDING",
+          "CLIPPING",
+          "ROUGHING",
+          "DELAY"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things in a barbershop",
+        "words": [
+          "CLIPPER",
+          "RAZOR",
+          "MIRROR",
+          "CHAIR"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ man",
+        "words": [
+          "LINE",
+          "PUNT",
+          "IRON",
+          "BEST"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "CHIEF",
+      "SAINT",
+      "RAIDER",
+      "HOLDING",
+      "CLIPPING",
+      "ROUGHING",
+      "CLIPPER",
+      "LINE",
+      "IRON"
+    ],
+    "falseGroups": [
+      "Things meaning 'to cut' (CLIPPING, CLIPPER, RAZOR, ROUGHING)",
+      "People (CHIEF, SAINT, RAIDER, PATRIOT, LINE[man], IRON[man])"
+    ]
+  },
+  {
+    "id": "nfl_006",
+    "pack": "nfl",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Quarterback actions",
+        "words": [
+          "SCRAMBLE",
+          "AUDIBLE",
+          "HANDOFF",
+          "CADENCE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL divisions",
+        "words": [
+          "NORTH",
+          "SOUTH",
+          "EAST",
+          "WEST"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things in a kitchen",
+        "words": [
+          "PANTRY",
+          "BURNER",
+          "DRAWER",
+          "FRIDGE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ field",
+        "words": [
+          "BACK",
+          "LEFT",
+          "MINE",
+          "CORN"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "SCRAMBLE",
+      "AUDIBLE",
+      "HANDOFF",
+      "NORTH",
+      "SOUTH",
+      "EAST",
+      "PANTRY",
+      "BACK",
+      "LEFT"
+    ],
+    "falseGroups": [
+      "Directions (NORTH, SOUTH, EAST, WEST, LEFT, BACK)",
+      "Football (SCRAMBLE, AUDIBLE, HANDOFF, CADENCE, BACK, LEFT)"
+    ]
+  },
+  {
+    "id": "nfl_007",
+    "pack": "nfl",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Famous NFL player last names",
+        "words": [
+          "RICE",
+          "MOSS",
+          "BERRY",
+          "BRANCH"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of football coverage",
+        "words": [
+          "ZONE",
+          "PRESS",
+          "PREVENT",
+          "BRACKET"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things in a forest",
+        "words": [
+          "CANOPY",
+          "FERN",
+          "STUMP",
+          "CREEK"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ down",
+        "words": [
+          "TOUCH",
+          "FIRST",
+          "BREAK",
+          "LOCK"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "RICE",
+      "MOSS",
+      "BERRY",
+      "BRANCH",
+      "ZONE",
+      "PRESS",
+      "TOUCH",
+      "FIRST",
+      "BREAK"
+    ],
+    "falseGroups": [
+      "Nature (RICE, MOSS, BERRY, BRANCH, CANOPY, FERN, STUMP, CREEK)",
+      "Football (ZONE, PRESS, PREVENT, TOUCH, FIRST)"
+    ]
+  },
+  {
+    "id": "nfl_008",
+    "pack": "nfl",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Football field markings",
+        "words": [
+          "HASH",
+          "STRIPE",
+          "LOGO",
+          "NUMBER"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL trophy/award names",
+        "words": [
+          "LOMBARDI",
+          "HEISMAN",
+          "THORPE",
+          "WALTER"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Types of bread",
+        "words": [
+          "SOURDOUGH",
+          "BRIOCHE",
+          "FOCACCIA",
+          "NAAN"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ kick",
+        "words": [
+          "DROP",
+          "FREE",
+          "CORNER",
+          "SIDE"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "HASH",
+      "STRIPE",
+      "NUMBER",
+      "LOMBARDI",
+      "DROP",
+      "FREE",
+      "CORNER",
+      "SIDE"
+    ],
+    "falseGroups": [
+      "Things on a uniform (STRIPE, NUMBER, LOGO, HASH)",
+      "Football (HASH, DROP, FREE, CORNER, SIDE)"
+    ]
+  },
+  {
+    "id": "nfl_009",
+    "pack": "nfl",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Defensive positions",
+        "words": [
+          "SAFETY",
+          "CORNER",
+          "TACKLE",
+          "NOSE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Things a coach does",
+        "words": [
+          "CHALLENGE",
+          "TIMEOUT",
+          "REVIEW",
+          "MOTION"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'brave'",
+        "words": [
+          "BOLD",
+          "DARING",
+          "VALIANT",
+          "FEARLESS"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Super ___",
+        "words": [
+          "BOWL",
+          "HERO",
+          "NOVA",
+          "MARKET"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "SAFETY",
+      "CORNER",
+      "TACKLE",
+      "NOSE",
+      "CHALLENGE",
+      "REVIEW",
+      "BOLD",
+      "BOWL",
+      "HERO"
+    ],
+    "falseGroups": [
+      "Football (SAFETY, CORNER, TACKLE, NOSE, CHALLENGE, TIMEOUT, REVIEW, BOWL)",
+      "Things meaning 'to confront' (CHALLENGE, TACKLE, BOLD, DARING, NOSE)"
+    ]
+  },
+  {
+    "id": "nfl_010",
+    "pack": "nfl",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Football formations",
+        "words": [
+          "SHOTGUN",
+          "PISTOL",
+          "SPREAD",
+          "WILDCAT"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL team colors",
+        "words": [
+          "SILVER",
+          "ORANGE",
+          "BURGUNDY",
+          "TEAL"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to scatter'",
+        "words": [
+          "DISPERSE",
+          "STREW",
+          "SPLAY",
+          "SPRINKLE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a weapon",
+        "words": [
+          "BOMB",
+          "BULLET",
+          "BLITZ",
+          "CANNON"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "SHOTGUN",
+      "PISTOL",
+      "SPREAD",
+      "WILDCAT",
+      "SILVER",
+      "ORANGE",
+      "DISPERSE",
+      "BOMB",
+      "BULLET",
+      "BLITZ"
+    ],
+    "falseGroups": [
+      "Weapons (SHOTGUN, PISTOL, BOMB, BULLET, BLITZ, CANNON)",
+      "Football (SHOTGUN, PISTOL, SPREAD, WILDCAT, BOMB, BLITZ, BULLET)"
+    ]
+  },
+  {
+    "id": "nfl_011",
+    "pack": "nfl",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Football terms for a big play",
+        "words": [
+          "BOMB",
+          "STREAK",
+          "SLANT",
+          "SEAM"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL mascots (birds)",
+        "words": [
+          "EAGLE",
+          "RAVEN",
+          "FALCON",
+          "CARDINAL"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to decline'",
+        "words": [
+          "WANE",
+          "RECEDE",
+          "DIMINISH",
+          "TAPER"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a hair style",
+        "words": [
+          "MOHAWK",
+          "MULLET",
+          "FADE",
+          "CREW"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "BOMB",
+      "STREAK",
+      "SLANT",
+      "SEAM",
+      "EAGLE",
+      "RAVEN",
+      "CARDINAL",
+      "WANE",
+      "TAPER",
+      "MOHAWK"
+    ],
+    "falseGroups": [
+      "Birds (EAGLE, RAVEN, FALCON, CARDINAL, MOHAWK[?])",
+      "Things meaning 'to disappear' (FADE, WANE, RECEDE, DIMINISH, STREAK)"
+    ]
+  },
+  {
+    "id": "nfl_012",
+    "pack": "nfl",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Offensive line positions",
+        "words": [
+          "GUARD",
+          "CENTER",
+          "TACKLE",
+          "END"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Things a ref signals",
+        "words": [
+          "HOLDING",
+          "OFFSIDE",
+          "DELAY",
+          "FALSE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to grab'",
+        "words": [
+          "SEIZE",
+          "SNATCH",
+          "CLUTCH",
+          "GRIP"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ play",
+        "words": [
+          "FAIR",
+          "FOUL",
+          "HORSE",
+          "GUN"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "GUARD",
+      "CENTER",
+      "TACKLE",
+      "END",
+      "HOLDING",
+      "FALSE",
+      "SEIZE",
+      "CLUTCH",
+      "GRIP",
+      "FAIR",
+      "FOUL"
+    ],
+    "falseGroups": [
+      "Things meaning 'to hold' (HOLDING, GRIP, CLUTCH, SEIZE, SNATCH, GUARD, TACKLE)",
+      "Football (GUARD, CENTER, TACKLE, END, HOLDING, OFFSIDE, DELAY, FALSE, FAIR, FOUL)"
+    ]
+  },
+  {
+    "id": "nfl_013",
+    "pack": "nfl",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Things a QB reads",
+        "words": [
+          "COVERAGE",
+          "BLITZ",
+          "FORMATION",
+          "SAFETY"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Football scoring",
+        "words": [
+          "TOUCHDOWN",
+          "FIELDGOAL",
+          "CONVERSION",
+          "CONVERT"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to examine'",
+        "words": [
+          "PROBE",
+          "SCAN",
+          "INSPECT",
+          "SURVEY"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ rush",
+        "words": [
+          "GOLD",
+          "SUGAR",
+          "BULL",
+          "HEAD"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "COVERAGE",
+      "BLITZ",
+      "FORMATION",
+      "SAFETY",
+      "CONVERT",
+      "PROBE",
+      "SCAN",
+      "SURVEY",
+      "GOLD",
+      "BULL",
+      "HEAD"
+    ],
+    "falseGroups": [
+      "Football (COVERAGE, BLITZ, FORMATION, SAFETY, TOUCHDOWN, CONVERT, RUSH, BULL)",
+      "Things meaning 'to search' (PROBE, SCAN, INSPECT, SURVEY, COVERAGE, BLITZ)"
+    ]
+  },
+  {
+    "id": "nfl_014",
+    "pack": "nfl",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Running back moves",
+        "words": [
+          "JUKE",
+          "CUT",
+          "SPIN",
+          "HURDLE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL stadiums named after things",
+        "words": [
+          "MEADOW",
+          "ARROWHEAD",
+          "LAMBEAU",
+          "SOLDIER"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Types of dance",
+        "words": [
+          "WALTZ",
+          "TANGO",
+          "POLKA",
+          "SWING"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ arm",
+        "words": [
+          "STIFF",
+          "FIRE",
+          "STRONG",
+          "CHAIR"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "JUKE",
+      "CUT",
+      "SPIN",
+      "HURDLE",
+      "MEADOW",
+      "ARROWHEAD",
+      "SOLDIER",
+      "WALTZ",
+      "TANGO",
+      "SWING",
+      "STIFF"
+    ],
+    "falseGroups": [
+      "Things meaning 'to dodge' (JUKE, SPIN, HURDLE, SWING, STIFF)",
+      "Military (SOLDIER, ARROWHEAD, FIRE, STRONG, STIFF)"
+    ]
+  },
+  {
+    "id": "nfl_015",
+    "pack": "nfl",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Things thrown in football",
+        "words": [
+          "SPIRAL",
+          "BULLET",
+          "DUCK",
+          "BOMB"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL draft terms",
+        "words": [
+          "PICK",
+          "TRADE",
+          "BUST",
+          "SLEEPER"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to sleep'",
+        "words": [
+          "DOZE",
+          "SNOOZE",
+          "DROWSE",
+          "SLUMBER"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ flag",
+        "words": [
+          "PENALTY",
+          "RED",
+          "WHITE",
+          "FALSE"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "SPIRAL",
+      "BULLET",
+      "DUCK",
+      "BOMB",
+      "PICK",
+      "TRADE",
+      "BUST",
+      "SLEEPER",
+      "DOZE",
+      "SNOOZE",
+      "PENALTY",
+      "RED"
+    ],
+    "falseGroups": [
+      "Things meaning 'failure' (BUST, BOMB, DUCK, SLEEPER)",
+      "Things meaning 'to avoid' (DUCK, TRADE, DOZE, SNOOZE, SLEEPER)"
+    ]
+  },
+  {
+    "id": "nfl_016",
+    "pack": "nfl",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Types of NFL route",
+        "words": [
+          "POST",
+          "CORNER",
+          "SLANT",
+          "CURL"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Famous coaches (last names)",
+        "words": [
+          "BROWN",
+          "REID",
+          "TOMLIN",
+          "PAYTON"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things in a workshop",
+        "words": [
+          "LATHE",
+          "DRILL",
+          "CLAMP",
+          "CHISEL"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a type of knot",
+        "words": [
+          "BOWLINE",
+          "HITCH",
+          "CLEAT",
+          "LOOP"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "POST",
+      "CORNER",
+      "SLANT",
+      "CURL",
+      "BROWN",
+      "TOMLIN",
+      "LATHE",
+      "DRILL",
+      "CLAMP",
+      "CHISEL",
+      "HITCH"
+    ],
+    "falseGroups": [
+      "Football (POST, CORNER, SLANT, HITCH, DRILL, BROWN)",
+      "Things meaning 'to attach' (HITCH, CLAMP, CLEAT, POST, LOOP)"
+    ]
+  },
+  {
+    "id": "nfl_017",
+    "pack": "nfl",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Defensive football terms",
+        "words": [
+          "BLITZ",
+          "SACK",
+          "STRIP",
+          "SWAT"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL team names (human roles)",
+        "words": [
+          "COWBOY",
+          "PACKER",
+          "STEELER",
+          "CHARGER"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to charge'",
+        "words": [
+          "STORM",
+          "SURGE",
+          "RUSH",
+          "STAMPEDE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Things that are electric",
+        "words": [
+          "BOLT",
+          "SHOCK",
+          "SPARK",
+          "CURRENT"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "BLITZ",
+      "SACK",
+      "STRIP",
+      "SWAT",
+      "COWBOY",
+      "PACKER",
+      "CHARGER",
+      "STORM",
+      "SURGE",
+      "RUSH",
+      "BOLT"
+    ],
+    "falseGroups": [
+      "Football (BLITZ, SACK, STRIP, RUSH, CHARGE[R], BOLT)",
+      "Things meaning 'to attack' (BLITZ, SACK, STORM, SURGE, RUSH, STAMPEDE, SWAT)"
+    ]
+  },
+  {
+    "id": "nfl_018",
+    "pack": "nfl",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Things in a football huddle",
+        "words": [
+          "SNAP",
+          "COUNT",
+          "PLAY",
+          "CALL"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL team animals (cats)",
+        "words": [
+          "JAGUAR",
+          "PANTHER",
+          "LION",
+          "BENGAL"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Types of drum",
+        "words": [
+          "SNARE",
+          "BONGO",
+          "BASS",
+          "KETTLE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ cat",
+        "words": [
+          "WILD",
+          "TOM",
+          "BOB",
+          "COPY"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "SNAP",
+      "COUNT",
+      "PLAY",
+      "CALL",
+      "JAGUAR",
+      "PANTHER",
+      "LION",
+      "BENGAL",
+      "SNARE",
+      "BASS",
+      "WILD"
+    ],
+    "falseGroups": [
+      "Animals (JAGUAR, PANTHER, LION, BENGAL, BASS, WILD[cat])",
+      "Football (SNAP, COUNT, PLAY, CALL, WILD[cat])"
+    ]
+  },
+  {
+    "id": "nfl_019",
+    "pack": "nfl",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Football clock terms",
+        "words": [
+          "TIMEOUT",
+          "QUARTER",
+          "HALF",
+          "OVERTIME"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL hall of fame positions",
+        "words": [
+          "RECEIVER",
+          "KICKER",
+          "PUNTER",
+          "BLOCKER"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to obstruct'",
+        "words": [
+          "HAMPER",
+          "HINDER",
+          "THWART",
+          "IMPEDE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ time",
+        "words": [
+          "GAME",
+          "PRIME",
+          "BIG",
+          "OVER"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "TIMEOUT",
+      "QUARTER",
+      "HALF",
+      "OVERTIME",
+      "RECEIVER",
+      "KICKER",
+      "BLOCKER",
+      "HAMPER",
+      "HINDER",
+      "THWART",
+      "GAME"
+    ],
+    "falseGroups": [
+      "Football (TIMEOUT, QUARTER, HALF, OVERTIME, RECEIVER, KICKER, PUNTER, BLOCKER, GAME)",
+      "Things meaning 'to block' (HAMPER, HINDER, THWART, IMPEDE, BLOCKER)"
+    ]
+  },
+  {
+    "id": "nfl_020",
+    "pack": "nfl",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Special teams terms",
+        "words": [
+          "PUNT",
+          "KICKOFF",
+          "RETURN",
+          "GUNNER"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL mascots (horse-related)",
+        "words": [
+          "COLT",
+          "BRONCO",
+          "CHARGER",
+          "MUSTANG"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things in a vineyard",
+        "words": [
+          "GRAPE",
+          "VINE",
+          "BARREL",
+          "CORK"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ back",
+        "words": [
+          "QUARTER",
+          "CORNER",
+          "RUN",
+          "FULL"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "PUNT",
+      "KICKOFF",
+      "RETURN",
+      "GUNNER",
+      "COLT",
+      "BRONCO",
+      "CHARGER",
+      "GRAPE",
+      "BARREL",
+      "CORK",
+      "QUARTER",
+      "CORNER"
+    ],
+    "falseGroups": [
+      "Horse words (COLT, BRONCO, CHARGER, MUSTANG, GUNNER)",
+      "Football (PUNT, KICKOFF, RETURN, GUNNER, QUARTER, CORNER, RUN, FULL)"
+    ]
+  },
+  {
+    "id": "nfl_021",
+    "pack": "nfl",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Football field positions",
+        "words": [
+          "ENDZONE",
+          "REDZONE",
+          "SIDELINE",
+          "MIDFIELD"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL injuries",
+        "words": [
+          "SPRAIN",
+          "FRACTURE",
+          "STRAIN",
+          "BRUISE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Types of cheese",
+        "words": [
+          "GOUDA",
+          "BRIE",
+          "FETA",
+          "STILTON"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ rule",
+        "words": [
+          "GROUND",
+          "GOLDEN",
+          "HOUSE",
+          "TUCK"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "ENDZONE",
+      "REDZONE",
+      "SIDELINE",
+      "SPRAIN",
+      "FRACTURE",
+      "STRAIN",
+      "GOUDA",
+      "BRIE",
+      "FETA",
+      "GROUND",
+      "GOLDEN"
+    ],
+    "falseGroups": [
+      "Things meaning 'to hurt' (SPRAIN, FRACTURE, STRAIN, BRUISE, SIDELINE)",
+      "Football (ENDZONE, REDZONE, SIDELINE, MIDFIELD, GROUND, TUCK)"
+    ]
+  },
+  {
+    "id": "nfl_022",
+    "pack": "nfl",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Things a WR does",
+        "words": [
+          "CATCH",
+          "ROUTE",
+          "BLOCK",
+          "MOTION"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL coaching staff",
+        "words": [
+          "COORDINATOR",
+          "SCOUT",
+          "TRAINER",
+          "ANALYST"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to examine'",
+        "words": [
+          "PROBE",
+          "INSPECT",
+          "SURVEY",
+          "SCAN"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ ball",
+        "words": [
+          "FOOT",
+          "FUMBLE",
+          "ODD",
+          "SNOW"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "CATCH",
+      "ROUTE",
+      "BLOCK",
+      "MOTION",
+      "SCOUT",
+      "TRAINER",
+      "ANALYST",
+      "PROBE",
+      "INSPECT",
+      "SCAN",
+      "FUMBLE"
+    ],
+    "falseGroups": [
+      "Football (CATCH, ROUTE, BLOCK, MOTION, SCOUT, FUMBLE, FOOT)",
+      "Things meaning 'to search' (PROBE, INSPECT, SURVEY, SCAN, SCOUT, ROUTE)"
+    ]
+  },
+  {
+    "id": "nfl_023",
+    "pack": "nfl",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Football gambling terms",
+        "words": [
+          "SPREAD",
+          "OVER",
+          "PARLAY",
+          "MONEYLINE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL division rivals (NFC East)",
+        "words": [
+          "EAGLE",
+          "GIANT",
+          "COWBOY",
+          "COMMANDER"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to command'",
+        "words": [
+          "ORDER",
+          "DIRECT",
+          "DECREE",
+          "MANDATE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ spread",
+        "words": [
+          "POINT",
+          "BED",
+          "WING",
+          "WIDE"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "SPREAD",
+      "OVER",
+      "PARLAY",
+      "EAGLE",
+      "GIANT",
+      "COWBOY",
+      "COMMANDER",
+      "ORDER",
+      "DIRECT",
+      "DECREE",
+      "POINT"
+    ],
+    "falseGroups": [
+      "Things meaning 'big' (GIANT, SPREAD, OVER, WIDE, EAGLE)",
+      "Football (SPREAD, OVER, EAGLE, GIANT, COWBOY, COMMANDER, POINT, WIDE)"
+    ]
+  },
+  {
+    "id": "nfl_024",
+    "pack": "nfl",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Quarterback stats",
+        "words": [
+          "RATING",
+          "YARDS",
+          "SACK",
+          "FUMBLE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL combine events",
+        "words": [
+          "SHUTTLE",
+          "BENCH",
+          "SPRINT",
+          "CONE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a campsite",
+        "words": [
+          "TENT",
+          "LANTERN",
+          "HAMMOCK",
+          "COOLER"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ draft",
+        "words": [
+          "FIRST",
+          "ROUGH",
+          "COLD",
+          "BANK"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "RATING",
+      "YARDS",
+      "SACK",
+      "FUMBLE",
+      "SHUTTLE",
+      "BENCH",
+      "SPRINT",
+      "CONE",
+      "TENT",
+      "FIRST",
+      "ROUGH"
+    ],
+    "falseGroups": [
+      "Football (RATING, YARDS, SACK, FUMBLE, SHUTTLE, BENCH, SPRINT, CONE, FIRST, DRAFT)",
+      "Things meaning 'to test' (SHUTTLE, BENCH, SPRINT, CONE, RATING)"
+    ]
+  },
+  {
+    "id": "nfl_025",
+    "pack": "nfl",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Defensive schemes",
+        "words": [
+          "ZONE",
+          "PRESS",
+          "PREVENT",
+          "COVER"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Famous NFL surnames (also common words)",
+        "words": [
+          "RICE",
+          "YOUNG",
+          "BROWN",
+          "GREEN"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Shades of brown",
+        "words": [
+          "CHESTNUT",
+          "MOCHA",
+          "WALNUT",
+          "SIENNA"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a type of beer",
+        "words": [
+          "DRAFT",
+          "LAGER",
+          "STOUT",
+          "PORTER"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "ZONE",
+      "PRESS",
+      "PREVENT",
+      "COVER",
+      "RICE",
+      "YOUNG",
+      "BROWN",
+      "GREEN",
+      "CHESTNUT",
+      "MOCHA",
+      "DRAFT"
+    ],
+    "falseGroups": [
+      "Colors (BROWN, GREEN, CHESTNUT, MOCHA, WALNUT, SIENNA)",
+      "Football (ZONE, PRESS, PREVENT, COVER, DRAFT, RICE, YOUNG, BROWN, GREEN)"
+    ]
+  },
+  {
+    "id": "nfl_026",
+    "pack": "nfl",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Football terms (also violent words)",
+        "words": [
+          "BLITZ",
+          "SACK",
+          "BOMB",
+          "HIT"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL team names (also occupations)",
+        "words": [
+          "PACKER",
+          "STEELER",
+          "RAIDER",
+          "MINER"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things with a chain",
+        "words": [
+          "NECKLACE",
+          "ANCHOR",
+          "FENCE",
+          "BICYCLE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a football position",
+        "words": [
+          "GUARD",
+          "CENTER",
+          "END",
+          "TACKLE"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "BLITZ",
+      "SACK",
+      "BOMB",
+      "HIT",
+      "PACKER",
+      "STEELER",
+      "RAIDER",
+      "MINER",
+      "NECKLACE",
+      "ANCHOR",
+      "FENCE",
+      "GUARD"
+    ],
+    "falseGroups": [
+      "Things meaning 'to attack' (BLITZ, SACK, BOMB, HIT, RAIDER, TACKLE)",
+      "Workers (PACKER, STEELER, RAIDER, MINER, GUARD, CENTER)"
+    ]
+  },
+  {
+    "id": "nfl_027",
+    "pack": "nfl",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Ways to score in football",
+        "words": [
+          "TOUCHDOWN",
+          "FIELDGOAL",
+          "SAFETY",
+          "RETURN"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL draft rounds",
+        "words": [
+          "FIRST",
+          "SECOND",
+          "THIRD",
+          "SEVENTH"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to flee'",
+        "words": [
+          "BOLT",
+          "ESCAPE",
+          "EVADE",
+          "DODGE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also an NFL team name",
+        "words": [
+          "GIANT",
+          "JET",
+          "CHIEF",
+          "SAINT"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "TOUCHDOWN",
+      "SAFETY",
+      "RETURN",
+      "FIRST",
+      "SECOND",
+      "THIRD",
+      "BOLT",
+      "ESCAPE",
+      "EVADE",
+      "DODGE",
+      "GIANT",
+      "JET"
+    ],
+    "falseGroups": [
+      "Football (TOUCHDOWN, FIELDGOAL, SAFETY, RETURN, FIRST, GIANT, JET, CHIEF)",
+      "Things meaning 'fast' (BOLT, JET, ESCAPE, RETURN, SPRINT)",
+      "Car brands (DODGE, BOLT, ESCAPE, GIANT)"
+    ]
+  },
+  {
+    "id": "nfl_028",
+    "pack": "nfl",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Football offensive plays",
+        "words": [
+          "SCREEN",
+          "SWEEP",
+          "DRAW",
+          "REVERSE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL referee signals",
+        "words": [
+          "FLAG",
+          "WHISTLE",
+          "SPOT",
+          "CHAIN"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to sketch'",
+        "words": [
+          "TRACE",
+          "OUTLINE",
+          "DRAFT",
+          "RENDER"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ motion",
+        "words": [
+          "SLOW",
+          "PRE",
+          "SET",
+          "FORWARD"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "SCREEN",
+      "SWEEP",
+      "DRAW",
+      "REVERSE",
+      "FLAG",
+      "WHISTLE",
+      "SPOT",
+      "CHAIN",
+      "TRACE",
+      "DRAFT",
+      "RENDER",
+      "SLOW",
+      "FORWARD"
+    ],
+    "falseGroups": [
+      "Football (SCREEN, SWEEP, DRAW, REVERSE, FLAG, SPOT, CHAIN, DRAFT, FORWARD)",
+      "Things meaning 'to move' (SWEEP, REVERSE, FORWARD, SLOW, SET, DRAW)",
+      "Art words (DRAW, TRACE, OUTLINE, DRAFT, RENDER, SCREEN)"
+    ]
+  },
+  {
+    "id": "nfl_029",
+    "pack": "nfl",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Types of NFL coverage",
+        "words": [
+          "ZONE",
+          "PRESS",
+          "COVER",
+          "BRACKET"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Football field parts",
+        "words": [
+          "HASH",
+          "PYLON",
+          "TURF",
+          "STRIPE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to cook'",
+        "words": [
+          "GRILL",
+          "ROAST",
+          "TOAST",
+          "SMOKE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a music genre",
+        "words": [
+          "METAL",
+          "ROCK",
+          "COUNTRY",
+          "POP"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "ZONE",
+      "PRESS",
+      "COVER",
+      "BRACKET",
+      "HASH",
+      "PYLON",
+      "TURF",
+      "STRIPE",
+      "GRILL",
+      "ROAST",
+      "TOAST",
+      "SMOKE",
+      "METAL",
+      "ROCK"
+    ],
+    "falseGroups": [
+      "Football (ZONE, PRESS, COVER, HASH, PYLON, TURF, STRIPE, BRACKET)",
+      "Things meaning 'to criticize' (GRILL, ROAST, TOAST, SMOKE, PRESS, ROCK)"
+    ]
+  },
+  {
+    "id": "nfl_030",
+    "pack": "nfl",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "QB throwing styles",
+        "words": [
+          "SPIRAL",
+          "BULLET",
+          "TOUCH",
+          "LOFT"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL contract terms",
+        "words": [
+          "CAP",
+          "BONUS",
+          "TRADE",
+          "WAIVER"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things in a castle",
+        "words": [
+          "MOAT",
+          "TURRET",
+          "DUNGEON",
+          "RAMPART"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also means 'to fire/release'",
+        "words": [
+          "CUT",
+          "DROP",
+          "RELEASE",
+          "WAIVE"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "SPIRAL",
+      "BULLET",
+      "TOUCH",
+      "LOFT",
+      "CAP",
+      "BONUS",
+      "TRADE",
+      "WAIVER",
+      "MOAT",
+      "TURRET",
+      "DUNGEON",
+      "CUT",
+      "DROP"
+    ],
+    "falseGroups": [
+      "Football (SPIRAL, BULLET, TOUCH, LOFT, CAP, TRADE, WAIVER, CUT, DROP, RELEASE)",
+      "Things meaning 'to throw' (SPIRAL, BULLET, LOFT, DROP, CUT, TRADE)"
+    ]
+  },
+  {
+    "id": "nfl_031",
+    "pack": "nfl",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Football sideline items",
+        "words": [
+          "CLIPBOARD",
+          "HEADSET",
+          "GATORADE",
+          "TABLET"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL suspension reasons",
+        "words": [
+          "CONDUCT",
+          "SUBSTANCE",
+          "GAMBLING",
+          "ASSAULT"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to reveal'",
+        "words": [
+          "EXPOSE",
+          "UNVEIL",
+          "DIVULGE",
+          "BETRAY"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ catch",
+        "words": [
+          "FAIR",
+          "GOOD",
+          "EYE",
+          "HAUL"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "CLIPBOARD",
+      "HEADSET",
+      "TABLET",
+      "CONDUCT",
+      "SUBSTANCE",
+      "GAMBLING",
+      "ASSAULT",
+      "EXPOSE",
+      "UNVEIL",
+      "DIVULGE",
+      "BETRAY",
+      "FAIR"
+    ],
+    "falseGroups": [
+      "Things meaning 'bad behavior' (CONDUCT, SUBSTANCE, GAMBLING, ASSAULT, BETRAY, EXPOSE)",
+      "Football (CLIPBOARD, HEADSET, GATORADE, TABLET, FAIR, CATCH)"
+    ]
+  },
+  {
+    "id": "nfl_032",
+    "pack": "nfl",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Linebacker actions",
+        "words": [
+          "BLITZ",
+          "STUFF",
+          "CONTAIN",
+          "RUSH"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL mascot animals (water)",
+        "words": [
+          "DOLPHIN",
+          "SEAHAWK",
+          "PELICAN",
+          "MARLIN"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things in a greenhouse",
+        "words": [
+          "SEEDLING",
+          "POTTING",
+          "COMPOST",
+          "TRELLIS"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also means 'a building'",
+        "words": [
+          "PLANT",
+          "SHED",
+          "BARN",
+          "MILL"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "BLITZ",
+      "STUFF",
+      "CONTAIN",
+      "RUSH",
+      "DOLPHIN",
+      "SEAHAWK",
+      "PELICAN",
+      "SEEDLING",
+      "POTTING",
+      "COMPOST",
+      "TRELLIS",
+      "PLANT",
+      "SHED"
+    ],
+    "falseGroups": [
+      "Things meaning 'to block' (BLITZ, STUFF, CONTAIN, SHED, PLANT)",
+      "Garden (SEEDLING, POTTING, COMPOST, TRELLIS, PLANT, SHED, BARN, MILL)"
+    ]
+  },
+  {
+    "id": "nfl_033",
+    "pack": "nfl",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Things yelled at a game",
+        "words": [
+          "DEFENSE",
+          "CHARGE",
+          "WAVE",
+          "RALLY"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL season types",
+        "words": [
+          "PRESEASON",
+          "REGULAR",
+          "PLAYOFF",
+          "WILDCARD"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to polish'",
+        "words": [
+          "BUFF",
+          "BURNISH",
+          "GLOSS",
+          "HONE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ card",
+        "words": [
+          "WILD",
+          "RED",
+          "FLASH",
+          "SCORE"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "DEFENSE",
+      "CHARGE",
+      "WAVE",
+      "RALLY",
+      "PRESEASON",
+      "REGULAR",
+      "PLAYOFF",
+      "WILDCARD",
+      "BUFF",
+      "BURNISH",
+      "GLOSS",
+      "WILD",
+      "RED"
+    ],
+    "falseGroups": [
+      "Football (DEFENSE, CHARGE, RALLY, PRESEASON, REGULAR, PLAYOFF, WILDCARD, WILD, RED)",
+      "Things meaning 'to cheer' (DEFENSE, CHARGE, WAVE, RALLY, BUFF)"
+    ]
+  },
+  {
+    "id": "nfl_034",
+    "pack": "nfl",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Running back stats",
+        "words": [
+          "YARDS",
+          "CARRY",
+          "FUMBLE",
+          "AVERAGE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL team nicknames (weather)",
+        "words": [
+          "THUNDER",
+          "STORM",
+          "LIGHTNING",
+          "CYCLONE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things that bloom",
+        "words": [
+          "TULIP",
+          "ORCHID",
+          "DAISY",
+          "LILY"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden animal inside",
+        "words": [
+          "SCOWLING",
+          "RAMPANT",
+          "FOXHOUND",
+          "CANTATA"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "YARDS",
+      "CARRY",
+      "FUMBLE",
+      "AVERAGE",
+      "THUNDER",
+      "STORM",
+      "LIGHTNING",
+      "CYCLONE",
+      "TULIP",
+      "ORCHID",
+      "DAISY",
+      "SCOWLING",
+      "FOXHOUND"
+    ],
+    "falseGroups": [
+      "Football (YARDS, CARRY, FUMBLE, AVERAGE, THUNDER, STORM, LIGHTNING)",
+      "Things meaning 'fast' (LIGHTNING, STORM, CYCLONE, CARRY, FUMBLE)"
+    ]
+  },
+  {
+    "id": "nfl_035",
+    "pack": "nfl",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Football protective gear",
+        "words": [
+          "HELMET",
+          "VISOR",
+          "FACEMASK",
+          "MOUTHGUARD"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL playoff terms",
+        "words": [
+          "SEED",
+          "BYE",
+          "WILDCARD",
+          "BRACKET"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to gamble'",
+        "words": [
+          "WAGER",
+          "STAKE",
+          "RISK",
+          "VENTURE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a greeting",
+        "words": [
+          "WAVE",
+          "SALUTE",
+          "BOW",
+          "NOD"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "HELMET",
+      "VISOR",
+      "FACEMASK",
+      "SEED",
+      "BYE",
+      "WILDCARD",
+      "BRACKET",
+      "WAGER",
+      "STAKE",
+      "RISK",
+      "VENTURE",
+      "WAVE",
+      "SALUTE"
+    ],
+    "falseGroups": [
+      "Football (HELMET, VISOR, FACEMASK, SEED, BYE, WILDCARD, BRACKET, STAKE)",
+      "Things meaning 'to risk' (WAGER, STAKE, RISK, VENTURE, BYE, SEED, WILDCARD)"
+    ]
+  },
+  {
+    "id": "nfl_036",
+    "pack": "nfl",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Offensive line calls",
+        "words": [
+          "PULL",
+          "TRAP",
+          "SLIDE",
+          "CHIP"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL team cities (also common words)",
+        "words": [
+          "BUFFALO",
+          "PHOENIX",
+          "CLEVELAND",
+          "HOUSTON"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Casino terms",
+        "words": [
+          "JACKPOT",
+          "DEALER",
+          "HOUSE",
+          "STAKE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ trap",
+        "words": [
+          "SPEED",
+          "MOUSE",
+          "SAND",
+          "DEATH"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "PULL",
+      "TRAP",
+      "SLIDE",
+      "CHIP",
+      "BUFFALO",
+      "PHOENIX",
+      "CLEVELAND",
+      "JACKPOT",
+      "DEALER",
+      "HOUSE",
+      "STAKE",
+      "SPEED",
+      "SAND"
+    ],
+    "falseGroups": [
+      "Football (PULL, TRAP, SLIDE, CHIP, BUFFALO, SPEED)",
+      "Things meaning 'to trick' (TRAP, CHIP, DEALER, HOUSE, STAKE, BLUFF)"
+    ]
+  },
+  {
+    "id": "nfl_037",
+    "pack": "nfl",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Things in a playbook",
+        "words": [
+          "ROUTE",
+          "SCHEME",
+          "AUDIBLE",
+          "CADENCE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL celebration moves",
+        "words": [
+          "DANCE",
+          "FLEX",
+          "GRIDDY",
+          "SHIMMY"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to shake'",
+        "words": [
+          "QUAKE",
+          "SHIVER",
+          "QUIVER",
+          "TREMOR"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a volleyball term",
+        "words": [
+          "SPIKE",
+          "SET",
+          "BLOCK",
+          "DIG"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "ROUTE",
+      "SCHEME",
+      "AUDIBLE",
+      "CADENCE",
+      "DANCE",
+      "FLEX",
+      "GRIDDY",
+      "SHIMMY",
+      "QUAKE",
+      "SHIVER",
+      "QUIVER",
+      "SPIKE",
+      "SET",
+      "BLOCK"
+    ],
+    "falseGroups": [
+      "Football (ROUTE, SCHEME, AUDIBLE, CADENCE, SPIKE, FLEX, SET, BLOCK)",
+      "Things meaning 'to move' (SHIMMY, SPIKE, FLEX, QUAKE, SHIVER, QUIVER)"
+    ]
+  },
+  {
+    "id": "nfl_038",
+    "pack": "nfl",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Kicking terms",
+        "words": [
+          "PUNT",
+          "BOOT",
+          "SHANK",
+          "COFFIN"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL award winners (last names = words)",
+        "words": [
+          "MOSS",
+          "WARD",
+          "BELL",
+          "REED"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things in a swamp",
+        "words": [
+          "MARSH",
+          "BOG",
+          "MIRE",
+          "BAYOU"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ corner",
+        "words": [
+          "FLAG",
+          "SLOT",
+          "NICKEL",
+          "DIME"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "PUNT",
+      "BOOT",
+      "SHANK",
+      "COFFIN",
+      "MOSS",
+      "WARD",
+      "BELL",
+      "REED",
+      "MARSH",
+      "BOG",
+      "MIRE",
+      "FLAG",
+      "NICKEL"
+    ],
+    "falseGroups": [
+      "Football (PUNT, BOOT, SHANK, COFFIN, FLAG, SLOT, NICKEL, DIME)",
+      "Nature (MOSS, REED, MARSH, BOG, MIRE, BAYOU, BELL)",
+      "Money (NICKEL, DIME, BOOT, WARD, COFFIN)"
+    ]
+  },
+  {
+    "id": "nfl_039",
+    "pack": "nfl",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Football game situations",
+        "words": [
+          "OVERTIME",
+          "FUMBLE",
+          "TURNOVER",
+          "LATERAL"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL coaching trees",
+        "words": [
+          "BRANCH",
+          "STEM",
+          "ROOT",
+          "SEED"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Types of bread",
+        "words": [
+          "SOURDOUGH",
+          "BRIOCHE",
+          "FOCACCIA",
+          "NAAN"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden color inside",
+        "words": [
+          "GREENLY",
+          "RUSTLE",
+          "TANGENT",
+          "GOLDEN"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "OVERTIME",
+      "FUMBLE",
+      "TURNOVER",
+      "LATERAL",
+      "BRANCH",
+      "STEM",
+      "ROOT",
+      "SEED",
+      "SOURDOUGH",
+      "BRIOCHE",
+      "GREENLY",
+      "RUSTLE",
+      "TANGENT"
+    ],
+    "falseGroups": [
+      "Football (OVERTIME, FUMBLE, TURNOVER, LATERAL, BRANCH, SEED, ROOT)",
+      "Nature (BRANCH, STEM, ROOT, SEED, GREENLY, GOLDEN)"
+    ]
+  },
+  {
+    "id": "nfl_040",
+    "pack": "nfl",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Defensive back techniques",
+        "words": [
+          "JAM",
+          "TRAIL",
+          "BAIL",
+          "SHADOW"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL franchise actions",
+        "words": [
+          "RELOCATE",
+          "EXPAND",
+          "MERGE",
+          "REBRAND"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to follow'",
+        "words": [
+          "PURSUE",
+          "CHASE",
+          "STALK",
+          "HOUND"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ rush",
+        "words": [
+          "GOLD",
+          "SUGAR",
+          "BULL",
+          "HEAD"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "JAM",
+      "TRAIL",
+      "BAIL",
+      "SHADOW",
+      "RELOCATE",
+      "EXPAND",
+      "MERGE",
+      "REBRAND",
+      "PURSUE",
+      "CHASE",
+      "STALK",
+      "HOUND",
+      "GOLD",
+      "BULL"
+    ],
+    "falseGroups": [
+      "Football (JAM, TRAIL, BAIL, SHADOW, RUSH, BULL, GOLD)",
+      "Things meaning 'to chase' (TRAIL, SHADOW, PURSUE, CHASE, STALK, HOUND, BAIL)"
+    ]
+  },
+  {
+    "id": "nfl_041",
+    "pack": "nfl",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Football terms (also cooking words)",
+        "words": [
+          "SCRAMBLE",
+          "STRIP",
+          "WHIP",
+          "ROLL"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL defensive formations",
+        "words": [
+          "NICKEL",
+          "DIME",
+          "QUARTER",
+          "DOLLAR"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Types of currency",
+        "words": [
+          "POUND",
+          "FRANC",
+          "CROWN",
+          "RUPEE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also an NFL team mascot",
+        "words": [
+          "RAM",
+          "COLT",
+          "BEAR",
+          "RAVEN"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "SCRAMBLE",
+      "STRIP",
+      "WHIP",
+      "ROLL",
+      "NICKEL",
+      "DIME",
+      "QUARTER",
+      "DOLLAR",
+      "POUND",
+      "FRANC",
+      "CROWN",
+      "RUPEE",
+      "RAM",
+      "COLT"
+    ],
+    "falseGroups": [
+      "Money (NICKEL, DIME, QUARTER, DOLLAR, POUND, FRANC, CROWN, RUPEE)",
+      "Football (SCRAMBLE, STRIP, WHIP, ROLL, NICKEL, DIME, QUARTER, RAM, COLT)",
+      "Animals (RAM, COLT, BEAR, RAVEN, DOLLAR[?])"
+    ]
+  },
+  {
+    "id": "nfl_042",
+    "pack": "nfl",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Passing route tree",
+        "words": [
+          "POST",
+          "CORNER",
+          "CURL",
+          "SLANT"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL injury types",
+        "words": [
+          "SPRAIN",
+          "STRAIN",
+          "FRACTURE",
+          "TEAR"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to cry'",
+        "words": [
+          "WEEP",
+          "SOB",
+          "WAIL",
+          "BAWL"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a football penalty",
+        "words": [
+          "HOLDING",
+          "BLOCK",
+          "TRIP",
+          "DELAY"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "POST",
+      "CORNER",
+      "CURL",
+      "SLANT",
+      "SPRAIN",
+      "STRAIN",
+      "FRACTURE",
+      "TEAR",
+      "WEEP",
+      "SOB",
+      "WAIL",
+      "BAWL",
+      "HOLDING",
+      "BLOCK"
+    ],
+    "falseGroups": [
+      "Football (POST, CORNER, CURL, SLANT, HOLDING, BLOCK, DELAY, TRIP)",
+      "Things meaning 'pain' (SPRAIN, STRAIN, FRACTURE, TEAR, WAIL, SOB, BAWL)",
+      "Things meaning 'to grab' (HOLDING, CURL, POST, CORNER, BLOCK)"
+    ]
+  },
+  {
+    "id": "nfl_043",
+    "pack": "nfl",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Things a center does",
+        "words": [
+          "SNAP",
+          "BLOCK",
+          "CALL",
+          "PULL"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL franchise values",
+        "words": [
+          "BILLION",
+          "REVENUE",
+          "SALARY",
+          "EQUITY"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things with a dial",
+        "words": [
+          "SAFE",
+          "COMPASS",
+          "RADIO",
+          "OVEN"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden planet inside",
+        "words": [
+          "MARSHY",
+          "HEARTH",
+          "SATURNINE",
+          "PLUTOCRAT"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "SNAP",
+      "BLOCK",
+      "CALL",
+      "PULL",
+      "BILLION",
+      "REVENUE",
+      "SALARY",
+      "EQUITY",
+      "SAFE",
+      "COMPASS",
+      "RADIO",
+      "OVEN",
+      "MARSHY"
+    ],
+    "falseGroups": [
+      "Football (SNAP, BLOCK, CALL, PULL, SALARY, EQUITY, REVENUE)",
+      "Things meaning 'money' (BILLION, REVENUE, SALARY, EQUITY, SAFE)",
+      "Things meaning 'direction' (COMPASS, CALL, PULL, SNAP, RADIO)"
+    ]
+  },
+  {
+    "id": "nfl_044",
+    "pack": "nfl",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Football analyst jargon",
+        "words": [
+          "CEILING",
+          "FLOOR",
+          "UPSIDE",
+          "STOCK"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL game day weather",
+        "words": [
+          "FLURRY",
+          "SQUALL",
+          "GUST",
+          "SLEET"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to praise'",
+        "words": [
+          "COMMEND",
+          "ACCLAIM",
+          "SALUTE",
+          "EXTOL"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a football term",
+        "words": [
+          "SNAP",
+          "TACKLE",
+          "FUMBLE",
+          "DRIVE"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "CEILING",
+      "FLOOR",
+      "UPSIDE",
+      "STOCK",
+      "FLURRY",
+      "SQUALL",
+      "GUST",
+      "SLEET",
+      "COMMEND",
+      "ACCLAIM",
+      "SALUTE",
+      "EXTOL",
+      "SNAP",
+      "TACKLE"
+    ],
+    "falseGroups": [
+      "Business/draft (CEILING, FLOOR, UPSIDE, STOCK, SNAP, TACKLE, DRIVE)",
+      "Football (CEILING, FLOOR, UPSIDE, STOCK, SNAP, TACKLE, FUMBLE, DRIVE)",
+      "Things meaning 'weather' (FLURRY, SQUALL, GUST, SLEET, DRIVE, SNAP)"
+    ]
+  },
+  {
+    "id": "nfl_045",
+    "pack": "nfl",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Trick play names",
+        "words": [
+          "FLEA",
+          "FUMBLEROOSKI",
+          "STATUE",
+          "PHILLY"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL team relocation cities",
+        "words": [
+          "OAKLAND",
+          "STLOUIS",
+          "SANDIEGO",
+          "BALTIMORE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to vanish'",
+        "words": [
+          "DISSOLVE",
+          "EVAPORATE",
+          "FADE",
+          "RECEDE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden country inside",
+        "words": [
+          "WOMANLY",
+          "INCUBATE",
+          "PERUSE",
+          "MALIGNED"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "FLEA",
+      "FUMBLEROOSKI",
+      "STATUE",
+      "PHILLY",
+      "OAKLAND",
+      "STLOUIS",
+      "SANDIEGO",
+      "DISSOLVE",
+      "EVAPORATE",
+      "FADE",
+      "RECEDE",
+      "WOMANLY",
+      "INCUBATE"
+    ],
+    "falseGroups": [
+      "Football (FLEA, FUMBLEROOSKI, STATUE, PHILLY, OAKLAND, FADE)",
+      "Things meaning 'to leave' (DISSOLVE, EVAPORATE, FADE, RECEDE, OAKLAND, SANDIEGO, STLOUIS)"
+    ]
+  },
+  {
+    "id": "nfl_046",
+    "pack": "nfl",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Football terms (also card game words)",
+        "words": [
+          "BLUFF",
+          "DRAW",
+          "FOLD",
+          "HAND"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL team mascots (mythology)",
+        "words": [
+          "TITAN",
+          "VIKING",
+          "GIANT",
+          "SAINT"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things in a courtroom",
+        "words": [
+          "GAVEL",
+          "JURY",
+          "WITNESS",
+          "BAILIFF"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a poker term",
+        "words": [
+          "CHECK",
+          "RAISE",
+          "CALL",
+          "RIVER"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "BLUFF",
+      "DRAW",
+      "FOLD",
+      "HAND",
+      "TITAN",
+      "VIKING",
+      "GIANT",
+      "SAINT",
+      "GAVEL",
+      "JURY",
+      "WITNESS",
+      "CHECK",
+      "RAISE",
+      "CALL"
+    ],
+    "falseGroups": [
+      "Card games (BLUFF, DRAW, FOLD, HAND, CHECK, RAISE, CALL, RIVER)",
+      "Football (BLUFF, DRAW, HAND, TITAN, GIANT, CHECK, CALL)",
+      "Things meaning 'to judge' (GAVEL, JURY, WITNESS, CALL, CHECK, RAISE)"
+    ]
+  },
+  {
+    "id": "nfl_047",
+    "pack": "nfl",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Quarterback mechanics",
+        "words": [
+          "POCKET",
+          "RELEASE",
+          "PLANT",
+          "STEP"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL salary cap terms",
+        "words": [
+          "BONUS",
+          "VOID",
+          "OPTION",
+          "TENDER"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to choose'",
+        "words": [
+          "SELECT",
+          "DRAFT",
+          "PICK",
+          "ELECT"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden tree inside",
+        "words": [
+          "OAKEN",
+          "BASHFUL",
+          "HELMET",
+          "FIRKIN"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "POCKET",
+      "RELEASE",
+      "PLANT",
+      "STEP",
+      "BONUS",
+      "VOID",
+      "OPTION",
+      "TENDER",
+      "SELECT",
+      "DRAFT",
+      "PICK",
+      "ELECT",
+      "OAKEN"
+    ],
+    "falseGroups": [
+      "Football (POCKET, RELEASE, PLANT, STEP, BONUS, OPTION, TENDER, DRAFT, PICK)",
+      "Things meaning 'to choose' (SELECT, DRAFT, PICK, ELECT, OPTION, TENDER)",
+      "Things meaning 'gentle' (TENDER, PLANT, STEP, BASHFUL, OAKEN)"
+    ]
+  },
+  {
+    "id": "nfl_048",
+    "pack": "nfl",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Things in an NFL war room",
+        "words": [
+          "DRAFT",
+          "BOARD",
+          "PHONE",
+          "SCREEN"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Football field surfaces",
+        "words": [
+          "TURF",
+          "GRASS",
+          "FIELD",
+          "DOME"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to fortify'",
+        "words": [
+          "BUTTRESS",
+          "BOLSTER",
+          "BRACE",
+          "SHORE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden instrument inside",
+        "words": [
+          "SHARPIE",
+          "ORGANIC",
+          "DISSOLUTE",
+          "PIPETTE"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "DRAFT",
+      "BOARD",
+      "PHONE",
+      "SCREEN",
+      "TURF",
+      "GRASS",
+      "FIELD",
+      "DOME",
+      "BUTTRESS",
+      "BOLSTER",
+      "BRACE",
+      "SHORE",
+      "SHARPIE",
+      "ORGANIC"
+    ],
+    "falseGroups": [
+      "Football (DRAFT, BOARD, SCREEN, TURF, GRASS, FIELD, DOME, SHORE)",
+      "Things meaning 'to support' (BUTTRESS, BOLSTER, BRACE, SHORE, BOARD, FIELD)",
+      "Music (SHARPIE[harp], ORGANIC[organ], DISSOLUTE[lute], PIPETTE[pipe])"
+    ]
+  },
+  {
+    "id": "nfl_049",
+    "pack": "nfl",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Pass rush moves",
+        "words": [
+          "SWIM",
+          "BULL",
+          "SPIN",
+          "CHOP"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL dynasty teams",
+        "words": [
+          "PATRIOT",
+          "STEELER",
+          "COWBOY",
+          "PACKER"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things that can be 'double'",
+        "words": [
+          "AGENT",
+          "DECKER",
+          "EDGED",
+          "DUTCH"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden body part inside",
+        "words": [
+          "WRISTED",
+          "ELBOWED",
+          "HIPSTER",
+          "ANKLET"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "SWIM",
+      "BULL",
+      "SPIN",
+      "CHOP",
+      "PATRIOT",
+      "STEELER",
+      "COWBOY",
+      "PACKER",
+      "AGENT",
+      "DECKER",
+      "EDGED",
+      "DUTCH",
+      "WRISTED",
+      "HIPSTER"
+    ],
+    "falseGroups": [
+      "Football (SWIM, BULL, SPIN, CHOP, PATRIOT, STEELER, COWBOY, PACKER, AGENT, DECKER)",
+      "Things meaning 'to cut' (SWIM, CHOP, SPIN, EDGED, BULL)",
+      "Body (WRISTED, ELBOWED, HIPSTER, ANKLET, BULL, CHOP)"
+    ]
+  },
+  {
+    "id": "nfl_050",
+    "pack": "nfl",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Football terms (also musical)",
+        "words": [
+          "TEMPO",
+          "CADENCE",
+          "BEAT",
+          "MARCH"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "NFL record categories",
+        "words": [
+          "RUSHING",
+          "PASSING",
+          "SCORING",
+          "SACK"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to overwhelm'",
+        "words": [
+          "SWAMP",
+          "ENGULF",
+          "INUNDATE",
+          "DELUGE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden month inside",
+        "words": [
+          "NOVICE",
+          "AUGMENT",
+          "MARCHING",
+          "DISMAY"
+        ],
+        "difficulty": 4
+      }
+    ],
+    "trapWords": [
+      "TEMPO",
+      "CADENCE",
+      "BEAT",
+      "MARCH",
+      "RUSHING",
+      "PASSING",
+      "SCORING",
+      "SACK",
+      "SWAMP",
+      "ENGULF",
+      "INUNDATE",
+      "DELUGE",
+      "NOVICE",
+      "AUGMENT"
+    ],
+    "falseGroups": [
+      "Football (TEMPO, CADENCE, BEAT, MARCH, RUSHING, PASSING, SCORING, SACK)",
+      "Music (TEMPO, CADENCE, BEAT, MARCH, SCORING, PASSING)",
+      "Things meaning 'to flood' (SWAMP, ENGULF, INUNDATE, DELUGE, RUSHING, PASSING)"
+    ]
+  }
+]

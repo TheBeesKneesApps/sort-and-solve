@@ -1,0 +1,96 @@
+import { Platform } from 'react-native';
+
+export const IAP_SKUS = Platform.select({
+  ios: {
+    archivePass: 'sort_archive_pass',
+    hints10: 'sort_hints_10',
+    hints25: 'sort_hints_25',
+    streakFreeze3: 'sort_streak_freeze_3',
+    unlockAll: 'sort_unlock_everything',
+    // Pack SKUs
+    popCulture: 'sort_pack_pop_culture',
+    science: 'sort_pack_science',
+    food: 'sort_pack_food',
+    geography: 'sort_pack_geography',
+    tricky: 'sort_pack_tricky',
+    rap: 'sort_pack_rap',
+    rock: 'sort_pack_rock',
+    country: 'sort_pack_country',
+    music80s: 'sort_pack_80s_music',
+    music90s: 'sort_pack_90s_music',
+    actionScifi: 'sort_pack_action_scifi',
+    horror: 'sort_pack_horror',
+    comedy: 'sort_pack_comedy',
+    movies90s: 'sort_pack_90s_movies',
+    nfl: 'sort_pack_nfl',
+    nba: 'sort_pack_nba',
+    soccer: 'sort_pack_soccer',
+    olympics: 'sort_pack_olympics',
+    // Bundles
+    bundleGeneral: 'sort_bundle_general',
+    bundleMusic: 'sort_bundle_music',
+    bundleMovies: 'sort_bundle_movies',
+    bundleSports: 'sort_bundle_sports',
+  },
+  default: {
+    archivePass: 'sort_archive_pass',
+    hints10: 'sort_hints_10',
+    hints25: 'sort_hints_25',
+    streakFreeze3: 'sort_streak_freeze_3',
+    unlockAll: 'sort_unlock_everything',
+    popCulture: 'sort_pack_pop_culture',
+    science: 'sort_pack_science',
+    food: 'sort_pack_food',
+    geography: 'sort_pack_geography',
+    tricky: 'sort_pack_tricky',
+    rap: 'sort_pack_rap',
+    rock: 'sort_pack_rock',
+    country: 'sort_pack_country',
+    music80s: 'sort_pack_80s_music',
+    music90s: 'sort_pack_90s_music',
+    actionScifi: 'sort_pack_action_scifi',
+    horror: 'sort_pack_horror',
+    comedy: 'sort_pack_comedy',
+    movies90s: 'sort_pack_90s_movies',
+    nfl: 'sort_pack_nfl',
+    nba: 'sort_pack_nba',
+    soccer: 'sort_pack_soccer',
+    olympics: 'sort_pack_olympics',
+    bundleGeneral: 'sort_bundle_general',
+    bundleMusic: 'sort_bundle_music',
+    bundleMovies: 'sort_bundle_movies',
+    bundleSports: 'sort_bundle_sports',
+  },
+})!;
+
+export const ALL_PRODUCT_SKUS = Object.values(IAP_SKUS);
+
+// Map pack IDs to their SKUs
+export const PACK_SKU_MAP: Record<string, string> = {
+  pop_culture: IAP_SKUS.popCulture,
+  science: IAP_SKUS.science,
+  food: IAP_SKUS.food,
+  geography: IAP_SKUS.geography,
+  tricky: IAP_SKUS.tricky,
+  rap: IAP_SKUS.rap,
+  rock: IAP_SKUS.rock,
+  country: IAP_SKUS.country,
+  '80s_music': IAP_SKUS.music80s,
+  '90s_music': IAP_SKUS.music90s,
+  action_scifi: IAP_SKUS.actionScifi,
+  horror: IAP_SKUS.horror,
+  comedy: IAP_SKUS.comedy,
+  '90s_movies': IAP_SKUS.movies90s,
+  nfl: IAP_SKUS.nfl,
+  nba: IAP_SKUS.nba,
+  soccer: IAP_SKUS.soccer,
+  olympics: IAP_SKUS.olympics,
+};
+
+// Bundle -> pack IDs it unlocks
+export const BUNDLE_PACKS: Record<string, string[]> = {
+  [IAP_SKUS.bundleGeneral]: ['pop_culture', 'science', 'food', 'geography', 'tricky'],
+  [IAP_SKUS.bundleMusic]: ['rap', 'rock', 'country', '80s_music', '90s_music'],
+  [IAP_SKUS.bundleMovies]: ['action_scifi', 'horror', 'comedy', '90s_movies'],
+  [IAP_SKUS.bundleSports]: ['nfl', 'nba', 'soccer', 'olympics'],
+};

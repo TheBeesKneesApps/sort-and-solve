@@ -1,0 +1,2302 @@
+[
+  {
+    "id": "movies90s_001",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "90s movie genres",
+        "words": [
+          "SLASHER",
+          "ROMCOM",
+          "THRILLER",
+          "HEIST"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Things at a movie theater",
+        "words": [
+          "POPCORN",
+          "TICKET",
+          "SCREEN",
+          "TRAILER"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to shine'",
+        "words": [
+          "GLOW",
+          "BEAM",
+          "GLEAM",
+          "RADIATE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ picture",
+        "words": [
+          "MOTION",
+          "BIG",
+          "PERFECT",
+          "WHOLE"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_002",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "90s action movie words",
+        "words": [
+          "CHASE",
+          "BLAST",
+          "CRASH",
+          "ESCAPE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Movie set roles",
+        "words": [
+          "DIRECTOR",
+          "PRODUCER",
+          "GAFFER",
+          "GRIP"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Types of bread",
+        "words": [
+          "SOURDOUGH",
+          "BRIOCHE",
+          "FOCACCIA",
+          "NAAN"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ scene",
+        "words": [
+          "CRIME",
+          "OPENING",
+          "LOVE",
+          "CUT"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_003",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "90s comedy tropes",
+        "words": [
+          "MAKEOVER",
+          "PRANK",
+          "MISFIT",
+          "REUNION"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Movie rating terms",
+        "words": [
+          "RATED",
+          "MATURE",
+          "GENERAL",
+          "RESTRICT"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things in a greenhouse",
+        "words": [
+          "SEEDLING",
+          "POTTING",
+          "COMPOST",
+          "TRELLIS"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ cut",
+        "words": [
+          "FINAL",
+          "ROUGH",
+          "PAPER",
+          "SHORT"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_004",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "90s horror movie elements",
+        "words": [
+          "MASK",
+          "SCREAM",
+          "PHONE",
+          "KILLER"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Movie soundtrack terms",
+        "words": [
+          "SCORE",
+          "THEME",
+          "MONTAGE",
+          "CREDITS"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to flee'",
+        "words": [
+          "BOLT",
+          "ESCAPE",
+          "EVADE",
+          "DODGE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ house",
+        "words": [
+          "FULL",
+          "SLAUGHTER",
+          "ART",
+          "OPEN"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_005",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "90s blockbuster elements",
+        "words": [
+          "SEQUEL",
+          "FRANCHISE",
+          "OPENING",
+          "GROSS"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Movie poster features",
+        "words": [
+          "TAGLINE",
+          "BILLING",
+          "LOGO",
+          "RELEASE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a zoo",
+        "words": [
+          "AVIARY",
+          "HABITAT",
+          "KEEPER",
+          "EXHIBIT"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ office",
+        "words": [
+          "BOX",
+          "POST",
+          "HEAD",
+          "TICKET"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_006",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "90s teen movie settings",
+        "words": [
+          "MALL",
+          "PROM",
+          "LOCKER",
+          "CAFETERIA"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Film editing terms",
+        "words": [
+          "SPLICE",
+          "TRIM",
+          "FADE",
+          "DISSOLVE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to scatter'",
+        "words": [
+          "STREW",
+          "SPRINKLE",
+          "DISPERSE",
+          "SPLAY"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ shot",
+        "words": [
+          "LONG",
+          "CLOSE",
+          "CHEAP",
+          "MOON"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_007",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "90s disaster movie threats",
+        "words": [
+          "ASTEROID",
+          "TORNADO",
+          "VOLCANO",
+          "TWISTER"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Movie award categories",
+        "words": [
+          "DIRECTOR",
+          "ACTOR",
+          "EDITING",
+          "COSTUME"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Types of stew",
+        "words": [
+          "GUMBO",
+          "RAGOUT",
+          "CHOWDER",
+          "BISQUE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ cast",
+        "words": [
+          "TYPE",
+          "BROAD",
+          "OVER",
+          "POD"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_008",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "90s courtroom drama words",
+        "words": [
+          "VERDICT",
+          "WITNESS",
+          "GAVEL",
+          "OBJECTION"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Movie production phases",
+        "words": [
+          "DEVELOP",
+          "SHOOTING",
+          "EDITING",
+          "RELEASE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a farm stand",
+        "words": [
+          "CIDER",
+          "SQUASH",
+          "PEACHES",
+          "HONEY"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Grand ___",
+        "words": [
+          "JURY",
+          "PIANO",
+          "PRIX",
+          "CANYON"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_009",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "90s sci-fi movie concepts",
+        "words": [
+          "MATRIX",
+          "CLONE",
+          "VIRTUAL",
+          "CYBORG"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Things on a movie set",
+        "words": [
+          "DOLLY",
+          "BOOM",
+          "SLATE",
+          "MARKER"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to drift'",
+        "words": [
+          "FLOAT",
+          "GLIDE",
+          "COAST",
+          "CRUISE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ light",
+        "words": [
+          "SPOT",
+          "LIME",
+          "FLASH",
+          "GREEN"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_010",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "90s romantic comedy tropes",
+        "words": [
+          "AIRPORT",
+          "RAIN",
+          "SPEECH",
+          "WEDDING"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Movie critic vocabulary",
+        "words": [
+          "RIVETING",
+          "GRIPPING",
+          "STUNNING",
+          "POWERFUL"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things on a bicycle",
+        "words": [
+          "SPOKE",
+          "PEDAL",
+          "FENDER",
+          "BRAKE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ ending",
+        "words": [
+          "HAPPY",
+          "TWIST",
+          "OPEN",
+          "DEAD"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_011",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "90s movie villain types",
+        "words": [
+          "HACKER",
+          "SERIAL",
+          "CORRUPT",
+          "MASTERMIND"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Cinematography terms",
+        "words": [
+          "TRACKING",
+          "PANNING",
+          "CRANE",
+          "DOLLY"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to fortify'",
+        "words": [
+          "BUTTRESS",
+          "BOLSTER",
+          "BRACE",
+          "SHORE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a zodiac sign",
+        "words": [
+          "CANCER",
+          "LEO",
+          "VIRGO",
+          "GEMINI"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_012",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "90s buddy cop movie words",
+        "words": [
+          "PARTNER",
+          "BADGE",
+          "STAKE",
+          "SUSPECT"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Movie release strategies",
+        "words": [
+          "LIMITED",
+          "WIDE",
+          "PLATFORM",
+          "ROADSHOW"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a wedding",
+        "words": [
+          "BOUQUET",
+          "ALTAR",
+          "VEIL",
+          "TOAST"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden bird inside",
+        "words": [
+          "CROWBAR",
+          "EMULATE",
+          "WRENCH",
+          "HAWKING"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_013",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "90s war movie elements",
+        "words": [
+          "PLATOON",
+          "MISSION",
+          "LANDING",
+          "BUNKER"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Film noir vocabulary",
+        "words": [
+          "SHADOW",
+          "FEMME",
+          "GRITTY",
+          "MOODY"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to celebrate'",
+        "words": [
+          "REJOICE",
+          "REVEL",
+          "TOAST",
+          "FEAST"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ drop",
+        "words": [
+          "TEAR",
+          "BACK",
+          "NAME",
+          "SNOW"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_014",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "90s sports movie words",
+        "words": [
+          "UNDERDOG",
+          "COACH",
+          "TROPHY",
+          "RIVAL"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Movie marketing materials",
+        "words": [
+          "TRAILER",
+          "TEASER",
+          "POSTER",
+          "TAGLINE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to quash'",
+        "words": [
+          "SUPPRESS",
+          "SQUELCH",
+          "SMOTHER",
+          "QUELL"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a fabric",
+        "words": [
+          "SILK",
+          "LACE",
+          "SATIN",
+          "VELVET"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_015",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "90s heist movie terms",
+        "words": [
+          "VAULT",
+          "ALARM",
+          "GETAWAY",
+          "CREW"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Movie sequel naming patterns",
+        "words": [
+          "RETURNS",
+          "RISING",
+          "RELOADED",
+          "REVENGE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a dock",
+        "words": [
+          "PIER",
+          "WHARF",
+          "BOLLARD",
+          "JETTY"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a cocktail",
+        "words": [
+          "GIMLET",
+          "COSMO",
+          "SLING",
+          "JULEP"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_016",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "90s indie film traits",
+        "words": [
+          "QUIRKY",
+          "OFFBEAT",
+          "GRITTY",
+          "RAW"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Movie casting terms",
+        "words": [
+          "AUDITION",
+          "CALLBACK",
+          "TYPESET",
+          "ENSEMBLE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to exhaust'",
+        "words": [
+          "DEPLETE",
+          "DRAIN",
+          "SAP",
+          "FATIGUE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a card game",
+        "words": [
+          "SNAP",
+          "SPIT",
+          "WAR",
+          "SPEED"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_017",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "90s animated movie elements",
+        "words": [
+          "SIDEKICK",
+          "VILLAIN",
+          "QUEST",
+          "KINGDOM"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Film score instruments",
+        "words": [
+          "STRINGS",
+          "BRASS",
+          "WOODWIND",
+          "TIMPANI"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things in a vineyard",
+        "words": [
+          "GRAPE",
+          "VINE",
+          "BARREL",
+          "CORK"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ run",
+        "words": [
+          "HOME",
+          "DRY",
+          "BULL",
+          "TRIAL"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_018",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "90s thriller plot devices",
+        "words": [
+          "TWIST",
+          "ALIBI",
+          "CLUE",
+          "SUSPECT"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Film production departments",
+        "words": [
+          "WARDROBE",
+          "PROPS",
+          "MAKEUP",
+          "LIGHTING"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to tremble'",
+        "words": [
+          "QUAKE",
+          "SHIVER",
+          "QUIVER",
+          "TREMOR"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden gem inside",
+        "words": [
+          "JADED",
+          "AMBERJACK",
+          "OPALINE",
+          "PEARLY"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_019",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "90s road movie essentials",
+        "words": [
+          "HIGHWAY",
+          "MOTEL",
+          "DINER",
+          "FUGITIVE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Movie lighting styles",
+        "words": [
+          "AMBIENT",
+          "HARSH",
+          "NATURAL",
+          "BACKLIT"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a rodeo",
+        "words": [
+          "LASSO",
+          "BRONCO",
+          "CHAPS",
+          "BUCKLE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ mate",
+        "words": [
+          "CHECK",
+          "ROOM",
+          "STALE",
+          "PLAY"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_020",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "90s movie twist types",
+        "words": [
+          "REVEAL",
+          "IDENTITY",
+          "BETRAYAL",
+          "FLASHBACK"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Film festival circuit",
+        "words": [
+          "CANNES",
+          "VENICE",
+          "TORONTO",
+          "SUNDANCE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to polish'",
+        "words": [
+          "BUFF",
+          "BURNISH",
+          "GLOSS",
+          "HONE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a chess piece",
+        "words": [
+          "QUEEN",
+          "KING",
+          "BISHOP",
+          "CASTLE"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_021",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "90s movie catchphrase words",
+        "words": [
+          "SHOW",
+          "MONEY",
+          "LIFE",
+          "STUPID"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Stunt coordinator terms",
+        "words": [
+          "RIGGING",
+          "HARNESS",
+          "WIRE",
+          "CUSHION"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to falter'",
+        "words": [
+          "BUCKLE",
+          "CRUMBLE",
+          "WOBBLE",
+          "STUMBLE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ break",
+        "words": [
+          "JAIL",
+          "WIND",
+          "HEART",
+          "DAY"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_022",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "90s movie stock characters",
+        "words": [
+          "JOCK",
+          "NERD",
+          "REBEL",
+          "LONER"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Film continuity terms",
+        "words": [
+          "BLOOPER",
+          "GAFFE",
+          "FLUB",
+          "GOOF"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a marina",
+        "words": [
+          "HULL",
+          "BOOM",
+          "MAST",
+          "KEEL"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a type of shoe",
+        "words": [
+          "PUMP",
+          "MULE",
+          "WEDGE",
+          "SLIDE"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_023",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "90s movie soundtrack genres",
+        "words": [
+          "GRUNGE",
+          "HIPHOP",
+          "TECHNO",
+          "BRITPOP"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Film distribution terms",
+        "words": [
+          "DOMESTIC",
+          "FOREIGN",
+          "THEATRICAL",
+          "STREAMING"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to meander'",
+        "words": [
+          "RAMBLE",
+          "STROLL",
+          "SAUNTER",
+          "AMBLE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden country inside",
+        "words": [
+          "WOMANLY",
+          "INCUBATE",
+          "PERUSE",
+          "MALIGNED"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_024",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "90s movie technology",
+        "words": [
+          "PAGER",
+          "FLOPPY",
+          "DIALUP",
+          "CAMCORDER"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Screenwriting terms",
+        "words": [
+          "DRAFT",
+          "PITCH",
+          "LOGLINE",
+          "TREATMENT"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things in a garden",
+        "words": [
+          "HEDGE",
+          "PERGOLA",
+          "PATIO",
+          "MULCH"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a punctuation mark",
+        "words": [
+          "DASH",
+          "COLON",
+          "SLASH",
+          "PERIOD"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_025",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "90s ensemble cast words",
+        "words": [
+          "ENSEMBLE",
+          "ALLSTAR",
+          "CAMEO",
+          "BILLING"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Film genre mashup words",
+        "words": [
+          "DRAMEDY",
+          "MOCKBUSTER",
+          "DOCUDRAMA",
+          "THRILLER"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to captivate'",
+        "words": [
+          "MESMERIZE",
+          "ENTHRALL",
+          "RIVET",
+          "GRIP"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a type of coffee",
+        "words": [
+          "LATTE",
+          "MOCHA",
+          "FLAT",
+          "LONG"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_026",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "90s movie plot devices",
+        "words": [
+          "PROPHECY",
+          "AMNESIA",
+          "DOUBLE",
+          "RANSOM"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Special effects terms",
+        "words": [
+          "COMPOSITE",
+          "RENDER",
+          "MORPH",
+          "MINIATURE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to overwhelm'",
+        "words": [
+          "SWAMP",
+          "ENGULF",
+          "INUNDATE",
+          "DELUGE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden body part inside",
+        "words": [
+          "WRISTED",
+          "ELBOWED",
+          "HIPSTER",
+          "ANKLET"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_027",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "90s movie cop terminology",
+        "words": [
+          "BACKUP",
+          "WARRANT",
+          "PURSUIT",
+          "PRECINCT"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Film color grading words",
+        "words": [
+          "SATURATE",
+          "BLEACH",
+          "TINT",
+          "CRUSH"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to demolish'",
+        "words": [
+          "RAZE",
+          "LEVEL",
+          "FLATTEN",
+          "GUT"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a dog breed",
+        "words": [
+          "BOXER",
+          "POINTER",
+          "SETTER",
+          "WHIPPET"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_028",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "90s movie car chase words",
+        "words": [
+          "PURSUIT",
+          "SWERVE",
+          "CRASH",
+          "JUMP"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Film sound design terms",
+        "words": [
+          "FOLEY",
+          "AMBIENT",
+          "DIEGETIC",
+          "SCORE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a spa",
+        "words": [
+          "SAUNA",
+          "FACIAL",
+          "ROBE",
+          "STEAM"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ effect",
+        "words": [
+          "SIDE",
+          "GREEN",
+          "DOMINO",
+          "RIPPLE"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_029",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "90s prison movie words",
+        "words": [
+          "WARDEN",
+          "PAROLE",
+          "CELL",
+          "SHANK"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Movie premiere elements",
+        "words": [
+          "CARPET",
+          "VELVET",
+          "PRESS",
+          "FLASHBULB"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to enchant'",
+        "words": [
+          "BEWITCH",
+          "CHARM",
+          "BEGUILE",
+          "ENTRANCE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden fruit inside",
+        "words": [
+          "DEPLUME",
+          "FIGMENT",
+          "PEARLY",
+          "LEMONADE"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_030",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "90s legal thriller words",
+        "words": [
+          "DEPOSITION",
+          "BRIEF",
+          "CHAMBERS",
+          "APPEAL"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Film aspect ratio terms",
+        "words": [
+          "WIDESCREEN",
+          "STANDARD",
+          "SCOPE",
+          "IMAX"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to provoke'",
+        "words": [
+          "GOAD",
+          "INCITE",
+          "INFLAME",
+          "NEEDLE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ street",
+        "words": [
+          "WALL",
+          "HIGH",
+          "EASY",
+          "MAIN"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_031",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "90s spy movie gadgets",
+        "words": [
+          "LASER",
+          "WIRE",
+          "GADGET",
+          "TRACKER"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Movie sequel cliches",
+        "words": [
+          "BIGGER",
+          "DARKER",
+          "ORIGIN",
+          "LEGACY"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things in a clock tower",
+        "words": [
+          "PENDULUM",
+          "BELL",
+          "GEAR",
+          "CHIME"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ fire",
+        "words": [
+          "CROSS",
+          "HELL",
+          "CAMP",
+          "SURE"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_032",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "90s disaster movie responses",
+        "words": [
+          "EVACUATE",
+          "SHELTER",
+          "DETONATE",
+          "OVERRIDE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Film set commands",
+        "words": [
+          "ACTION",
+          "ROLLING",
+          "QUIET",
+          "SPEED"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to wither'",
+        "words": [
+          "WILT",
+          "DROOP",
+          "SHRIVEL",
+          "LANGUISH"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a famous composer",
+        "words": [
+          "BACH",
+          "HANDEL",
+          "HOLST",
+          "ELGAR"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_033",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "90s coming of age themes",
+        "words": [
+          "IDENTITY",
+          "GROWING",
+          "FIRST",
+          "PASSAGE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Movie editing transitions",
+        "words": [
+          "DISSOLVE",
+          "WIPE",
+          "FADE",
+          "SMASH"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to ransack'",
+        "words": [
+          "PILLAGE",
+          "PLUNDER",
+          "LOOT",
+          "RAVAGE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ game",
+        "words": [
+          "NAME",
+          "END",
+          "BLAME",
+          "WORD"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_034",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "90s movie weapon cliches",
+        "words": [
+          "KATANA",
+          "SHOTGUN",
+          "REVOLVER",
+          "DYNAMITE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Film genre audience types",
+        "words": [
+          "CULT",
+          "MAINSTREAM",
+          "ARTHOUSE",
+          "MIDNIGHT"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a circus",
+        "words": [
+          "TRAPEZE",
+          "STILTS",
+          "CANNON",
+          "JUGGLER"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ out",
+        "words": [
+          "KNOCK",
+          "FALL",
+          "SELL",
+          "BURN"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_035",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "90s movie montage activities",
+        "words": [
+          "TRAINING",
+          "SHOPPING",
+          "MAKEOVER",
+          "PACKING"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Film critic rating words",
+        "words": [
+          "FRESH",
+          "ROTTEN",
+          "MIXED",
+          "CERTIFIED"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to bewilder'",
+        "words": [
+          "MYSTIFY",
+          "CONFOUND",
+          "NONPLUS",
+          "STYMIE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ call",
+        "words": [
+          "WAKE",
+          "ROLL",
+          "CLOSE",
+          "CURTAIN"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_036",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "90s movie finale types",
+        "words": [
+          "STANDOFF",
+          "SHOWDOWN",
+          "ESCAPE",
+          "REVEAL"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Foley sound sources",
+        "words": [
+          "COCONUT",
+          "CELERY",
+          "LEATHER",
+          "GRAVEL"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things that bloom",
+        "words": [
+          "TULIP",
+          "ORCHID",
+          "DAISY",
+          "LILY"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ fly",
+        "words": [
+          "BUTTER",
+          "MAY",
+          "BAR",
+          "DRAGON"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_037",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "90s movie technology tropes",
+        "words": [
+          "MODEM",
+          "VIRUS",
+          "HACKER",
+          "REBOOT"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Movie theater concessions",
+        "words": [
+          "NACHOS",
+          "PRETZEL",
+          "SLUSHIE",
+          "TWIZZLER"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to galvanize'",
+        "words": [
+          "ELECTRIFY",
+          "INVIGORATE",
+          "ENERGIZE",
+          "CATALYZE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden tree inside",
+        "words": [
+          "OAKEN",
+          "BASHFUL",
+          "HELMET",
+          "FIRKIN"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_038",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "90s family movie themes",
+        "words": [
+          "TEAMWORK",
+          "COURAGE",
+          "LOYALTY",
+          "BELIEVE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Film blocking terms",
+        "words": [
+          "UPSTAGE",
+          "MARKS",
+          "CROSS",
+          "CHEAT"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a construction site",
+        "words": [
+          "SCAFFOLD",
+          "GIRDER",
+          "CEMENT",
+          "CRANE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ head",
+        "words": [
+          "DEAD",
+          "OVER",
+          "RED",
+          "FIGURE"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_039",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "90s movie catchphrase starters",
+        "words": [
+          "SHOW",
+          "LIFE",
+          "HASTA",
+          "HOUSTON"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Movie production budget terms",
+        "words": [
+          "OVERRUN",
+          "GREENLIT",
+          "SHELVED",
+          "WRAPPED"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to celebrate'",
+        "words": [
+          "REJOICE",
+          "REVEL",
+          "TOAST",
+          "FEAST"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a punctuation mark",
+        "words": [
+          "DASH",
+          "COLON",
+          "SLASH",
+          "PERIOD"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_040",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "90s movie props",
+        "words": [
+          "BRIEFCASE",
+          "PHONE",
+          "CASSETTE",
+          "JOURNAL"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Film industry unions (words)",
+        "words": [
+          "GUILD",
+          "SCREEN",
+          "CRAFT",
+          "EQUITY"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to shatter'",
+        "words": [
+          "SMASH",
+          "FRACTURE",
+          "SPLINTER",
+          "DEMOLISH"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ time",
+        "words": [
+          "PRIME",
+          "BIG",
+          "SHOW",
+          "HALF"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_041",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "90s movie unreliable narrator clues",
+        "words": [
+          "MEMORY",
+          "FRAGMENT",
+          "DISTORT",
+          "REVEAL"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Film costume design terms",
+        "words": [
+          "FITTING",
+          "FABRIC",
+          "STITCH",
+          "PALETTE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things that can be 'double'",
+        "words": [
+          "AGENT",
+          "DECKER",
+          "EDGED",
+          "DUTCH"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ side",
+        "words": [
+          "BRIGHT",
+          "DARK",
+          "FLIP",
+          "RING"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_042",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "90s thriller atmosphere words",
+        "words": [
+          "PARANOID",
+          "OMINOUS",
+          "SINISTER",
+          "EERIE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Movie test screening terms",
+        "words": [
+          "PREVIEW",
+          "AUDIENCE",
+          "FEEDBACK",
+          "RESHOOT"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to obliterate'",
+        "words": [
+          "ANNIHILATE",
+          "ERADICATE",
+          "DECIMATE",
+          "DEMOLISH"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ box",
+        "words": [
+          "BEAT",
+          "BOOM",
+          "JUICE",
+          "MAIL"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_043",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "90s movie dance scene songs (words)",
+        "words": [
+          "MAMBO",
+          "TANGO",
+          "TWIST",
+          "SWING"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Film preservation terms",
+        "words": [
+          "RESTORE",
+          "ARCHIVE",
+          "NEGATIVE",
+          "MASTER"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to examine'",
+        "words": [
+          "PROBE",
+          "INSPECT",
+          "SURVEY",
+          "SCAN"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ wave",
+        "words": [
+          "HEAT",
+          "COLD",
+          "NEW",
+          "BRAIN"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_044",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "90s movie villain motivations",
+        "words": [
+          "GREED",
+          "REVENGE",
+          "POWER",
+          "CONTROL"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Film criticism school terms",
+        "words": [
+          "AUTEUR",
+          "FORMALIST",
+          "REALIST",
+          "FEMINIST"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to drift'",
+        "words": [
+          "FLOAT",
+          "GLIDE",
+          "COAST",
+          "CRUISE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a musical note",
+        "words": [
+          "SHARP",
+          "FLAT",
+          "REST",
+          "GRACE"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_045",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "90s movie courtroom drama cliches",
+        "words": [
+          "OBJECTION",
+          "OVERRULE",
+          "SUSTAIN",
+          "RECESS"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Film noir lighting terms",
+        "words": [
+          "SHADOW",
+          "CONTRAST",
+          "SILHOUETTE",
+          "CHIAROSCURO"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things with a ring",
+        "words": [
+          "SATURN",
+          "ONION",
+          "CIRCUS",
+          "BINDER"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ pool",
+        "words": [
+          "CAR",
+          "GENE",
+          "WHIRL",
+          "DEAD"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_046",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "90s movie franchise elements",
+        "words": [
+          "TRILOGY",
+          "PREQUEL",
+          "SPINOFF",
+          "REBOOT"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Film scoring techniques",
+        "words": [
+          "LEITMOTIF",
+          "UNDERSCORE",
+          "STINGER",
+          "SWELL"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to fortify'",
+        "words": [
+          "BUTTRESS",
+          "BOLSTER",
+          "BRACE",
+          "SHORE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a type of joint",
+        "words": [
+          "BALL",
+          "HINGE",
+          "PIVOT",
+          "SADDLE"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_047",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "90s indie movie hallmarks",
+        "words": [
+          "DIALOGUE",
+          "OFFBEAT",
+          "DEADPAN",
+          "QUIRKY"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Film award season strategy",
+        "words": [
+          "CAMPAIGN",
+          "SCREENER",
+          "BALLOT",
+          "NOMINEE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to quash'",
+        "words": [
+          "SUPPRESS",
+          "SQUELCH",
+          "SMOTHER",
+          "QUELL"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a printing term",
+        "words": [
+          "FONT",
+          "BLEED",
+          "PROOF",
+          "PLATE"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_048",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "90s movie chase scene vehicles",
+        "words": [
+          "CHOPPER",
+          "SEDAN",
+          "SUBWAY",
+          "FERRY"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Film school fundamentals",
+        "words": [
+          "FRAMING",
+          "BLOCKING",
+          "PACING",
+          "RHYTHM"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to celebrate'",
+        "words": [
+          "REJOICE",
+          "REVEL",
+          "TOAST",
+          "FEAST"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ master",
+        "words": [
+          "GRAND",
+          "POST",
+          "HEAD",
+          "WEB"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_049",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "90s movie ending types",
+        "words": [
+          "CLIFFHANGER",
+          "AMBIGUOUS",
+          "TWIST",
+          "BITTERSWEET"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Movie marketing buzzwords",
+        "words": [
+          "EXCLUSIVE",
+          "ORIGINAL",
+          "ICONIC",
+          "LANDMARK"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to exhaust'",
+        "words": [
+          "DEPLETE",
+          "DRAIN",
+          "SAP",
+          "FATIGUE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden animal inside",
+        "words": [
+          "SCOWLING",
+          "RAMPANT",
+          "FOXHOUND",
+          "CANTATA"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "movies90s_050",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "90s movie legacy terms",
+        "words": [
+          "CLASSIC",
+          "TIMELESS",
+          "SEMINAL",
+          "DEFINITIVE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Film restoration challenges",
+        "words": [
+          "DAMAGE",
+          "FADING",
+          "SCRATCH",
+          "WARPING"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to overwhelm'",
+        "words": [
+          "SWAMP",
+          "ENGULF",
+          "INUNDATE",
+          "DELUGE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a card game",
+        "words": [
+          "SNAP",
+          "SPIT",
+          "WAR",
+          "SPEED"
+        ],
+        "difficulty": 4
+      }
+    ]
+  }
+]

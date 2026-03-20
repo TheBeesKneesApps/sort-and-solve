@@ -1,0 +1,272 @@
+[
+  {
+    "id": "free_001",
+    "categories": [
+      { "label": "Shades of red", "words": ["CRIMSON", "RUBY", "SCARLET", "CHERRY"], "difficulty": 1 },
+      { "label": "Musical instruments", "words": ["VIOLIN", "PIANO", "DRUM", "GUITAR"], "difficulty": 2 },
+      { "label": "Planets", "words": ["MARS", "JUPITER", "SATURN", "NEPTUNE"], "difficulty": 3 },
+      { "label": "Types of fish", "words": ["SALMON", "TUNA", "BASS", "TROUT"], "difficulty": 4 }
+    ]
+  },
+  {
+    "id": "free_002",
+    "categories": [
+      { "label": "Breakfast foods", "words": ["WAFFLE", "PANCAKE", "OMELETTE", "CEREAL"], "difficulty": 1 },
+      { "label": "Dog breeds", "words": ["POODLE", "BEAGLE", "HUSKY", "BOXER"], "difficulty": 2 },
+      { "label": "Card games", "words": ["POKER", "BRIDGE", "HEARTS", "SPADES"], "difficulty": 3 },
+      { "label": "Things that can be golden", "words": ["GATE", "RETRIEVER", "GLOBE", "RATIO"], "difficulty": 4 }
+    ]
+  },
+  {
+    "id": "free_003",
+    "categories": [
+      { "label": "Fruits", "words": ["MANGO", "PEACH", "PLUM", "GRAPE"], "difficulty": 1 },
+      { "label": "Dances", "words": ["WALTZ", "TANGO", "SALSA", "RUMBA"], "difficulty": 2 },
+      { "label": "Gemstones", "words": ["EMERALD", "TOPAZ", "OPAL", "GARNET"], "difficulty": 3 },
+      { "label": "Olympic sports", "words": ["FENCING", "ROWING", "DIVING", "JUDO"], "difficulty": 4 }
+    ]
+  },
+  {
+    "id": "free_004",
+    "categories": [
+      { "label": "Vegetables", "words": ["CARROT", "CELERY", "ONION", "PEPPER"], "difficulty": 1 },
+      { "label": "Weather phenomena", "words": ["TORNADO", "BLIZZARD", "CYCLONE", "MONSOON"], "difficulty": 2 },
+      { "label": "Board games", "words": ["CHESS", "RISK", "CLUE", "LIFE"], "difficulty": 3 },
+      { "label": "Words before 'house'", "words": ["WARE", "GREEN", "FIRE", "POWER"], "difficulty": 4 }
+    ]
+  },
+  {
+    "id": "free_005",
+    "categories": [
+      { "label": "Colors of the rainbow", "words": ["INDIGO", "VIOLET", "ORANGE", "YELLOW"], "difficulty": 1 },
+      { "label": "Trees", "words": ["MAPLE", "WILLOW", "CEDAR", "BIRCH"], "difficulty": 2 },
+      { "label": "Greek gods", "words": ["APOLLO", "HERMES", "ATHENA", "ARTEMIS"], "difficulty": 3 },
+      { "label": "Things with keys", "words": ["PIANO", "LOCK", "KEYBOARD", "MAP"], "difficulty": 4 }
+    ]
+  },
+  {
+    "id": "free_006",
+    "categories": [
+      { "label": "Body parts", "words": ["ELBOW", "ANKLE", "WRIST", "SHOULDER"], "difficulty": 1 },
+      { "label": "Metals", "words": ["COPPER", "BRONZE", "IRON", "SILVER"], "difficulty": 2 },
+      { "label": "Currencies", "words": ["POUND", "FRANC", "CROWN", "MARK"], "difficulty": 3 },
+      { "label": "Things that ring", "words": ["BELL", "PHONE", "ALARM", "BOXING"], "difficulty": 4 }
+    ]
+  },
+  {
+    "id": "free_007",
+    "categories": [
+      { "label": "Kitchen utensils", "words": ["SPATULA", "WHISK", "LADLE", "TONGS"], "difficulty": 1 },
+      { "label": "Fabrics", "words": ["SILK", "COTTON", "DENIM", "LINEN"], "difficulty": 2 },
+      { "label": "Shakespeare plays", "words": ["HAMLET", "OTHELLO", "TEMPEST", "MACBETH"], "difficulty": 3 },
+      { "label": "___ ball", "words": ["BASE", "BASKET", "FOOT", "SNOW"], "difficulty": 4 }
+    ]
+  },
+  {
+    "id": "free_008",
+    "categories": [
+      { "label": "Insects", "words": ["CRICKET", "BEETLE", "MANTIS", "FIREFLY"], "difficulty": 1 },
+      { "label": "Pasta shapes", "words": ["PENNE", "RIGATONI", "FUSILLI", "ORZO"], "difficulty": 2 },
+      { "label": "Zodiac signs", "words": ["SCORPIO", "GEMINI", "VIRGO", "PISCES"], "difficulty": 3 },
+      { "label": "Words meaning 'fast'", "words": ["SWIFT", "RAPID", "BRISK", "FLEET"], "difficulty": 4 }
+    ]
+  },
+  {
+    "id": "free_009",
+    "categories": [
+      { "label": "Flowers", "words": ["DAISY", "ORCHID", "TULIP", "LOTUS"], "difficulty": 1 },
+      { "label": "Continents", "words": ["AFRICA", "EUROPE", "ASIA", "ARCTIC"], "difficulty": 2 },
+      { "label": "Magic words", "words": ["PRESTO", "ABRA", "HEX", "CHARM"], "difficulty": 3 },
+      { "label": "Also a name", "words": ["ROSE", "GRACE", "FAITH", "HOPE"], "difficulty": 4 }
+    ]
+  },
+  {
+    "id": "free_010",
+    "categories": [
+      { "label": "Dairy products", "words": ["BUTTER", "YOGURT", "CREAM", "CHEESE"], "difficulty": 1 },
+      { "label": "Martial arts", "words": ["KARATE", "AIKIDO", "KUNG", "CAPO"], "difficulty": 2 },
+      { "label": "Parts of a castle", "words": ["MOAT", "TURRET", "TOWER", "DUNGEON"], "difficulty": 3 },
+      { "label": "Things that are spread", "words": ["RUMOR", "JAM", "WINGS", "NEWS"], "difficulty": 4 }
+    ]
+  },
+  {
+    "id": "free_011",
+    "categories": [
+      { "label": "Baby animals", "words": ["CUB", "FOAL", "LAMB", "CALF"], "difficulty": 1 },
+      { "label": "Types of hat", "words": ["BERET", "FEDORA", "TURBAN", "BONNET"], "difficulty": 2 },
+      { "label": "Chemical elements", "words": ["NEON", "ARGON", "XENON", "RADON"], "difficulty": 3 },
+      { "label": "___ light", "words": ["FLASH", "SPOT", "MOON", "HIGH"], "difficulty": 4 }
+    ]
+  },
+  {
+    "id": "free_012",
+    "categories": [
+      { "label": "Ocean creatures", "words": ["WHALE", "OCTOPUS", "STARFISH", "SEAHORSE"], "difficulty": 1 },
+      { "label": "Spices", "words": ["CUMIN", "PAPRIKA", "SAFFRON", "TURMERIC"], "difficulty": 2 },
+      { "label": "Units of time", "words": ["DECADE", "EPOCH", "ERA", "EON"], "difficulty": 3 },
+      { "label": "Words after 'black'", "words": ["BERRY", "BIRD", "SMITH", "JACK"], "difficulty": 4 }
+    ]
+  },
+  {
+    "id": "free_013",
+    "categories": [
+      { "label": "Footwear", "words": ["SANDAL", "BOOT", "LOAFER", "SLIPPER"], "difficulty": 1 },
+      { "label": "Types of cloud", "words": ["CIRRUS", "STRATUS", "CUMULUS", "NIMBUS"], "difficulty": 2 },
+      { "label": "Chess pieces", "words": ["ROOK", "BISHOP", "KNIGHT", "PAWN"], "difficulty": 3 },
+      { "label": "Things that can be checked", "words": ["MATE", "MARK", "LIST", "BOX"], "difficulty": 4 }
+    ]
+  },
+  {
+    "id": "free_014",
+    "categories": [
+      { "label": "Citrus fruits", "words": ["LEMON", "LIME", "TANGERINE", "KUMQUAT"], "difficulty": 1 },
+      { "label": "Mythical creatures", "words": ["DRAGON", "PHOENIX", "GRIFFIN", "SPHINX"], "difficulty": 2 },
+      { "label": "Silent letters (word has one)", "words": ["KNIGHT", "GNOME", "PSALM", "WRAITH"], "difficulty": 3 },
+      { "label": "Poker terms", "words": ["FLUSH", "FOLD", "RAISE", "BLUFF"], "difficulty": 4 }
+    ]
+  },
+  {
+    "id": "free_015",
+    "categories": [
+      { "label": "Berries", "words": ["CRANBERRY", "BLUEBERRY", "MULBERRY", "RASPBERRY"], "difficulty": 1 },
+      { "label": "Deserts", "words": ["SAHARA", "GOBI", "MOJAVE", "KALAHARI"], "difficulty": 2 },
+      { "label": "Types of jacket", "words": ["BLAZER", "PARKA", "ANORAK", "VEST"], "difficulty": 3 },
+      { "label": "Things with bark", "words": ["OAK", "DOG", "BIRCH", "WILLOW"], "difficulty": 4 }
+    ]
+  },
+  {
+    "id": "free_016",
+    "categories": [
+      { "label": "Breakfast drinks", "words": ["COFFEE", "JUICE", "COCOA", "LATTE"], "difficulty": 1 },
+      { "label": "Constellations", "words": ["ORION", "DRACO", "LYRA", "CYGNUS"], "difficulty": 2 },
+      { "label": "Currencies of the world", "words": ["RUPEE", "PESO", "DINAR", "KRONA"], "difficulty": 3 },
+      { "label": "Words inside 'together'", "words": ["TOG", "GET", "TOGA", "HER"], "difficulty": 4 }
+    ]
+  },
+  {
+    "id": "free_017",
+    "categories": [
+      { "label": "Camping gear", "words": ["TENT", "LANTERN", "COMPASS", "CANTEEN"], "difficulty": 1 },
+      { "label": "Reptiles", "words": ["IGUANA", "GECKO", "COBRA", "VIPER"], "difficulty": 2 },
+      { "label": "Parts of an atom", "words": ["PROTON", "NEUTRON", "ELECTRON", "QUARK"], "difficulty": 3 },
+      { "label": "Words meaning 'leave'", "words": ["DEPART", "EXIT", "SPLIT", "BAIL"], "difficulty": 4 }
+    ]
+  },
+  {
+    "id": "free_018",
+    "categories": [
+      { "label": "Furniture", "words": ["COUCH", "DRESSER", "OTTOMAN", "RECLINER"], "difficulty": 1 },
+      { "label": "Shades of blue", "words": ["NAVY", "COBALT", "AZURE", "TEAL"], "difficulty": 2 },
+      { "label": "Ancient civilizations", "words": ["AZTEC", "ROMAN", "MAYAN", "INCA"], "difficulty": 3 },
+      { "label": "Also a car brand", "words": ["JAGUAR", "MUSTANG", "ECLIPSE", "ODYSSEY"], "difficulty": 4 }
+    ]
+  },
+  {
+    "id": "free_019",
+    "categories": [
+      { "label": "Baked goods", "words": ["CROISSANT", "MUFFIN", "SCONE", "BRIOCHE"], "difficulty": 1 },
+      { "label": "Sharks", "words": ["HAMMER", "BULL", "TIGER", "NURSE"], "difficulty": 2 },
+      { "label": "Knot types", "words": ["BOWLINE", "CLOVE", "HITCH", "REEF"], "difficulty": 3 },
+      { "label": "___ pool", "words": ["CAR", "DEAD", "WHIRL", "GENE"], "difficulty": 4 }
+    ]
+  },
+  {
+    "id": "free_020",
+    "categories": [
+      { "label": "Tropical fruits", "words": ["PAPAYA", "GUAVA", "COCONUT", "LYCHEE"], "difficulty": 1 },
+      { "label": "Volcanoes", "words": ["VESUVIUS", "ETNA", "FUJI", "HELENS"], "difficulty": 2 },
+      { "label": "Words meaning 'happy'", "words": ["ELATED", "JOVIAL", "GLEEFUL", "MERRY"], "difficulty": 3 },
+      { "label": "Things that erupt", "words": ["GEYSER", "VOLCANO", "CROWD", "LAUGHTER"], "difficulty": 4 }
+    ]
+  },
+  {
+    "id": "free_021",
+    "categories": [
+      { "label": "Wild cats", "words": ["LYNX", "PUMA", "CHEETAH", "PANTHER"], "difficulty": 1 },
+      { "label": "Dips and sauces", "words": ["HUMMUS", "PESTO", "TAHINI", "TZATZIKI"], "difficulty": 2 },
+      { "label": "Math terms", "words": ["COSINE", "MATRIX", "VECTOR", "TANGENT"], "difficulty": 3 },
+      { "label": "Things with a face", "words": ["CLOCK", "COIN", "CLIFF", "CARD"], "difficulty": 4 }
+    ]
+  },
+  {
+    "id": "free_022",
+    "categories": [
+      { "label": "School subjects", "words": ["ALGEBRA", "BIOLOGY", "HISTORY", "PHYSICS"], "difficulty": 1 },
+      { "label": "Woodwind instruments", "words": ["CLARINET", "OBOE", "FLUTE", "BASSOON"], "difficulty": 2 },
+      { "label": "Types of bridge", "words": ["ARCH", "TRUSS", "BEAM", "CABLE"], "difficulty": 3 },
+      { "label": "Words after 'brain'", "words": ["STORM", "WASH", "CHILD", "WAVE"], "difficulty": 4 }
+    ]
+  },
+  {
+    "id": "free_023",
+    "categories": [
+      { "label": "Garden tools", "words": ["SHOVEL", "RAKE", "HOE", "TROWEL"], "difficulty": 1 },
+      { "label": "Cheeses", "words": ["GOUDA", "BRIE", "CHEDDAR", "FETA"], "difficulty": 2 },
+      { "label": "Bones in the body", "words": ["FEMUR", "TIBIA", "FIBULA", "RADIUS"], "difficulty": 3 },
+      { "label": "Words meaning 'trick'", "words": ["RUSE", "PLOY", "HOAX", "SHAM"], "difficulty": 4 }
+    ]
+  },
+  {
+    "id": "free_024",
+    "categories": [
+      { "label": "Types of bread", "words": ["SOURDOUGH", "FOCACCIA", "NAAN", "PITA"], "difficulty": 1 },
+      { "label": "Rivers", "words": ["DANUBE", "THAMES", "GANGES", "NILE"], "difficulty": 2 },
+      { "label": "Words meaning 'small'", "words": ["PETITE", "MINUTE", "SLIGHT", "MODEST"], "difficulty": 3 },
+      { "label": "Things that flow", "words": ["TRAFFIC", "CURRENT", "LAVA", "CASH"], "difficulty": 4 }
+    ]
+  },
+  {
+    "id": "free_025",
+    "categories": [
+      { "label": "Nuts", "words": ["WALNUT", "ALMOND", "PECAN", "CASHEW"], "difficulty": 1 },
+      { "label": "Types of storm", "words": ["SQUALL", "TEMPEST", "GALE", "TYPHOON"], "difficulty": 2 },
+      { "label": "Royal titles", "words": ["DUKE", "BARON", "EARL", "COUNT"], "difficulty": 3 },
+      { "label": "___ book", "words": ["TEXT", "NOTE", "COOK", "YEAR"], "difficulty": 4 }
+    ]
+  },
+  {
+    "id": "free_026",
+    "categories": [
+      { "label": "Farm animals", "words": ["ROOSTER", "DONKEY", "GOAT", "SHEEP"], "difficulty": 1 },
+      { "label": "Herbs", "words": ["BASIL", "THYME", "OREGANO", "DILL"], "difficulty": 2 },
+      { "label": "Types of rock", "words": ["GRANITE", "MARBLE", "SLATE", "PUMICE"], "difficulty": 3 },
+      { "label": "Things with hands", "words": ["CLOCK", "DECK", "POKER", "WATCH"], "difficulty": 4 }
+    ]
+  },
+  {
+    "id": "free_027",
+    "categories": [
+      { "label": "Winter sports", "words": ["SKIING", "BOBSLED", "CURLING", "LUGE"], "difficulty": 1 },
+      { "label": "Phobias (fear of ___)", "words": ["HEIGHTS", "SPIDERS", "SNAKES", "CROWDS"], "difficulty": 2 },
+      { "label": "Words ending in silent E", "words": ["PLAGUE", "ROGUE", "TONGUE", "LEAGUE"], "difficulty": 3 },
+      { "label": "Things that pitch", "words": ["TENT", "SHIP", "SELLER", "VOICE"], "difficulty": 4 }
+    ]
+  },
+  {
+    "id": "free_028",
+    "categories": [
+      { "label": "Ice cream flavors", "words": ["VANILLA", "MOCHA", "PRALINE", "SORBET"], "difficulty": 1 },
+      { "label": "Islands", "words": ["FIJI", "MALTA", "CRETE", "BALI"], "difficulty": 2 },
+      { "label": "Types of triangle", "words": ["ACUTE", "OBTUSE", "SCALENE", "RIGHT"], "difficulty": 3 },
+      { "label": "Words meaning 'steal'", "words": ["SWIPE", "PINCH", "LIFT", "NICK"], "difficulty": 4 }
+    ]
+  },
+  {
+    "id": "free_029",
+    "categories": [
+      { "label": "Salad ingredients", "words": ["LETTUCE", "CROUTON", "RADISH", "SPINACH"], "difficulty": 1 },
+      { "label": "Dances", "words": ["FOXTROT", "POLKA", "SAMBA", "MAMBO"], "difficulty": 2 },
+      { "label": "Layers of the atmosphere", "words": ["TROPIC", "STRATO", "MESO", "THERMO"], "difficulty": 3 },
+      { "label": "Words before 'line'", "words": ["DEAD", "PUNCH", "BASE", "SIDE"], "difficulty": 4 }
+    ]
+  },
+  {
+    "id": "free_030",
+    "categories": [
+      { "label": "Pizza toppings", "words": ["OLIVE", "ANCHOVY", "JALAPENO", "MUSHROOM"], "difficulty": 1 },
+      { "label": "World capitals", "words": ["LIMA", "OSLO", "CAIRO", "DELHI"], "difficulty": 2 },
+      { "label": "Musical terms", "words": ["FORTE", "TEMPO", "PITCH", "CHORD"], "difficulty": 3 },
+      { "label": "Things that can be flat", "words": ["TIRE", "NOTE", "EARTH", "IRON"], "difficulty": 4 }
+    ]
+  }
+]

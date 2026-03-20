@@ -1,0 +1,2302 @@
+[
+  {
+    "id": "popculture_001",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Streaming platforms",
+        "words": [
+          "HULU",
+          "PEACOCK",
+          "APPLE",
+          "PRIME"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Reality TV show types",
+        "words": [
+          "DATING",
+          "COOKING",
+          "SINGING",
+          "SURVIVAL"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to gossip'",
+        "words": [
+          "DISH",
+          "SPILL",
+          "WHISPER",
+          "GUSH"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ star",
+        "words": [
+          "POP",
+          "ROCK",
+          "ALL",
+          "NORTH"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_002",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Award show names",
+        "words": [
+          "GRAMMY",
+          "OSCAR",
+          "EMMY",
+          "TONY"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Social media actions",
+        "words": [
+          "FOLLOW",
+          "SHARE",
+          "LIKE",
+          "BLOCK"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Types of tea",
+        "words": [
+          "OOLONG",
+          "MATCHA",
+          "ROOIBOS",
+          "JASMINE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ list",
+        "words": [
+          "PLAY",
+          "WISH",
+          "HIT",
+          "BUCKET"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_003",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Music chart terms",
+        "words": [
+          "SINGLE",
+          "ALBUM",
+          "TRACK",
+          "REMIX"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Viral internet terms",
+        "words": [
+          "MEME",
+          "TREND",
+          "VIRAL",
+          "HASHTAG"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things in a forest",
+        "words": [
+          "CANOPY",
+          "THICKET",
+          "CLEARING",
+          "GLEN"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ drop",
+        "words": [
+          "MIC",
+          "NAME",
+          "BEAT",
+          "JAW"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_004",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Movie genres",
+        "words": [
+          "HORROR",
+          "COMEDY",
+          "THRILLER",
+          "DRAMA"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Famous talk show hosts (last names)",
+        "words": [
+          "FALLON",
+          "KIMMEL",
+          "OPRAH",
+          "ELLEN"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a barbecue",
+        "words": [
+          "TONGS",
+          "SKEWER",
+          "CHARCOAL",
+          "MARINADE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ show",
+        "words": [
+          "GAME",
+          "TALK",
+          "ROAD",
+          "SIDE"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_005",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Pop music terms",
+        "words": [
+          "CHORUS",
+          "VERSE",
+          "BRIDGE",
+          "HOOK"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Celebrity couple portmanteaus",
+        "words": [
+          "BRANGELINA",
+          "BENNIFER",
+          "KIMYE",
+          "TOMKAT"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Types of bridge",
+        "words": [
+          "ARCH",
+          "TRUSS",
+          "CABLE",
+          "PONTOON"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a fishing term",
+        "words": [
+          "CAST",
+          "REEL",
+          "LINE",
+          "NET"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_006",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Types of podcast",
+        "words": [
+          "CRIME",
+          "COMEDY",
+          "INTERVIEW",
+          "FICTION"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Red carpet fashion",
+        "words": [
+          "GOWN",
+          "TUXEDO",
+          "CLUTCH",
+          "STILETTO"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to grip'",
+        "words": [
+          "CLASP",
+          "SEIZE",
+          "GRASP",
+          "SNATCH"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ carpet",
+        "words": [
+          "RED",
+          "MAGIC",
+          "FLYING",
+          "SHAG"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_007",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Tabloid headline words",
+        "words": [
+          "SCANDAL",
+          "FEUD",
+          "SPLIT",
+          "RUMOR"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Music video elements",
+        "words": [
+          "CAMEO",
+          "DANCER",
+          "BACKDROP",
+          "WARDROBE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Types of stew",
+        "words": [
+          "GUMBO",
+          "RAGOUT",
+          "CHOWDER",
+          "BISQUE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ scene",
+        "words": [
+          "CRIME",
+          "BEHIND",
+          "MUSIC",
+          "OPENING"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_008",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Concert venue types",
+        "words": [
+          "ARENA",
+          "STADIUM",
+          "THEATER",
+          "FESTIVAL"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Binge-watching terms",
+        "words": [
+          "SEASON",
+          "EPISODE",
+          "SPOILER",
+          "CLIFFHANGER"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a zoo",
+        "words": [
+          "AVIARY",
+          "HABITAT",
+          "KEEPER",
+          "EXHIBIT"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ tour",
+        "words": [
+          "WORLD",
+          "GRAND",
+          "FAREWELL",
+          "BOOK"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_009",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "YouTube content types",
+        "words": [
+          "VLOG",
+          "TUTORIAL",
+          "REACTION",
+          "PRANK"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Famous brand slogans (brand names)",
+        "words": [
+          "NIKE",
+          "APPLE",
+          "TESLA",
+          "AMAZON"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to astonish'",
+        "words": [
+          "STAGGER",
+          "ASTOUND",
+          "DUMBFOUND",
+          "FLOOR"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ feed",
+        "words": [
+          "NEWS",
+          "LIVE",
+          "DATA",
+          "BIRD"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_010",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Types of fan",
+        "words": [
+          "STAN",
+          "GROUPIE",
+          "DEVOTEE",
+          "FANATIC"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Music industry roles",
+        "words": [
+          "PRODUCER",
+          "MANAGER",
+          "AGENT",
+          "PUBLICIST"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things on a bicycle",
+        "words": [
+          "SPOKE",
+          "PEDAL",
+          "FENDER",
+          "BRAKE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ band",
+        "words": [
+          "BOY",
+          "COVER",
+          "RUBBER",
+          "HEAD"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_011",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Makeup terms (also pop culture)",
+        "words": [
+          "HIGHLIGHT",
+          "CONTOUR",
+          "BLEND",
+          "SHADE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Celebrity chef last names",
+        "words": [
+          "RAMSEY",
+          "FLAY",
+          "OLIVER",
+          "CHILD"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to insult'",
+        "words": [
+          "ROAST",
+          "BURN",
+          "SLAM",
+          "TOAST"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a music term",
+        "words": [
+          "BEAT",
+          "DROP",
+          "TRACK",
+          "BASS"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_012",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Fashion week cities",
+        "words": [
+          "MILAN",
+          "PARIS",
+          "LONDON",
+          "TOKYO"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "TV show formats",
+        "words": [
+          "SITCOM",
+          "MINISERIES",
+          "DOCUSERIES",
+          "SPECIAL"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things with a ring",
+        "words": [
+          "SATURN",
+          "ONION",
+          "CIRCUS",
+          "BINDER"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ week",
+        "words": [
+          "FASHION",
+          "SHARK",
+          "PEAK",
+          "HOLY"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_013",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Grammy categories",
+        "words": [
+          "VOCAL",
+          "ALBUM",
+          "SONG",
+          "ARTIST"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Social media metrics",
+        "words": [
+          "FOLLOWER",
+          "REACH",
+          "CLICK",
+          "VIEW"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to captivate'",
+        "words": [
+          "MESMERIZE",
+          "ENTHRALL",
+          "RIVET",
+          "GRIP"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ gold",
+        "words": [
+          "RECORD",
+          "POT",
+          "RUSH",
+          "SOLID"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_014",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Paparazzi terms",
+        "words": [
+          "CANDID",
+          "FLASH",
+          "LENS",
+          "SCOOP"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Streaming binge words",
+        "words": [
+          "MARATHON",
+          "QUEUE",
+          "AUTOPLAY",
+          "BUFFER"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things in a pantry",
+        "words": [
+          "FLOUR",
+          "SUGAR",
+          "SPICE",
+          "VINEGAR"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ shot",
+        "words": [
+          "HEAD",
+          "MOON",
+          "CHEAP",
+          "SCREEN"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_015",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Influencer culture words",
+        "words": [
+          "CONTENT",
+          "COLLAB",
+          "BRAND",
+          "SPONCON"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of TV drama",
+        "words": [
+          "CRIME",
+          "LEGAL",
+          "MEDICAL",
+          "PERIOD"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to vanish'",
+        "words": [
+          "DISSOLVE",
+          "EVAPORATE",
+          "FADE",
+          "RECEDE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ opera",
+        "words": [
+          "SOAP",
+          "ROCK",
+          "SPACE",
+          "HORSE"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_016",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Box office terms",
+        "words": [
+          "GROSS",
+          "OPENING",
+          "SEQUEL",
+          "FRANCHISE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Celebrity status words",
+        "words": [
+          "ICON",
+          "LEGEND",
+          "MOGUL",
+          "DIVA"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a spa",
+        "words": [
+          "SAUNA",
+          "FACIAL",
+          "ROBE",
+          "STEAM"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ king",
+        "words": [
+          "POP",
+          "DRAG",
+          "LION",
+          "PROM"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_017",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Dance craze names",
+        "words": [
+          "FLOSS",
+          "GRIDDY",
+          "DOUGIE",
+          "MACARENA"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Album release types",
+        "words": [
+          "DELUXE",
+          "STANDARD",
+          "VINYL",
+          "DIGITAL"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to polish'",
+        "words": [
+          "BUFF",
+          "BURNISH",
+          "GLOSS",
+          "HONE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ press",
+        "words": [
+          "FULL",
+          "COURT",
+          "BENCH",
+          "FREE"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_018",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Talent show terms",
+        "words": [
+          "AUDITION",
+          "CALLBACK",
+          "JUDGE",
+          "BUZZER"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Celebrity scandal words",
+        "words": [
+          "EXPOSE",
+          "LEAKED",
+          "CANCEL",
+          "BACKLASH"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things that bloom",
+        "words": [
+          "TULIP",
+          "ORCHID",
+          "DAISY",
+          "LILY"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden bird inside",
+        "words": [
+          "CROWBAR",
+          "EMULATE",
+          "WRENCH",
+          "HAWKING"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_019",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Late night TV segments",
+        "words": [
+          "MONOLOGUE",
+          "SKETCH",
+          "GUEST",
+          "RECAP"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Fan convention terms",
+        "words": [
+          "COSPLAY",
+          "PANEL",
+          "BOOTH",
+          "MERCH"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Types of collar",
+        "words": [
+          "MANDARIN",
+          "PETER",
+          "WING",
+          "FLEA"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a movie rating",
+        "words": [
+          "STAR",
+          "FRESH",
+          "ROTTEN",
+          "BOMB"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_020",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Music festival essentials",
+        "words": [
+          "WRISTBAND",
+          "LINEUP",
+          "STAGE",
+          "SETLIST"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Celebrity memoir terms",
+        "words": [
+          "REVEAL",
+          "CHAPTER",
+          "MEMOIR",
+          "EXCERPT"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things in a greenhouse",
+        "words": [
+          "SEEDLING",
+          "POTTING",
+          "COMPOST",
+          "TRELLIS"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ house",
+        "words": [
+          "FULL",
+          "OPEN",
+          "CLUB",
+          "POWER"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_021",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "TV competition formats",
+        "words": [
+          "KNOCKOUT",
+          "BATTLE",
+          "PLAYOFF",
+          "FINALE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Celebrity fragrance words",
+        "words": [
+          "ESSENCE",
+          "AURA",
+          "GLOW",
+          "BLOOM"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to radiate'",
+        "words": [
+          "BEAM",
+          "SHINE",
+          "EMANATE",
+          "GLEAM"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ light",
+        "words": [
+          "SPOT",
+          "LIME",
+          "FLASH",
+          "GREEN"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_022",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Podcast hosting terms",
+        "words": [
+          "HOST",
+          "GUEST",
+          "EPISODE",
+          "SEGMENT"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Celebrity workout trends",
+        "words": [
+          "PILATES",
+          "BARRE",
+          "HIIT",
+          "SCULPT"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a marina",
+        "words": [
+          "HULL",
+          "BOOM",
+          "MAST",
+          "KEEL"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ cast",
+        "words": [
+          "POD",
+          "BROAD",
+          "OVER",
+          "TYPE"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_023",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Award speech cliches",
+        "words": [
+          "HONOR",
+          "BLESSED",
+          "GRATEFUL",
+          "HUMBLE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Viral video types",
+        "words": [
+          "CHALLENGE",
+          "PRANK",
+          "DUET",
+          "REACT"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to tremble'",
+        "words": [
+          "QUAKE",
+          "SHIVER",
+          "QUIVER",
+          "TREMOR"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Grand ___",
+        "words": [
+          "JURY",
+          "PIANO",
+          "PRIX",
+          "CANYON"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_024",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Celebrity couple activities",
+        "words": [
+          "PREMIERE",
+          "VACATION",
+          "WEDDING",
+          "LAUNCH"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Canceled TV show terms",
+        "words": [
+          "AXED",
+          "PULLED",
+          "SHELVED",
+          "DROPPED"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things that drip",
+        "words": [
+          "FAUCET",
+          "ICICLE",
+          "CANDLE",
+          "PAINT"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden color inside",
+        "words": [
+          "GREENLY",
+          "RUSTLE",
+          "TANGENT",
+          "GOLDEN"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_025",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Music production terms",
+        "words": [
+          "SAMPLE",
+          "LOOP",
+          "MASTER",
+          "LAYER"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Celebrity fashion brands",
+        "words": [
+          "FENTY",
+          "SKIMS",
+          "GOOP",
+          "RARE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to haggle'",
+        "words": [
+          "BARTER",
+          "NEGOTIATE",
+          "WRANGLE",
+          "QUIBBLE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ record",
+        "words": [
+          "WORLD",
+          "TRACK",
+          "VINYL",
+          "BROKEN"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_026",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Types of TV reboot",
+        "words": [
+          "REVIVAL",
+          "SPINOFF",
+          "PREQUEL",
+          "REBOOT"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Celebrity nicknames",
+        "words": [
+          "QUEEN",
+          "KING",
+          "PRINCESS",
+          "DUKE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Chess pieces",
+        "words": [
+          "ROOK",
+          "BISHOP",
+          "KNIGHT",
+          "PAWN"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a card in a deck",
+        "words": [
+          "JACK",
+          "ACE",
+          "JOKER",
+          "CLUB"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_027",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Entertainment industry jobs",
+        "words": [
+          "GRIP",
+          "GAFFER",
+          "STUNT",
+          "EXTRA"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Things a DJ does",
+        "words": [
+          "SPIN",
+          "MIX",
+          "DROP",
+          "SCRATCH"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to exhaust'",
+        "words": [
+          "DEPLETE",
+          "DRAIN",
+          "SAP",
+          "FATIGUE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden gem inside",
+        "words": [
+          "JADED",
+          "AMBERJACK",
+          "OPALINE",
+          "PEARLY"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_028",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Stan culture terms",
+        "words": [
+          "BIAS",
+          "FANDOM",
+          "SHIP",
+          "CANON"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Music streaming features",
+        "words": [
+          "SHUFFLE",
+          "QUEUE",
+          "PLAYLIST",
+          "DISCOVER"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to wander'",
+        "words": [
+          "MEANDER",
+          "DRIFT",
+          "ROAM",
+          "STRAY"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ ship",
+        "words": [
+          "FLAG",
+          "HARD",
+          "COURT",
+          "WORK"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_029",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Film festival names",
+        "words": [
+          "CANNES",
+          "VENICE",
+          "TORONTO",
+          "SUNDANCE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Gossip column words",
+        "words": [
+          "SOURCE",
+          "INSIDER",
+          "ALLEGED",
+          "UNNAMED"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to conceal'",
+        "words": [
+          "CLOAK",
+          "SHROUD",
+          "VEIL",
+          "MASK"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a dance style",
+        "words": [
+          "SWING",
+          "TAP",
+          "BREAK",
+          "STEP"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_030",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "TV cliffhanger words",
+        "words": [
+          "REVEAL",
+          "TWIST",
+          "GASP",
+          "SHOCK"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Concert crowd actions",
+        "words": [
+          "CHANT",
+          "WAVE",
+          "MOSH",
+          "ENCORE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things in a clock tower",
+        "words": [
+          "PENDULUM",
+          "BELL",
+          "GEAR",
+          "CHIME"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden planet inside",
+        "words": [
+          "MARSHY",
+          "HEARTH",
+          "SATURNINE",
+          "PLUTOCRAT"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_031",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Reality show competition terms",
+        "words": [
+          "IMMUNITY",
+          "ALLIANCE",
+          "TRIBAL",
+          "CONFESS"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of celebrity endorsement",
+        "words": [
+          "SPONSOR",
+          "DEAL",
+          "COLLAB",
+          "PROMO"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to fortify'",
+        "words": [
+          "BUTTRESS",
+          "BOLSTER",
+          "BRACE",
+          "SHORE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a punctuation mark",
+        "words": [
+          "DASH",
+          "COLON",
+          "SLASH",
+          "PERIOD"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_032",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Album era terms",
+        "words": [
+          "ROLLOUT",
+          "SINGLE",
+          "VISUAL",
+          "CONCEPT"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "TikTok culture words",
+        "words": [
+          "DUET",
+          "STITCH",
+          "SOUND",
+          "FILTER"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a wedding",
+        "words": [
+          "BOUQUET",
+          "ALTAR",
+          "VEIL",
+          "TOAST"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden country inside",
+        "words": [
+          "WOMANLY",
+          "INCUBATE",
+          "PERUSE",
+          "MALIGNED"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_033",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Movie marketing terms",
+        "words": [
+          "TRAILER",
+          "TEASER",
+          "POSTER",
+          "TAGLINE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Internet argument terms",
+        "words": [
+          "RATIO",
+          "RECEIPTS",
+          "CLOUT",
+          "COPE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Types of market",
+        "words": [
+          "FLEA",
+          "BEAR",
+          "BULL",
+          "STOCK"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ release",
+        "words": [
+          "PRESS",
+          "NEW",
+          "EARLY",
+          "QUICK"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_034",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Celebrity perfume notes",
+        "words": [
+          "MUSK",
+          "AMBER",
+          "VANILLA",
+          "CEDAR"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Slang meaning 'good'",
+        "words": [
+          "FIRE",
+          "SLAP",
+          "SICK",
+          "GOAT"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to enchant'",
+        "words": [
+          "BEWITCH",
+          "CHARM",
+          "BEGUILE",
+          "ENTRANCE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden tree inside",
+        "words": [
+          "OAKEN",
+          "BASHFUL",
+          "HELMET",
+          "FIRKIN"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_035",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Music video aesthetics",
+        "words": [
+          "RETRO",
+          "NEON",
+          "GOTHIC",
+          "DREAMY"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Podcast format types",
+        "words": [
+          "SOLO",
+          "PANEL",
+          "SERIAL",
+          "LIVE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to falter'",
+        "words": [
+          "BUCKLE",
+          "CRUMBLE",
+          "WOBBLE",
+          "STUMBLE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a font style",
+        "words": [
+          "BOLD",
+          "ITALIC",
+          "COMIC",
+          "SCRIPT"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_036",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Award show moments",
+        "words": [
+          "GAFFE",
+          "SNUB",
+          "UPSET",
+          "TRIBUTE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Celebrity real estate words",
+        "words": [
+          "MANSION",
+          "PENTHOUSE",
+          "COMPOUND",
+          "ESTATE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a rodeo",
+        "words": [
+          "LASSO",
+          "BRONCO",
+          "CHAPS",
+          "BUCKLE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden instrument inside",
+        "words": [
+          "SHARPIE",
+          "ORGANIC",
+          "DISSOLUTE",
+          "PIPETTE"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_037",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Streaming wars terms",
+        "words": [
+          "EXCLUSIVE",
+          "ORIGINAL",
+          "LICENSED",
+          "CATALOG"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Pop culture decades",
+        "words": [
+          "NINETIES",
+          "EIGHTIES",
+          "SEVENTIES",
+          "SIXTIES"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to scatter'",
+        "words": [
+          "STREW",
+          "SPRINKLE",
+          "DISPERSE",
+          "SPLAY"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ culture",
+        "words": [
+          "POP",
+          "CANCEL",
+          "HUSTLE",
+          "COUNTER"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_038",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Celebrity baby name styles",
+        "words": [
+          "NORTH",
+          "APPLE",
+          "BLUE",
+          "SAINT"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "TV network types",
+        "words": [
+          "CABLE",
+          "PREMIUM",
+          "BROADCAST",
+          "SYNDICATE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to quash'",
+        "words": [
+          "SUPPRESS",
+          "SQUELCH",
+          "SMOTHER",
+          "QUELL"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden month inside",
+        "words": [
+          "NOVICE",
+          "AUGMENT",
+          "MARCHING",
+          "DISMAY"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_039",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Celebrity feud terms",
+        "words": [
+          "DISS",
+          "SHADE",
+          "CLAP",
+          "DRAG"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Social media features",
+        "words": [
+          "STORY",
+          "REEL",
+          "THREAD",
+          "LIVE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things with a pit",
+        "words": [
+          "CHERRY",
+          "OLIVE",
+          "AVOCADO",
+          "PEACH"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden body part inside",
+        "words": [
+          "WRISTED",
+          "ELBOWED",
+          "HIPSTER",
+          "ANKLET"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_040",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Music industry milestones",
+        "words": [
+          "PLATINUM",
+          "DIAMOND",
+          "GOLD",
+          "SILVER"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Concert merch items",
+        "words": [
+          "SHIRT",
+          "POSTER",
+          "VINYL",
+          "HOODIE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to celebrate'",
+        "words": [
+          "REJOICE",
+          "REVEL",
+          "TOAST",
+          "FEAST"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden car brand inside",
+        "words": [
+          "OXFORD",
+          "AUDIBLE",
+          "MINISTER",
+          "JEEPERS"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_041",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Cancel culture terms",
+        "words": [
+          "BOYCOTT",
+          "BACKLASH",
+          "FALLOUT",
+          "APOLOGY"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Celebrity chef catchphrases (words)",
+        "words": [
+          "BOOM",
+          "BAM",
+          "DONE",
+          "PLATED"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to overwhelm'",
+        "words": [
+          "SWAMP",
+          "ENGULF",
+          "INUNDATE",
+          "DELUGE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a famous composer",
+        "words": [
+          "BACH",
+          "HANDEL",
+          "HOLST",
+          "ELGAR"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_042",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Paparazzi escape methods",
+        "words": [
+          "DISGUISE",
+          "DECOY",
+          "ESCORT",
+          "TUNNEL"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Things at a live concert",
+        "words": [
+          "ENCORE",
+          "SETLIST",
+          "OPENER",
+          "MERCH"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things that can be 'double'",
+        "words": [
+          "AGENT",
+          "DECKER",
+          "EDGED",
+          "DUTCH"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden Greek letter inside",
+        "words": [
+          "CHIPMUNK",
+          "ALPHABET",
+          "DETAIN",
+          "MUFFLE"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_043",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Music comeback terms",
+        "words": [
+          "REUNION",
+          "ENCORE",
+          "REVIVAL",
+          "RETURN"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "TV finale types",
+        "words": [
+          "SERIES",
+          "SEASON",
+          "MIDSEASON",
+          "SPECIAL"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to examine'",
+        "words": [
+          "PROBE",
+          "INSPECT",
+          "SURVEY",
+          "SCAN"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden sport inside",
+        "words": [
+          "GOLFING",
+          "POLOIST",
+          "UNBOXING",
+          "CRICKETER"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_044",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Viral moment descriptors",
+        "words": [
+          "ICONIC",
+          "SAVAGE",
+          "CRINGE",
+          "SLAY"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Things trending on TikTok",
+        "words": [
+          "DANCE",
+          "SOUND",
+          "FILTER",
+          "DUET"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to demolish'",
+        "words": [
+          "RAZE",
+          "LEVEL",
+          "FLATTEN",
+          "GUT"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden vegetable inside",
+        "words": [
+          "ACORN",
+          "SLEEKLY",
+          "BEETLE",
+          "PEACHY"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_045",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Celebrity interview questions",
+        "words": [
+          "PROCESS",
+          "JOURNEY",
+          "GROWTH",
+          "VISION"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Music streaming actions",
+        "words": [
+          "STREAM",
+          "SKIP",
+          "LOOP",
+          "SAVE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a construction site",
+        "words": [
+          "SCAFFOLD",
+          "GIRDER",
+          "CEMENT",
+          "CRANE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden fruit inside",
+        "words": [
+          "DEPLUME",
+          "FIGMENT",
+          "PEARLY",
+          "LEMONADE"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_046",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Remake/reboot culture",
+        "words": [
+          "LEGACY",
+          "ORIGIN",
+          "VERSE",
+          "CHAPTER"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Award show fashion terms",
+        "words": [
+          "COUTURE",
+          "GLAM",
+          "VINTAGE",
+          "CUSTOM"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to meander'",
+        "words": [
+          "RAMBLE",
+          "STROLL",
+          "SAUNTER",
+          "AMBLE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a card game",
+        "words": [
+          "SNAP",
+          "SPIT",
+          "WAR",
+          "SPEED"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_047",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Music era aesthetics",
+        "words": [
+          "GRUNGE",
+          "DISCO",
+          "PUNK",
+          "GLAM"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Celebrity legal terms",
+        "words": [
+          "LAWSUIT",
+          "VERDICT",
+          "SETTLE",
+          "CUSTODY"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things in a vineyard",
+        "words": [
+          "GRAPE",
+          "VINE",
+          "BARREL",
+          "CORK"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden color inside",
+        "words": [
+          "GREENLY",
+          "RUSTLE",
+          "TANGENT",
+          "GOLDEN"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_048",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Entertainment money terms",
+        "words": [
+          "RESIDUAL",
+          "SYNDICATE",
+          "BACKEND",
+          "ROYALTY"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of TV episode",
+        "words": [
+          "PILOT",
+          "FINALE",
+          "FILLER",
+          "BOTTLE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to captivate'",
+        "words": [
+          "MESMERIZE",
+          "ENTHRALL",
+          "RIVET",
+          "GRIP"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ mate",
+        "words": [
+          "CHECK",
+          "ROOM",
+          "STALE",
+          "PLAY"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_049",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Viral challenge words",
+        "words": [
+          "BUCKET",
+          "PLANK",
+          "MANNEQUIN",
+          "HARLEM"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of fan content",
+        "words": [
+          "FANFIC",
+          "EDIT",
+          "THREAD",
+          "THEORY"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things that can be 'golden'",
+        "words": [
+          "GOOSE",
+          "RULE",
+          "AGE",
+          "RATIO"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden animal inside",
+        "words": [
+          "SCOWLING",
+          "RAMPANT",
+          "FOXHOUND",
+          "CANTATA"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "popculture_050",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Pop culture legacy terms",
+        "words": [
+          "CLASSIC",
+          "TIMELESS",
+          "ICONIC",
+          "ETERNAL"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Words describing a celebrity era",
+        "words": [
+          "REBRAND",
+          "PIVOT",
+          "REINVENT",
+          "EVOLVE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to shatter'",
+        "words": [
+          "SMASH",
+          "FRACTURE",
+          "SPLINTER",
+          "DEMOLISH"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden month inside",
+        "words": [
+          "NOVICE",
+          "AUGMENT",
+          "MARCHING",
+          "DISMAY"
+        ],
+        "difficulty": 4
+      }
+    ]
+  }
+]

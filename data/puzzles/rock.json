@@ -1,0 +1,2302 @@
+[
+  {
+    "id": "rock_001",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Electric guitar parts",
+        "words": [
+          "FRET",
+          "PICKUP",
+          "BRIDGE",
+          "NECK"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Rock concert gear",
+        "words": [
+          "AMPLIFIER",
+          "SPEAKER",
+          "MONITOR",
+          "CABLE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to shine'",
+        "words": [
+          "GLOW",
+          "BEAM",
+          "GLEAM",
+          "RADIATE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ rock",
+        "words": [
+          "PUNK",
+          "INDIE",
+          "CLASSIC",
+          "HARD"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_002",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Parts of a drum kit",
+        "words": [
+          "SNARE",
+          "CYMBAL",
+          "KICK",
+          "TOM"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Rock subgenres",
+        "words": [
+          "GRUNGE",
+          "METAL",
+          "BLUES",
+          "SURF"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Types of bread",
+        "words": [
+          "SOURDOUGH",
+          "BRIOCHE",
+          "FOCACCIA",
+          "NAAN"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ band",
+        "words": [
+          "COVER",
+          "TRIBUTE",
+          "RUBBER",
+          "HEAD"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_003",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Things at a rock show",
+        "words": [
+          "MOSH",
+          "ENCORE",
+          "SETLIST",
+          "MERCH"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Guitar pedal effects",
+        "words": [
+          "DISTORTION",
+          "REVERB",
+          "CHORUS",
+          "DELAY"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a zoo",
+        "words": [
+          "AVIARY",
+          "HABITAT",
+          "KEEPER",
+          "EXHIBIT"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ stage",
+        "words": [
+          "BACK",
+          "CENTER",
+          "MAIN",
+          "SOUND"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_004",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Rock song structures",
+        "words": [
+          "VERSE",
+          "CHORUS",
+          "BRIDGE",
+          "SOLO"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of rock venue",
+        "words": [
+          "ARENA",
+          "CLUB",
+          "THEATER",
+          "STADIUM"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to scatter'",
+        "words": [
+          "STREW",
+          "SPRINKLE",
+          "DISPERSE",
+          "SPLAY"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ solo",
+        "words": [
+          "GUITAR",
+          "DRUM",
+          "BASS",
+          "HAN"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_005",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Iconic rock instruments",
+        "words": [
+          "GIBSON",
+          "FENDER",
+          "MARSHALL",
+          "LUDWIG"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Rock band member roles",
+        "words": [
+          "VOCALIST",
+          "BASSIST",
+          "DRUMMER",
+          "ROADIE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things in a greenhouse",
+        "words": [
+          "SEEDLING",
+          "POTTING",
+          "COMPOST",
+          "TRELLIS"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ roll",
+        "words": [
+          "ROCK",
+          "DRUM",
+          "BARREL",
+          "EGG"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_006",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Rock album formats",
+        "words": [
+          "VINYL",
+          "CASSETTE",
+          "DISC",
+          "DIGITAL"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Guitar playing techniques",
+        "words": [
+          "STRUM",
+          "PICK",
+          "SLIDE",
+          "HAMMER"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to drift'",
+        "words": [
+          "FLOAT",
+          "GLIDE",
+          "COAST",
+          "CRUISE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ track",
+        "words": [
+          "FAST",
+          "BACK",
+          "SIDE",
+          "SOUND"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_007",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Rock music decades",
+        "words": [
+          "FIFTIES",
+          "SIXTIES",
+          "SEVENTIES",
+          "EIGHTIES"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Things on a stage",
+        "words": [
+          "SPOTLIGHT",
+          "BACKDROP",
+          "RISER",
+          "CURTAIN"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Types of stew",
+        "words": [
+          "GUMBO",
+          "RAGOUT",
+          "CHOWDER",
+          "BISQUE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ light",
+        "words": [
+          "SPOT",
+          "LIME",
+          "FLASH",
+          "GREEN"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_008",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Rock lyric themes",
+        "words": [
+          "REBELLION",
+          "FREEDOM",
+          "LOVE",
+          "ANGST"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Amplifier settings",
+        "words": [
+          "GAIN",
+          "TREBLE",
+          "VOLUME",
+          "BASS"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a farm stand",
+        "words": [
+          "CIDER",
+          "SQUASH",
+          "PEACHES",
+          "HONEY"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ tone",
+        "words": [
+          "RING",
+          "DIAL",
+          "OVER",
+          "UNDER"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_009",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Rock festival names (words)",
+        "words": [
+          "BONNAROO",
+          "OZZFEST",
+          "WARPED",
+          "DOWNLOAD"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Things a roadie does",
+        "words": [
+          "LOAD",
+          "TUNE",
+          "CABLE",
+          "SETUP"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to taunt'",
+        "words": [
+          "MOCK",
+          "SCOFF",
+          "JEER",
+          "HECKLE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Grand ___",
+        "words": [
+          "JURY",
+          "PIANO",
+          "PRIX",
+          "CANYON"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_010",
+    "difficulty_tier": "easy",
+    "categories": [
+      {
+        "label": "Types of rock performance",
+        "words": [
+          "ACOUSTIC",
+          "ELECTRIC",
+          "UNPLUGGED",
+          "PLUGGED"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Rock documentary terms",
+        "words": [
+          "FOOTAGE",
+          "ARCHIVE",
+          "BACKSTAGE",
+          "MONTAGE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things on a bicycle",
+        "words": [
+          "SPOKE",
+          "PEDAL",
+          "FENDER",
+          "BRAKE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ record",
+        "words": [
+          "WORLD",
+          "TRACK",
+          "VINYL",
+          "BROKEN"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_011",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Types of guitar",
+        "words": [
+          "ACOUSTIC",
+          "ELECTRIC",
+          "CLASSICAL",
+          "STEEL"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Rock production terms",
+        "words": [
+          "OVERDUB",
+          "MIXDOWN",
+          "MASTER",
+          "BOUNCE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to falter'",
+        "words": [
+          "BUCKLE",
+          "CRUMBLE",
+          "WOBBLE",
+          "STUMBLE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a hair style",
+        "words": [
+          "MOHAWK",
+          "MULLET",
+          "FADE",
+          "CREW"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_012",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Rock band formation terms",
+        "words": [
+          "AUDITION",
+          "LINEUP",
+          "REPLACE",
+          "REUNION"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Distortion pedal types",
+        "words": [
+          "FUZZ",
+          "OVERDRIVE",
+          "CRUNCH",
+          "BOOST"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a wedding",
+        "words": [
+          "BOUQUET",
+          "ALTAR",
+          "VEIL",
+          "TOAST"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden gem inside",
+        "words": [
+          "JADED",
+          "AMBERJACK",
+          "OPALINE",
+          "PEARLY"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_013",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Rock vocal techniques",
+        "words": [
+          "FALSETTO",
+          "GROWL",
+          "SCREAM",
+          "WHISPER"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Guitar string names",
+        "words": [
+          "HIGH",
+          "LOW",
+          "OPEN",
+          "WOUND"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to celebrate'",
+        "words": [
+          "REJOICE",
+          "REVEL",
+          "TOAST",
+          "FEAST"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ note",
+        "words": [
+          "WHOLE",
+          "HALF",
+          "QUARTER",
+          "GRACE"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_014",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Rock hall of fame criteria",
+        "words": [
+          "INFLUENCE",
+          "LEGACY",
+          "CATALOG",
+          "IMPACT"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Things in a mosh pit",
+        "words": [
+          "CROWD",
+          "SURGE",
+          "WALL",
+          "CIRCLE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to fortify'",
+        "words": [
+          "BUTTRESS",
+          "BOLSTER",
+          "BRACE",
+          "SHORE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden color inside",
+        "words": [
+          "GREENLY",
+          "RUSTLE",
+          "TANGENT",
+          "GOLDEN"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_015",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Rock music key signatures",
+        "words": [
+          "MAJOR",
+          "MINOR",
+          "SHARP",
+          "FLAT"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of rock tour",
+        "words": [
+          "FAREWELL",
+          "WORLD",
+          "REUNION",
+          "SUMMER"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things in a clock tower",
+        "words": [
+          "PENDULUM",
+          "BELL",
+          "GEAR",
+          "CHIME"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden planet inside",
+        "words": [
+          "MARSHY",
+          "HEARTH",
+          "SATURNINE",
+          "PLUTOCRAT"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_016",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Classic rock radio terms",
+        "words": [
+          "AIRPLAY",
+          "ROTATION",
+          "SINGLE",
+          "REQUEST"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Rock fashion items",
+        "words": [
+          "LEATHER",
+          "DENIM",
+          "STUD",
+          "PATCH"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to quash'",
+        "words": [
+          "SUPPRESS",
+          "SQUELCH",
+          "SMOTHER",
+          "QUELL"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ jacket",
+        "words": [
+          "LIFE",
+          "DUST",
+          "STRAIGHT",
+          "YELLOW"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_017",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Drum techniques",
+        "words": [
+          "FILL",
+          "BLAST",
+          "ROLL",
+          "FLAM"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Rock band breakup reasons",
+        "words": [
+          "CREATIVE",
+          "PERSONAL",
+          "LEGAL",
+          "BURNOUT"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a dock",
+        "words": [
+          "PIER",
+          "WHARF",
+          "BOLLARD",
+          "JETTY"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden bird inside",
+        "words": [
+          "CROWBAR",
+          "EMULATE",
+          "WRENCH",
+          "HAWKING"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_018",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Things backstage",
+        "words": [
+          "RIDER",
+          "PASS",
+          "CATERING",
+          "DRESSING"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Rock guitar tuning types",
+        "words": [
+          "STANDARD",
+          "DROP",
+          "OPEN",
+          "HALF"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to meander'",
+        "words": [
+          "RAMBLE",
+          "STROLL",
+          "SAUNTER",
+          "AMBLE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ room",
+        "words": [
+          "GREEN",
+          "DARK",
+          "BATH",
+          "SHOW"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_019",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Rock power ballad elements",
+        "words": [
+          "LIGHTER",
+          "CRESCENDO",
+          "ANTHEM",
+          "SWELL"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of rock cover",
+        "words": [
+          "TRIBUTE",
+          "PARODY",
+          "ACOUSTIC",
+          "MASHUP"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things in a garden",
+        "words": [
+          "HEDGE",
+          "PERGOLA",
+          "PATIO",
+          "MULCH"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ mate",
+        "words": [
+          "CHECK",
+          "ROOM",
+          "STALE",
+          "PLAY"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_020",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Rock recording studio gear",
+        "words": [
+          "CONSOLE",
+          "REEL",
+          "BOOTH",
+          "PATCH"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Concert crowd actions",
+        "words": [
+          "MOSH",
+          "CHANT",
+          "WAVE",
+          "SURGE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to tremble'",
+        "words": [
+          "QUAKE",
+          "SHIVER",
+          "QUIVER",
+          "TREMOR"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden country inside",
+        "words": [
+          "WOMANLY",
+          "INCUBATE",
+          "PERUSE",
+          "MALIGNED"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_021",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Rock music video tropes",
+        "words": [
+          "MONTAGE",
+          "CONCERT",
+          "DESERT",
+          "ROOFTOP"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Bass guitar terms",
+        "words": [
+          "SLAP",
+          "PLUCK",
+          "FRETLESS",
+          "GROOVE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things with a ring",
+        "words": [
+          "SATURN",
+          "ONION",
+          "CIRCUS",
+          "BINDER"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ pool",
+        "words": [
+          "CAR",
+          "GENE",
+          "WHIRL",
+          "DEAD"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_022",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Rock band name patterns",
+        "words": [
+          "ANIMAL",
+          "COLOR",
+          "NUMBER",
+          "PLACE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Sound engineer terms",
+        "words": [
+          "MIXING",
+          "PANNING",
+          "CLIPPING",
+          "FEEDBACK"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to exhaust'",
+        "words": [
+          "DEPLETE",
+          "DRAIN",
+          "SAP",
+          "FATIGUE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden tree inside",
+        "words": [
+          "OAKEN",
+          "BASHFUL",
+          "HELMET",
+          "FIRKIN"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_023",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Rock album art elements",
+        "words": [
+          "LOGO",
+          "PORTRAIT",
+          "GATEFOLD",
+          "INSERT"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of rock riff",
+        "words": [
+          "PALM",
+          "BLUES",
+          "CHROMATIC",
+          "PENTATONIC"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to polish'",
+        "words": [
+          "BUFF",
+          "BURNISH",
+          "GLOSS",
+          "HONE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ chord",
+        "words": [
+          "POWER",
+          "OPEN",
+          "BAR",
+          "VOCAL"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_024",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Rock critic vocabulary",
+        "words": [
+          "SEMINAL",
+          "VISCERAL",
+          "ANTHEMIC",
+          "TRANSCEND"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Tour bus essentials",
+        "words": [
+          "BUNK",
+          "LOUNGE",
+          "KITCHEN",
+          "DRIVER"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a marina",
+        "words": [
+          "HULL",
+          "BOOM",
+          "MAST",
+          "KEEL"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ break",
+        "words": [
+          "JAIL",
+          "WIND",
+          "HEART",
+          "DAY"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_025",
+    "difficulty_tier": "medium",
+    "categories": [
+      {
+        "label": "Rock genre prefixes",
+        "words": [
+          "POST",
+          "NEO",
+          "ALT",
+          "PROTO"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Vinyl record terms",
+        "words": [
+          "GROOVE",
+          "PRESSING",
+          "GATEFOLD",
+          "SLEEVE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to enchant'",
+        "words": [
+          "BEWITCH",
+          "CHARM",
+          "BEGUILE",
+          "ENTRANCE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden month inside",
+        "words": [
+          "NOVICE",
+          "AUGMENT",
+          "MARCHING",
+          "DISMAY"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_026",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Rock guitar effects",
+        "words": [
+          "WHAMMY",
+          "PHASER",
+          "FLANGER",
+          "TREMOLO"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Things destroyed on stage",
+        "words": [
+          "GUITAR",
+          "DRUM",
+          "MONITOR",
+          "CHAIR"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to shatter'",
+        "words": [
+          "SMASH",
+          "FRACTURE",
+          "SPLINTER",
+          "DEMOLISH"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden instrument inside",
+        "words": [
+          "SHARPIE",
+          "ORGANIC",
+          "DISSOLUTE",
+          "PIPETTE"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_027",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Punk rock ethos words",
+        "words": [
+          "ANARCHY",
+          "REVOLT",
+          "DISSENT",
+          "DEFIANCE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Rock recording techniques",
+        "words": [
+          "OVERDUB",
+          "SPLICE",
+          "PUNCH",
+          "TRACK"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a rodeo",
+        "words": [
+          "LASSO",
+          "BRONCO",
+          "CHAPS",
+          "BUCKLE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden body part inside",
+        "words": [
+          "WRISTED",
+          "ELBOWED",
+          "HIPSTER",
+          "ANKLET"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_028",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Rock band dynamic terms",
+        "words": [
+          "FRONTMAN",
+          "SIDEMAN",
+          "SESSION",
+          "BACKING"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of rock venue sound",
+        "words": [
+          "REVERB",
+          "ECHO",
+          "FEEDBACK",
+          "ACOUSTIC"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to overwhelm'",
+        "words": [
+          "SWAMP",
+          "ENGULF",
+          "INUNDATE",
+          "DELUGE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden car brand inside",
+        "words": [
+          "OXFORD",
+          "AUDIBLE",
+          "MINISTER",
+          "JEEPERS"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_029",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Heavy metal subgenres",
+        "words": [
+          "THRASH",
+          "DOOM",
+          "BLACK",
+          "DEATH"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Rock album review words",
+        "words": [
+          "MASTERWORK",
+          "LANDMARK",
+          "OPUS",
+          "TRIUMPH"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to captivate'",
+        "words": [
+          "MESMERIZE",
+          "ENTHRALL",
+          "RIVET",
+          "GRIP"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a card game",
+        "words": [
+          "SNAP",
+          "SPIT",
+          "WAR",
+          "SPEED"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_030",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Rock lifestyle cliches",
+        "words": [
+          "GROUPIE",
+          "EXCESS",
+          "TRASHED",
+          "WRECKED"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Music theory terms",
+        "words": [
+          "OCTAVE",
+          "INTERVAL",
+          "HARMONY",
+          "TEMPO"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things in a vineyard",
+        "words": [
+          "GRAPE",
+          "VINE",
+          "BARREL",
+          "CORK"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden vegetable inside",
+        "words": [
+          "ACORN",
+          "SLEEKLY",
+          "BEETLE",
+          "PEACHY"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_031",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Rock drum patterns",
+        "words": [
+          "SHUFFLE",
+          "SWING",
+          "BLAST",
+          "GROOVE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Stage tech equipment",
+        "words": [
+          "RIGGING",
+          "TRUSS",
+          "DIMMER",
+          "FOGGER"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to demolish'",
+        "words": [
+          "RAZE",
+          "LEVEL",
+          "FLATTEN",
+          "GUT"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden sport inside",
+        "words": [
+          "GOLFING",
+          "POLOIST",
+          "UNBOXING",
+          "CRICKETER"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_032",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Rock band contract terms",
+        "words": [
+          "ADVANCE",
+          "ROYALTY",
+          "RECOUP",
+          "LICENSE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of rock anthem element",
+        "words": [
+          "CHANT",
+          "STOMP",
+          "CLAP",
+          "FIST"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to provoke'",
+        "words": [
+          "GOAD",
+          "INCITE",
+          "INFLAME",
+          "NEEDLE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden Greek letter inside",
+        "words": [
+          "CHIPMUNK",
+          "ALPHABET",
+          "DETAIN",
+          "MUFFLE"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_033",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Concept album themes",
+        "words": [
+          "DYSTOPIA",
+          "JOURNEY",
+          "OPERA",
+          "EXILE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Rock photographer terms",
+        "words": [
+          "CANDID",
+          "PRESS",
+          "ACCESS",
+          "LENS"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a construction site",
+        "words": [
+          "SCAFFOLD",
+          "GIRDER",
+          "CEMENT",
+          "CRANE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden animal inside",
+        "words": [
+          "SCOWLING",
+          "RAMPANT",
+          "FOXHOUND",
+          "CANTATA"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_034",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Rock guitar legend traits",
+        "words": [
+          "SHRED",
+          "SUSTAIN",
+          "VIBRATO",
+          "LEGATO"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of rock setlist",
+        "words": [
+          "OPENER",
+          "CLOSER",
+          "DEEP",
+          "RARITY"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to ransack'",
+        "words": [
+          "PILLAGE",
+          "PLUNDER",
+          "LOOT",
+          "RAVAGE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden fruit inside",
+        "words": [
+          "DEPLUME",
+          "FIGMENT",
+          "PEARLY",
+          "LEMONADE"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_035",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Rock music journalism words",
+        "words": [
+          "REVIEW",
+          "PROFILE",
+          "FEATURE",
+          "EXPOSE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Concert rider demands",
+        "words": [
+          "CATERING",
+          "TOWELS",
+          "CANDLES",
+          "FLOWERS"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to wither'",
+        "words": [
+          "WILT",
+          "DROOP",
+          "SHRIVEL",
+          "LANGUISH"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a famous composer",
+        "words": [
+          "BACH",
+          "HANDEL",
+          "HOLST",
+          "ELGAR"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_036",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Rock radio station formats",
+        "words": [
+          "CLASSIC",
+          "ACTIVE",
+          "INDIE",
+          "COLLEGE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Acoustic guitar terms",
+        "words": [
+          "CAPO",
+          "STRUM",
+          "BODY",
+          "SADDLE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to bewilder'",
+        "words": [
+          "MYSTIFY",
+          "CONFOUND",
+          "NONPLUS",
+          "STYMIE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden month inside",
+        "words": [
+          "NOVICE",
+          "AUGMENT",
+          "MARCHING",
+          "DISMAY"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_037",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Types of rock tribute",
+        "words": [
+          "COVER",
+          "HOMAGE",
+          "SAMPLE",
+          "DEDICATE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Concert security terms",
+        "words": [
+          "BARRIER",
+          "WRISTBAND",
+          "PASS",
+          "FRISK"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a spa",
+        "words": [
+          "SAUNA",
+          "FACIAL",
+          "ROBE",
+          "STEAM"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ fly",
+        "words": [
+          "BUTTER",
+          "MAY",
+          "BAR",
+          "DRAGON"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_038",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Rock merchandise types",
+        "words": [
+          "SHIRT",
+          "POSTER",
+          "PATCH",
+          "VINYL"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of feedback (music)",
+        "words": [
+          "HOWL",
+          "SQUEAL",
+          "HISS",
+          "HUM"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to celebrate'",
+        "words": [
+          "REJOICE",
+          "REVEL",
+          "TOAST",
+          "FEAST"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden planet inside",
+        "words": [
+          "MARSHY",
+          "HEARTH",
+          "SATURNINE",
+          "PLUTOCRAT"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_039",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Rock rhythm section terms",
+        "words": [
+          "POCKET",
+          "LOCK",
+          "GROOVE",
+          "TIGHT"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Band member departure terms",
+        "words": [
+          "FIRED",
+          "QUIT",
+          "HIATUS",
+          "REPLACE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things that drip",
+        "words": [
+          "FAUCET",
+          "ICICLE",
+          "CANDLE",
+          "PAINT"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden color inside",
+        "words": [
+          "GREENLY",
+          "RUSTLE",
+          "TANGENT",
+          "GOLDEN"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_040",
+    "difficulty_tier": "hard",
+    "categories": [
+      {
+        "label": "Rock lyric imagery",
+        "words": [
+          "HIGHWAY",
+          "THUNDER",
+          "FIRE",
+          "STORM"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of rock compilation",
+        "words": [
+          "GREATEST",
+          "RARITIES",
+          "ARCHIVE",
+          "BOXSET"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to galvanize'",
+        "words": [
+          "ELECTRIFY",
+          "INVIGORATE",
+          "ENERGIZE",
+          "CATALYZE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden bird inside",
+        "words": [
+          "CROWBAR",
+          "EMULATE",
+          "WRENCH",
+          "HAWKING"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_041",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Rock mixing console channels",
+        "words": [
+          "VOCAL",
+          "GUITAR",
+          "DRUM",
+          "BASS"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of rock hiatus reason",
+        "words": [
+          "BURNOUT",
+          "LAWSUIT",
+          "REHAB",
+          "SOLO"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to obliterate'",
+        "words": [
+          "ANNIHILATE",
+          "ERADICATE",
+          "DECIMATE",
+          "DEMOLISH"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a fish",
+        "words": [
+          "SOLE",
+          "PIKE",
+          "CHAR",
+          "DACE"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_042",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Prog rock elements",
+        "words": [
+          "CONCEPT",
+          "SUITE",
+          "PASSAGE",
+          "MOVEMENT"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Rock awards (words)",
+        "words": [
+          "GRAMMY",
+          "KERRANG",
+          "MERCURY",
+          "BRIT"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things that can be 'double'",
+        "words": [
+          "AGENT",
+          "DECKER",
+          "EDGED",
+          "DUTCH"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden country inside",
+        "words": [
+          "WOMANLY",
+          "INCUBATE",
+          "PERUSE",
+          "MALIGNED"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_043",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Rock drumming legends (last names as words)",
+        "words": [
+          "MOON",
+          "WARD",
+          "BELL",
+          "BAKER"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of rock festival stage",
+        "words": [
+          "MAIN",
+          "SECOND",
+          "ACOUSTIC",
+          "EMERGING"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to examine'",
+        "words": [
+          "PROBE",
+          "INSPECT",
+          "SURVEY",
+          "SCAN"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden gem inside",
+        "words": [
+          "JADED",
+          "AMBERJACK",
+          "OPALINE",
+          "PEARLY"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_044",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Rock lyric cliches",
+        "words": [
+          "HIGHWAY",
+          "MIDNIGHT",
+          "DEVIL",
+          "THUNDER"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Guitar amp settings",
+        "words": [
+          "GAIN",
+          "TREBLE",
+          "CHANNEL",
+          "STANDBY"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to exhaust'",
+        "words": [
+          "DEPLETE",
+          "DRAIN",
+          "SAP",
+          "FATIGUE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden car brand inside",
+        "words": [
+          "OXFORD",
+          "AUDIBLE",
+          "MINISTER",
+          "JEEPERS"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_045",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Rock supergroup dynamics",
+        "words": [
+          "CLASH",
+          "EGO",
+          "CREATIVE",
+          "TENSION"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Studio recording jargon",
+        "words": [
+          "TAKE",
+          "PUNCH",
+          "COMP",
+          "BOUNCE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to drift'",
+        "words": [
+          "FLOAT",
+          "GLIDE",
+          "COAST",
+          "CRUISE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Also a punctuation mark",
+        "words": [
+          "DASH",
+          "COLON",
+          "SLASH",
+          "PERIOD"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_046",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Rock documentary film types",
+        "words": [
+          "CONCERT",
+          "PROFILE",
+          "ARCHIVE",
+          "MONTAGE"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of rock record deal",
+        "words": [
+          "STANDARD",
+          "THREE",
+          "MAJOR",
+          "INDIE"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to scatter'",
+        "words": [
+          "STREW",
+          "SPRINKLE",
+          "DISPERSE",
+          "SPLAY"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "___ house",
+        "words": [
+          "GREEN",
+          "STORE",
+          "BIRD",
+          "PENT"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_047",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Rock band naming conventions",
+        "words": [
+          "DEFINITE",
+          "PLURAL",
+          "SINGLE",
+          "ABSTRACT"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Things in a guitar case",
+        "words": [
+          "STRAP",
+          "PICK",
+          "CAPO",
+          "TUNER"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to overwhelm'",
+        "words": [
+          "SWAMP",
+          "ENGULF",
+          "INUNDATE",
+          "DELUGE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden tree inside",
+        "words": [
+          "OAKEN",
+          "BASHFUL",
+          "HELMET",
+          "FIRKIN"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_048",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Rock stage banter words",
+        "words": [
+          "HELLO",
+          "LOUDER",
+          "READY",
+          "TOGETHER"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of rock reissue",
+        "words": [
+          "REMASTER",
+          "DELUXE",
+          "EXPANDED",
+          "LIMITED"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Things at a circus",
+        "words": [
+          "TRAPEZE",
+          "STILTS",
+          "CANNON",
+          "JUGGLER"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden vegetable inside",
+        "words": [
+          "ACORN",
+          "SLEEKLY",
+          "BEETLE",
+          "PEACHY"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_049",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Rock influence chain genres",
+        "words": [
+          "BLUES",
+          "COUNTRY",
+          "FOLK",
+          "GOSPEL"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Iconic rock stage moves",
+        "words": [
+          "WINDMILL",
+          "SLIDE",
+          "DUCK",
+          "LEAP"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to ransack'",
+        "words": [
+          "PILLAGE",
+          "PLUNDER",
+          "LOOT",
+          "RAVAGE"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden body part inside",
+        "words": [
+          "WRISTED",
+          "ELBOWED",
+          "HIPSTER",
+          "ANKLET"
+        ],
+        "difficulty": 4
+      }
+    ]
+  },
+  {
+    "id": "rock_050",
+    "difficulty_tier": "expert",
+    "categories": [
+      {
+        "label": "Rock legacy debate terms",
+        "words": [
+          "ICONIC",
+          "CLASSIC",
+          "SEMINAL",
+          "TIMELESS"
+        ],
+        "difficulty": 1
+      },
+      {
+        "label": "Types of rock reunion",
+        "words": [
+          "ORIGINAL",
+          "PARTIAL",
+          "SURPRISE",
+          "TOURING"
+        ],
+        "difficulty": 2
+      },
+      {
+        "label": "Words meaning 'to celebrate'",
+        "words": [
+          "REJOICE",
+          "REVEL",
+          "TOAST",
+          "FEAST"
+        ],
+        "difficulty": 3
+      },
+      {
+        "label": "Hidden month inside",
+        "words": [
+          "NOVICE",
+          "AUGMENT",
+          "MARCHING",
+          "DISMAY"
+        ],
+        "difficulty": 4
+      }
+    ]
+  }
+]
