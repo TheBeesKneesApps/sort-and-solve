@@ -6,7 +6,6 @@ import mobileAds, {
 
 export const initializeAds = async (): Promise<void> => {
   try {
-    // 1. Request iOS tracking permission
     if (Platform.OS === 'ios') {
       try {
         const { requestTrackingPermissionsAsync } = require('expo-tracking-transparency');
@@ -16,7 +15,6 @@ export const initializeAds = async (): Promise<void> => {
       }
     }
 
-    // 2. Handle UMP consent
     const consentInfo = await AdsConsent.requestInfoUpdate();
     if (
       consentInfo.isConsentFormAvailable &&
@@ -25,7 +23,6 @@ export const initializeAds = async (): Promise<void> => {
       await AdsConsent.showForm();
     }
 
-    // 3. Initialize mobile ads
     await mobileAds().initialize();
   } catch {
     // Ads initialization failed — continue without ads

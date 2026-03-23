@@ -30,9 +30,7 @@ export const AppBannerAd: React.FC<AppBannerAdProps> = ({ unitId }) => {
         unitId={unitId}
         size={BannerAdSize.ANCHORED_ADAPTIVE_BANNER}
         requestOptions={{ requestNonPersonalizedAdsOnly: false }}
-        onAdFailedToLoad={() => {
-          // Silently fail — never block UI
-        }}
+        onAdFailedToLoad={() => {}}
       />
     </View>
   );
