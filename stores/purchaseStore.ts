@@ -1,4 +1,4 @@
-import { Alert } from 'react-native';
+import { Platform, Alert } from 'react-native';
 import { create } from 'zustand';
 import { IAP_SKUS, ALL_PRODUCT_SKUS, PACK_SKU_MAP, BUNDLE_PACKS } from '../config/iapConfig';
 import { useUserStore } from './userStore';
@@ -77,12 +77,12 @@ export const usePurchaseStore = create<PurchaseState>((set, get) => ({
     try {
       await RNIap.initConnection();
 
-      const products = await RNIap.getProducts({ skus: ALL_PRODUCT_SKUS });
+      const products = await RNIap.fetchProducts({ skus: ALL_PRODUCT_SKUS });
       if (products) {
         set({
           products: products.map((p) => ({
-            productId: p.productId,
-            localizedPrice: p.localizedPrice,
+            productId: p.id,
+            localizedPrice: p.displayPrice,
           })),
           initialized: true,
         });
@@ -93,7 +93,6 @@ export const usePurchaseStore = create<PurchaseState>((set, get) => ({
         const pending = await RNIap.getAvailablePurchases();
         if (pending) {
           for (const purchase of pending) {
-            // Only grant non-consumables on startup recovery
             if (!CONSUMABLE_SKUS.has(purchase.productId)) {
               grantPurchase(purchase.productId);
             }
@@ -104,14 +103,12 @@ export const usePurchaseStore = create<PurchaseState>((set, get) => ({
           }
         }
       } catch {
-        // Pending transaction check failed — not critical
+        // Pending transaction check failed
       }
 
       purchaseUpdateSub = RNIap.purchaseUpdatedListener(async (purchase) => {
-        // Check transaction state — don't grant for pending/deferred (Ask to Buy)
         const state = (purchase as { transactionStateIOS?: number }).transactionStateIOS;
         if (state === 0) {
-          // Purchasing/deferred — don't grant yet
           Alert.alert(
             'Purchase pending',
             'Your purchase is waiting for approval. You\'ll receive your items once approved.'
@@ -136,12 +133,8 @@ export const usePurchaseStore = create<PurchaseState>((set, get) => ({
 
       purchaseErrorSub = RNIap.purchaseErrorListener((error) => {
         set({ purchasing: false });
-        // Don't show alert for user cancellation
-        if (error.code === 'E_USER_CANCELLED') return;
-        Alert.alert(
-          'Purchase failed',
-          'Something went wrong. Please try again.'
-        );
+        if (error.code === 'user-cancelled') return;
+        Alert.alert('Purchase failed', 'Something went wrong. Please try again.');
       });
     } catch {
       // IAP not available
@@ -160,7 +153,14 @@ export const usePurchaseStore = create<PurchaseState>((set, get) => ({
 
     set({ purchasing: true });
     try {
-      await RNIap.requestPurchase({ sku });
+      await RNIap.requestPurchase({
+        request: Platform.select({
+          ios: { apple: { sku } },
+          android: { google: { skus: [sku] } },
+          default: { apple: { sku } },
+        }),
+        type: 'in-app',
+      });
     } catch {
       set({ purchasing: false });
       Alert.alert('Purchase failed', 'Something went wrong. Please try again.');
@@ -175,7 +175,6 @@ export const usePurchaseStore = create<PurchaseState>((set, get) => ({
       if (purchases && purchases.length > 0) {
         let restoredCount = 0;
         for (const p of purchases) {
-          // Only restore non-consumables
           if (!CONSUMABLE_SKUS.has(p.productId)) {
             grantPurchase(p.productId);
             restoredCount++;

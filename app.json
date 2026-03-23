@@ -54,7 +54,7 @@
         }
       ]
     ],
-    "newArchEnabled": false,
+    "newArchEnabled": true,
     "extra": {
       "router": {},
       "eas": {
