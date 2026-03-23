@@ -21,7 +21,7 @@ import { shared } from '../constants/colors';
 import { APP_CONFIG } from '../config/appConfig';
 import { getDailyPuzzleForDate } from '../utils/dailyPuzzle';
 
-const ARCHIVE_PASS_FALLBACK_PRICE = '$4.99';
+const ARCHIVE_PASS_FALLBACK = 'Buy';
 
 export default function ArchiveScreen() {
   const router = useRouter();
@@ -111,7 +111,7 @@ export default function ArchiveScreen() {
       hitSlop={8}
     >
       <Text style={styles.passButtonText}>
-        Archive Pass {getPrice(IAP_SKUS.archivePass) || ARCHIVE_PASS_FALLBACK_PRICE}
+        Archive Pass {getPrice(IAP_SKUS.archivePass) || ARCHIVE_PASS_FALLBACK}
       </Text>
     </Pressable>
   );

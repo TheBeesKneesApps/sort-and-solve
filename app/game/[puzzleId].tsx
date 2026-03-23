@@ -17,6 +17,7 @@ import { useUserStore } from '../../stores/userStore';
 import { getPuzzleById } from '../../utils/puzzleLoader';
 import { shareResult } from '../../utils/share';
 import { triggerHaptic } from '../../utils/haptics';
+import { playSound } from '../../utils/sounds';
 import { useTheme } from '../../contexts/ThemeContext';
 import { useInterstitialAd } from '../../hooks/useInterstitialAd';
 import { useRewardedAd } from '../../hooks/useRewardedAd';
@@ -74,6 +75,7 @@ export default function GameScreen() {
   const useUserHint = useUserStore((s) => s.useHint);
   const addHints = useUserStore((s) => s.addHints);
   const purchaseIAP = usePurchaseStore((s) => s.purchase);
+  const getPrice = usePurchaseStore((s) => s.getPrice);
 
   useEffect(() => {
     if (!puzzleId) return;
@@ -91,6 +93,7 @@ export default function GameScreen() {
   useEffect(() => {
     if (gameStatus === 'won' && puzzleId) {
       triggerHaptic('success');
+      playSound('win');
       const timeS = endTime && startTime ? Math.floor((endTime - startTime) / 1000) : 0;
       completePuzzle(puzzleId, isDaily === 'true', {
         mistakes: APP_CONFIG.maxLives - remainingLives,
@@ -133,8 +136,10 @@ export default function GameScreen() {
     const result = submitGuess();
     if (result.result === 'correct') {
       triggerHaptic('success');
+      playSound('correct');
     } else if (result.result === 'incorrect') {
       triggerHaptic('error');
+      playSound('wrong');
       setShakingWords(wordsBeforeSubmit);
       setTimeout(() => setShakingWords([]), 300);
     }
@@ -294,6 +299,7 @@ export default function GameScreen() {
           onShuffle={() => {
             shuffleWords();
             triggerHaptic('light');
+            playSound('shuffle');
           }}
           onDeselect={deselectAll}
           onSubmit={handleSubmit}
@@ -305,6 +311,8 @@ export default function GameScreen() {
       {showHintModal && (
         <HintModal
           adLoaded={hintAdLoaded}
+          hints10Price={getPrice(IAP_SKUS.hints10)}
+          hints25Price={getPrice(IAP_SKUS.hints25)}
           onWatchAd={() => {
             showHintAd(() => {
               addHints(1);

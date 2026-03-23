@@ -108,7 +108,7 @@ export default function SettingsScreen() {
               <Text style={[styles.purchased, { color: shared.success }]}>Purchased</Text>
             ) : (
               <Pressable onPress={() => purchase(IAP_SKUS.archivePass)} style={[styles.priceBtn, { backgroundColor: shared.accent }]}>
-                <Text style={styles.priceText}>{getPrice(IAP_SKUS.archivePass) || '$4.99'}</Text>
+                <Text style={styles.priceText}>{getPrice(IAP_SKUS.archivePass) || 'Buy'}</Text>
               </Pressable>
             )}
           </View>
@@ -122,7 +122,7 @@ export default function SettingsScreen() {
               </Text>
             </View>
             <Pressable onPress={() => purchase(IAP_SKUS.streakFreeze3)} style={[styles.priceBtn, { backgroundColor: shared.accent }]}>
-              <Text style={styles.priceText}>{getPrice(IAP_SKUS.streakFreeze3) || '$0.99'}</Text>
+              <Text style={styles.priceText}>{getPrice(IAP_SKUS.streakFreeze3) || 'Buy'}</Text>
             </Pressable>
           </View>
           <View style={[styles.row, styles.rowBorder, { borderTopColor: colors.divider }]}>
@@ -175,31 +175,6 @@ export default function SettingsScreen() {
               </Pressable>
             )
           )}
-        </View>
-
-        <Text style={[styles.sectionTitle, { color: colors.textTertiary }]}>MORE GAMES</Text>
-        <View style={[styles.group, { backgroundColor: colors.settingsGroupBg, borderColor: colors.cardBorder }]}>
-          {[
-            { name: 'Is It Worth It?', tag: 'See what things cost in hours', color: '#3B82F6' },
-            { name: 'Rate My Fridge', tag: 'AI roasts your refrigerator', color: '#2EAE7B' },
-            { name: 'Red Flag', tag: 'AI scans your conversations', color: '#E24B4A' },
-          ].map((app, i) => (
-            <Pressable
-              key={app.name}
-              style={[styles.appRow, i > 0 && styles.rowBorder, i > 0 && { borderTopColor: colors.divider }]}
-            >
-              <View style={[styles.appIcon, { backgroundColor: app.color }]}>
-                <Text style={styles.appIconText}>{app.name[0]}</Text>
-              </View>
-              <View style={styles.appInfo}>
-                <Text style={[styles.appName, { color: colors.text }]}>{app.name}</Text>
-                <Text style={[styles.appTag, { color: colors.textTertiary }]}>{app.tag}</Text>
-              </View>
-              <View style={[styles.getBtn, { backgroundColor: colors.priceBtnBg }]}>
-                <Text style={[styles.getText, { color: colors.text }]}>Get</Text>
-              </View>
-            </Pressable>
-          ))}
         </View>
 
         {devMode && (

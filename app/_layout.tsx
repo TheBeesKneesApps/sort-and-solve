@@ -5,6 +5,7 @@ import { ThemeProvider, useTheme } from '../contexts/ThemeContext';
 import { useUserStore } from '../stores/userStore';
 import { usePurchaseStore } from '../stores/purchaseStore';
 import { initializeAds } from '../utils/adInit';
+import { preloadSounds } from '../utils/sounds';
 
 const InnerLayout = () => {
   const hydrate = useUserStore((s) => s.hydrate);
@@ -16,6 +17,7 @@ const InnerLayout = () => {
     hydrate();
     initializeAds();
     initPurchases();
+    preloadSounds();
     return () => cleanupPurchases();
   }, [hydrate, initPurchases, cleanupPurchases]);
 

@@ -5,6 +5,8 @@ import { shared } from '../../constants/colors';
 
 interface HintModalProps {
   adLoaded: boolean;
+  hints10Price: string;
+  hints25Price: string;
   onWatchAd: () => void;
   onBuyHints10: () => void;
   onBuyHints25: () => void;
@@ -13,6 +15,8 @@ interface HintModalProps {
 
 export const HintModal: React.FC<HintModalProps> = ({
   adLoaded,
+  hints10Price,
+  hints25Price,
   onWatchAd,
   onBuyHints10,
   onBuyHints25,
@@ -43,23 +47,27 @@ export const HintModal: React.FC<HintModalProps> = ({
           </Text>
         </Pressable>
 
-        <Pressable
-          style={[styles.option, { backgroundColor: colors.priceBtnBg }]}
-          onPress={onBuyHints10}
-        >
-          <Text style={[styles.optionText, { color: colors.text }]}>
-            Buy 10 hints — $2.99
-          </Text>
-        </Pressable>
+        {hints10Price ? (
+          <Pressable
+            style={[styles.option, { backgroundColor: colors.priceBtnBg }]}
+            onPress={onBuyHints10}
+          >
+            <Text style={[styles.optionText, { color: colors.text }]}>
+              Buy 10 hints \u2014 {hints10Price}
+            </Text>
+          </Pressable>
+        ) : null}
 
-        <Pressable
-          style={[styles.option, { backgroundColor: colors.priceBtnBg }]}
-          onPress={onBuyHints25}
-        >
-          <Text style={[styles.optionText, { color: colors.text }]}>
-            Buy 25 hints — $4.99
-          </Text>
-        </Pressable>
+        {hints25Price ? (
+          <Pressable
+            style={[styles.option, { backgroundColor: colors.priceBtnBg }]}
+            onPress={onBuyHints25}
+          >
+            <Text style={[styles.optionText, { color: colors.text }]}>
+              Buy 25 hints \u2014 {hints25Price}
+            </Text>
+          </Pressable>
+        ) : null}
 
         <Pressable style={styles.dismissBtn} onPress={onDismiss}>
           <Text style={[styles.dismissText, { color: colors.textTertiary }]}>

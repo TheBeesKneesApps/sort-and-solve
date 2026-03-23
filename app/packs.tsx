@@ -102,7 +102,7 @@ export default function PacksScreen() {
                     </View>
                     <View style={[styles.priceBtn, { backgroundColor: colors.priceBtnBg }]}>
                       <Text style={[styles.priceText, { color: colors.text }]}>
-                        {unlocked ? 'Play' : (getPrice(PACK_SKU_MAP[pack.id]) || pack.price)}
+                        {unlocked ? 'Play' : (getPrice(PACK_SKU_MAP[pack.id]) || 'Buy')}
                       </Text>
                     </View>
                   </Pressable>
@@ -127,7 +127,7 @@ export default function PacksScreen() {
               Unlock everything
             </Text>
             <Text style={[styles.unlockAllSub, { color: colors.background, opacity: 0.5 }]}>
-              All packs, current & future {'\u00B7'} {getPrice(IAP_SKUS.unlockAll) || '$14.99'}
+              All packs, current & future {getPrice(IAP_SKUS.unlockAll) ? ` \u00B7 ${getPrice(IAP_SKUS.unlockAll)}` : ''}
             </Text>
           </Pressable>
         )}

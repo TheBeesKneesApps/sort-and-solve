@@ -9,6 +9,7 @@ import Animated, {
 } from 'react-native-reanimated';
 import { useTheme } from '../../contexts/ThemeContext';
 import { triggerHaptic } from '../../utils/haptics';
+import { playSound } from '../../utils/sounds';
 
 const AnimatedPressable = Animated.createAnimatedComponent(Pressable);
 
@@ -37,6 +38,7 @@ export const WordTile: React.FC<WordTileProps> = ({
       withSpring(1, { damping: 15, stiffness: 400 })
     );
     triggerHaptic('selection');
+    playSound('tap');
     onPress(word);
   }, [word, onPress, scale]);
 

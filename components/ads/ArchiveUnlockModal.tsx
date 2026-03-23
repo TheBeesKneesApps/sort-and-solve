@@ -5,6 +5,7 @@ import { shared } from '../../constants/colors';
 
 interface ArchiveUnlockModalProps {
   puzzleDate: string;
+  archivePassPrice: string;
   adLoaded: boolean;
   onWatchAd: () => void;
   onBuyArchivePass: () => void;
@@ -13,6 +14,7 @@ interface ArchiveUnlockModalProps {
 
 export const ArchiveUnlockModal: React.FC<ArchiveUnlockModalProps> = ({
   puzzleDate,
+  archivePassPrice,
   adLoaded,
   onWatchAd,
   onBuyArchivePass,
@@ -44,17 +46,19 @@ export const ArchiveUnlockModal: React.FC<ArchiveUnlockModalProps> = ({
           </Text>
         </Pressable>
 
-        <Pressable
-          style={[styles.passOption, { backgroundColor: colors.submitBg }]}
-          onPress={onBuyArchivePass}
-        >
-          <Text style={[styles.passTitle, { color: colors.submitText }]}>
-            Get Archive Pass
-          </Text>
-          <Text style={[styles.passSub, { color: colors.submitText, opacity: 0.6 }]}>
-            Ad-free + all past puzzles — $4.99
-          </Text>
-        </Pressable>
+        {archivePassPrice ? (
+          <Pressable
+            style={[styles.passOption, { backgroundColor: colors.submitBg }]}
+            onPress={onBuyArchivePass}
+          >
+            <Text style={[styles.passTitle, { color: colors.submitText }]}>
+              Get Archive Pass
+            </Text>
+            <Text style={[styles.passSub, { color: colors.submitText, opacity: 0.6 }]}>
+              Ad-free + all past puzzles \u2014 {archivePassPrice}
+            </Text>
+          </Pressable>
+        ) : null}
 
         <Pressable style={styles.dismissBtn} onPress={onDismiss}>
           <Text style={[styles.dismissText, { color: colors.textTertiary }]}>
