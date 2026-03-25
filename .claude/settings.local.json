@@ -40,7 +40,8 @@
       "Bash(eas:*)",
       "Bash(git add:*)",
       "Bash(git commit:*)",
-      "Bash(npm ci:*)"
+      "Bash(npm ci:*)",
+      "Bash(npm uninstall:*)"
     ]
   }
 }

@@ -56,9 +56,9 @@ const grantPurchase = (productId: string) => {
 let purchaseUpdateSub: { remove: () => void } | null = null;
 let purchaseErrorSub: { remove: () => void } | null = null;
 
-const getRNIap = async (): Promise<typeof import('react-native-iap') | null> => {
+const getIap = async (): Promise<typeof import('expo-iap') | null> => {
   try {
-    return await import('react-native-iap');
+    return await import('expo-iap');
   } catch {
     return null;
   }
@@ -71,13 +71,13 @@ export const usePurchaseStore = create<PurchaseState>((set, get) => ({
 
   init: async () => {
     if (get().initialized) return;
-    const RNIap = await getRNIap();
-    if (!RNIap) return;
+    const Iap = await getIap();
+    if (!Iap) return;
 
     try {
-      await RNIap.initConnection();
+      await Iap.initConnection();
 
-      const products = await RNIap.fetchProducts({ skus: ALL_PRODUCT_SKUS });
+      const products = await Iap.fetchProducts({ skus: ALL_PRODUCT_SKUS });
       if (products) {
         set({
           products: products.map((p) => ({
@@ -90,13 +90,13 @@ export const usePurchaseStore = create<PurchaseState>((set, get) => ({
 
       // Process any pending transactions from previous sessions
       try {
-        const pending = await RNIap.getAvailablePurchases();
+        const pending = await Iap.getAvailablePurchases();
         if (pending) {
           for (const purchase of pending) {
             if (!CONSUMABLE_SKUS.has(purchase.productId)) {
               grantPurchase(purchase.productId);
             }
-            await RNIap.finishTransaction({
+            await Iap.finishTransaction({
               purchase,
               isConsumable: CONSUMABLE_SKUS.has(purchase.productId),
             }).catch(() => {});
@@ -106,7 +106,7 @@ export const usePurchaseStore = create<PurchaseState>((set, get) => ({
         // Pending transaction check failed
       }
 
-      purchaseUpdateSub = RNIap.purchaseUpdatedListener(async (purchase) => {
+      purchaseUpdateSub = Iap.purchaseUpdatedListener((purchase) => {
         const state = (purchase as { transactionStateIOS?: number }).transactionStateIOS;
         if (state === 0) {
           Alert.alert(
@@ -119,19 +119,17 @@ export const usePurchaseStore = create<PurchaseState>((set, get) => ({
 
         grantPurchase(purchase.productId);
 
-        try {
-          await RNIap.finishTransaction({
-            purchase,
-            isConsumable: CONSUMABLE_SKUS.has(purchase.productId),
-          });
-        } catch (err) {
+        Iap.finishTransaction({
+          purchase,
+          isConsumable: CONSUMABLE_SKUS.has(purchase.productId),
+        }).catch((err) => {
           console.warn('Failed to finish transaction:', err);
-        }
+        });
 
         set({ purchasing: false });
       });
 
-      purchaseErrorSub = RNIap.purchaseErrorListener((error) => {
+      purchaseErrorSub = Iap.purchaseErrorListener((error) => {
         set({ purchasing: false });
         if (error.code === 'user-cancelled') return;
         Alert.alert('Purchase failed', 'Something went wrong. Please try again.');
@@ -143,8 +141,8 @@ export const usePurchaseStore = create<PurchaseState>((set, get) => ({
 
   purchase: async (sku: string) => {
     if (get().purchasing) return;
-    const RNIap = await getRNIap();
-    if (!RNIap) return;
+    const Iap = await getIap();
+    if (!Iap) return;
 
     if (!get().initialized) {
       Alert.alert('Store not ready', 'Please try again in a moment.');
@@ -153,7 +151,7 @@ export const usePurchaseStore = create<PurchaseState>((set, get) => ({
 
     set({ purchasing: true });
     try {
-      await RNIap.requestPurchase({
+      await Iap.requestPurchase({
         request: Platform.select({
           ios: { apple: { sku } },
           android: { google: { skus: [sku] } },
@@ -168,10 +166,11 @@ export const usePurchaseStore = create<PurchaseState>((set, get) => ({
   },
 
   restore: async () => {
-    const RNIap = await getRNIap();
-    if (!RNIap) return;
+    const Iap = await getIap();
+    if (!Iap) return;
     try {
-      const purchases = await RNIap.getAvailablePurchases();
+      await Iap.restorePurchases();
+      const purchases = await Iap.getAvailablePurchases();
       if (purchases && purchases.length > 0) {
         let restoredCount = 0;
         for (const p of purchases) {
@@ -202,6 +201,6 @@ export const usePurchaseStore = create<PurchaseState>((set, get) => ({
   cleanup: () => {
     purchaseUpdateSub?.remove();
     purchaseErrorSub?.remove();
-    getRNIap().then((RNIap) => RNIap?.endConnection().catch(() => {}));
+    getIap().then((Iap) => Iap?.endConnection().catch(() => {}));
   },
 }));
